@@ -165,7 +165,7 @@ define(["jquery", "underscore", "backbone", "util/appDirCommon", "workers/dataPo
                 });
                 var url = that.postParams.appdhost + "/darwin/#applicationOverviewPage:" + data.applicationId;
                 cu.log("ImportExportApp opening new application location: " + url);
-                window.open(url);
+                window.open(url, _self);
             }).fail(function (jqXHR, textStatus, errorThrown) {
                 cu.log("%cImportExportApp post to app dir returned status: " + jqXHR.status, "color:red; background-color:blue");
                 updateFormDisplay({
