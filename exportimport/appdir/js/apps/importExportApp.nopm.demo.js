@@ -58,6 +58,8 @@ define(["jquery", "underscore", "backbone", "util/appDirCommon", "workers/dataPo
             if (_.isUndefined(this.queryParams.uname)) missingValues.push("uname");
             if (_.isUndefined(this.queryParams.repo)) missingValues.push("repo");
             if (_.isUndefined(this.queryParams.targetFile)) missingValues.push("targetFile");
+            if (_.isUndefined(this.queryParams.branch)) missingValues.push("branch");
+
 
             if (missingValues.length > 0) {
                 var missingValuesString = missingValues.join(", ");
@@ -101,8 +103,7 @@ define(["jquery", "underscore", "backbone", "util/appDirCommon", "workers/dataPo
             });
 
             this.gitHubFileCollection =
-                new GitHubFileCollection({userName:this.queryParams.uname, repoName:this.queryParams.repo});
-
+                new GitHubFileCollection({userName:this.queryParams.uname, repoName:this.queryParams.repo, sha:this.queryParams.branch});
             // Fetch the tree collection from GitHub
             this.gitHubFileCollection.fetch({
                 parse:false,
