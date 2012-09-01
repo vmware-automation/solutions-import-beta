@@ -1,5 +1,5 @@
 /* The primary colors from design spec. */
-@font-face {
+/*@font-face {
   font-family: "PTSansRegular";
   src: url("../../fonts/PT-Sans/PTS55F-webfont.eot");
   src: url("../../fonts/PT-Sans/PTS55F-webfont.eot?#iefix") format("embedded-opentype"), url("../../fonts/PT-Sans/PTS55F-webfont.woff") format("woff"), url("../../fonts/PT-Sans/PTS55F-webfont.ttf") format("truetype"), url("../../fonts/PT-Sans/PTS55F-webfont.svg#PTSansRegular") format("svg");
@@ -21,7 +21,7 @@
   src: url("../../fonts/PT-Sans/PTC55F-webfont.eot?#iefix") format("embedded-opentype"), url("../../fonts/PT-Sans/PTC55F-webfont.woff") format("woff"), url("../../fonts/PT-Sans/PTC55F-webfont.ttf") format("truetype"), url("../../fonts/PT-Sans/PTC55F-webfont.svg#PTSansCaptionRegular") format("svg");
   font-weight: normal;
   font-style: normal;
-}
+}*/
 
 /**
  * @var {string} $prefix 
@@ -5807,7 +5807,7 @@ textarea.x-form-field {
   background: repeat-x 0 0;
   border: 1px solid;
   background-color: white;
-  background-image: url('../../../extjs/resources/themes/images/default/form/text-bg.gif');
+  /*background-image: url('../../../extjs/resources/themes/images/default/form/text-bg.gif');*/
   border-color: #b5b8c8;
 }
 
@@ -16154,3 +16154,4 @@ input.x-form-radio {
 .blueprint-landing-page .content-container {
   padding: 0;
 }
+
