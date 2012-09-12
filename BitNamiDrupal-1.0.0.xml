@@ -30,7 +30,7 @@
         <id>0</id>
         <inactive>false</inactive>
         <lock-version>0</lock-version>
-        <last-updated>2012-09-12T19:19:53+00:00</last-updated>
+        <last-updated>2012-09-12T19:46:16+00:00</last-updated>
         <last-update-user>admin</last-update-user>
         <created>2012-09-11T02:13:26+00:00</created>
         <create-user>admin</create-user>
@@ -73,7 +73,7 @@
             <id>0</id>
             <inactive>false</inactive>
             <lock-version>0</lock-version>
-            <last-updated>2012-09-12T19:19:53+00:00</last-updated>
+            <last-updated>2012-09-12T19:46:16+00:00</last-updated>
             <last-update-user>admin</last-update-user>
             <created>2012-09-11T02:13:26+00:00</created>
             <create-user>admin</create-user>
@@ -84,7 +84,7 @@
                 <id>0</id>
                 <inactive>false</inactive>
                 <lock-version>0</lock-version>
-                <last-updated>2012-09-12T19:19:53+00:00</last-updated>
+                <last-updated>2012-09-12T19:46:16+00:00</last-updated>
                 <last-update-user>admin</last-update-user>
                 <created>2012-09-11T02:13:26+00:00</created>
                 <create-user>admin</create-user>
@@ -244,7 +244,7 @@
                     <id>0</id>
                     <inactive>false</inactive>
                     <lock-version>0</lock-version>
-                    <last-updated>2012-09-12T19:19:53+00:00</last-updated>
+                    <last-updated>2012-09-12T19:46:16+00:00</last-updated>
                     <last-update-user>admin</last-update-user>
                     <created>2012-09-11T02:13:26+00:00</created>
                     <create-user>admin</create-user>
@@ -481,7 +481,7 @@
                             <name>None</name>
                             <description>Property will not participate in auto-binding.</description>
                         </prop-auto-bind-type>
-                        <value><![CDATA[]]></value>
+                        <value><![CDATA[VMware1!]]></value>
                         <readonly>false</readonly>
                         <overridable>true</overridable>
                         <expression>false</expression>
@@ -513,7 +513,7 @@
                             <id>0</id>
                             <inactive>false</inactive>
                             <lock-version>0</lock-version>
-                            <last-updated>2012-09-12T19:19:53+00:00</last-updated>
+                            <last-updated>2012-09-12T19:46:16+00:00</last-updated>
                             <last-update-user>admin</last-update-user>
                             <created>2012-09-12T19:19:52+00:00</created>
                             <create-user>admin</create-user>
@@ -529,7 +529,7 @@
                                 <description>Bindable at blueprint level.</description>
                                 <lifecycle-order>2</lifecycle-order>
                             </bind-lifecycle-type>
-                            <value><![CDATA[]]></value>
+                            <value><![CDATA[VMware1!]]></value>
                             <overridable>true</overridable>
                             <expression>false</expression>
                         </ns4:bound-prop>
@@ -1658,9 +1658,9 @@ echo "Finished MySQL Server UPDATE"
                         <id>0</id>
                         <inactive>false</inactive>
                         <lock-version>0</lock-version>
-                        <last-updated>2012-09-12T19:19:53+00:00</last-updated>
+                        <last-updated>2012-09-12T19:46:16+00:00</last-updated>
                         <last-update-user>admin</last-update-user>
-                        <created>2012-09-12T19:19:53+00:00</created>
+                        <created>2012-09-12T19:46:16+00:00</created>
                         <create-user>admin</create-user>
                         <node-component-dependency-type>
                             <id>3</id>
@@ -1687,9 +1687,9 @@ echo "Finished MySQL Server UPDATE"
                         <id>0</id>
                         <inactive>false</inactive>
                         <lock-version>0</lock-version>
-                        <last-updated>2012-09-12T19:19:53+00:00</last-updated>
+                        <last-updated>2012-09-12T19:46:16+00:00</last-updated>
                         <last-update-user>admin</last-update-user>
-                        <created>2012-09-12T19:19:53+00:00</created>
+                        <created>2012-09-12T19:46:16+00:00</created>
                         <create-user>admin</create-user>
                         <node-component-dependency-type>
                             <id>3</id>
@@ -1907,7 +1907,7 @@ echo "Finished MySQL Server UPDATE"
                             <id>0</id>
                             <inactive>false</inactive>
                             <lock-version>0</lock-version>
-                            <last-updated>2012-09-12T19:19:53+00:00</last-updated>
+                            <last-updated>2012-09-12T19:46:16+00:00</last-updated>
                             <last-update-user>admin</last-update-user>
                             <created>2012-09-11T02:13:26+00:00</created>
                             <create-user>admin</create-user>
@@ -2091,7 +2091,7 @@ echo "Finished MySQL Server UPDATE"
                             <name>None</name>
                             <description>Property will not participate in auto-binding.</description>
                         </prop-auto-bind-type>
-                        <value><![CDATA[]]></value>
+                        <value><![CDATA[VMware1!]]></value>
                         <readonly>false</readonly>
                         <overridable>true</overridable>
                         <expression>false</expression>
@@ -2123,7 +2123,7 @@ echo "Finished MySQL Server UPDATE"
                             <id>0</id>
                             <inactive>false</inactive>
                             <lock-version>0</lock-version>
-                            <last-updated>2012-09-12T19:19:53+00:00</last-updated>
+                            <last-updated>2012-09-12T19:46:16+00:00</last-updated>
                             <last-update-user>admin</last-update-user>
                             <created>2012-09-11T02:13:26+00:00</created>
                             <create-user>admin</create-user>
@@ -2139,7 +2139,7 @@ echo "Finished MySQL Server UPDATE"
                                 <description>Bindable at blueprint level.</description>
                                 <lifecycle-order>2</lifecycle-order>
                             </bind-lifecycle-type>
-                            <value><![CDATA[]]></value>
+                            <value><![CDATA[VMware1!]]></value>
                             <overridable>true</overridable>
                             <expression>false</expression>
                         </ns4:bound-prop>
@@ -7186,7 +7186,7 @@ echo "Finished Apache server UPDATE"
                     <id>0</id>
                     <inactive>false</inactive>
                     <lock-version>0</lock-version>
-                    <last-updated>2012-09-12T19:19:53+00:00</last-updated>
+                    <last-updated>2012-09-12T19:46:16+00:00</last-updated>
                     <last-update-user>admin</last-update-user>
                     <created>2012-09-11T02:13:26+00:00</created>
                     <create-user>admin</create-user>
@@ -7214,7 +7214,7 @@ echo "Finished Apache server UPDATE"
                         <id>0</id>
                         <inactive>false</inactive>
                         <lock-version>0</lock-version>
-                        <last-updated>2012-09-12T19:19:53+00:00</last-updated>
+                        <last-updated>2012-09-12T19:46:16+00:00</last-updated>
                         <last-update-user>admin</last-update-user>
                         <created>2012-09-11T02:13:26+00:00</created>
                         <create-user>admin</create-user>
@@ -7239,7 +7239,7 @@ echo "Finished Apache server UPDATE"
                     <id>0</id>
                     <inactive>false</inactive>
                     <lock-version>0</lock-version>
-                    <last-updated>2012-09-12T19:19:53+00:00</last-updated>
+                    <last-updated>2012-09-12T19:46:16+00:00</last-updated>
                     <last-update-user>admin</last-update-user>
                     <created>2012-09-11T02:13:26+00:00</created>
                     <create-user>admin</create-user>
@@ -7267,7 +7267,7 @@ echo "Finished Apache server UPDATE"
                         <id>0</id>
                         <inactive>false</inactive>
                         <lock-version>0</lock-version>
-                        <last-updated>2012-09-12T19:19:53+00:00</last-updated>
+                        <last-updated>2012-09-12T19:46:16+00:00</last-updated>
                         <last-update-user>admin</last-update-user>
                         <created>2012-09-11T02:13:26+00:00</created>
                         <create-user>admin</create-user>
@@ -7292,7 +7292,7 @@ echo "Finished Apache server UPDATE"
                     <id>0</id>
                     <inactive>false</inactive>
                     <lock-version>0</lock-version>
-                    <last-updated>2012-09-12T19:19:53+00:00</last-updated>
+                    <last-updated>2012-09-12T19:46:16+00:00</last-updated>
                     <last-update-user>admin</last-update-user>
                     <created>2012-09-11T02:13:26+00:00</created>
                     <create-user>admin</create-user>
@@ -7320,7 +7320,7 @@ echo "Finished Apache server UPDATE"
                         <id>0</id>
                         <inactive>false</inactive>
                         <lock-version>0</lock-version>
-                        <last-updated>2012-09-12T19:19:53+00:00</last-updated>
+                        <last-updated>2012-09-12T19:46:16+00:00</last-updated>
                         <last-update-user>admin</last-update-user>
                         <created>2012-09-11T02:13:26+00:00</created>
                         <create-user>admin</create-user>
@@ -7345,7 +7345,7 @@ echo "Finished Apache server UPDATE"
                     <id>0</id>
                     <inactive>false</inactive>
                     <lock-version>0</lock-version>
-                    <last-updated>2012-09-12T19:19:53+00:00</last-updated>
+                    <last-updated>2012-09-12T19:46:16+00:00</last-updated>
                     <last-update-user>admin</last-update-user>
                     <created>2012-09-11T02:13:26+00:00</created>
                     <create-user>admin</create-user>
@@ -7373,7 +7373,7 @@ echo "Finished Apache server UPDATE"
                         <id>0</id>
                         <inactive>false</inactive>
                         <lock-version>0</lock-version>
-                        <last-updated>2012-09-12T19:19:53+00:00</last-updated>
+                        <last-updated>2012-09-12T19:46:16+00:00</last-updated>
                         <last-update-user>admin</last-update-user>
                         <created>2012-09-11T02:13:26+00:00</created>
                         <create-user>admin</create-user>
