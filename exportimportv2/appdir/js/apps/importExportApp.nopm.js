@@ -33,12 +33,17 @@ define(["jquery", "underscore", "backbone", "util/appDirCommon", "workers/dataPo
             this.gitHubFileCollection = undefined;
             this.postParams = undefined;
 
-            $("input:radio[name=importOptionsRadio]").click(function (e) {
+            $("input:radio[name=importOptionsRadio]").on("click", function (e) {
                 if ($(this).attr("id") == "importNew") {
                     $("#importAsNewSuffix").removeAttr("disabled");
                 } else {
                     $("#importAsNewSuffix").attr("disabled", true);
                 }
+            });
+
+            $("#advancedOptionsToggle").on("click", function (e) {
+                $("#advancedOptionsWrap").collapse("toggle");
+                e.preventDefault();
             });
         }
 
