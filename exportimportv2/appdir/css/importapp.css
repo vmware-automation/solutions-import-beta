@@ -1,4 +1,4 @@
-/* Whatever custom stuff goes here, mostly atm for overriding defaults in twitter bootstrap
+/* Custom overrides
   S.D.
 */
 
@@ -21,6 +21,7 @@
 
 html, body {
     height: 100%;
+    overflow: hidden;
 }
 
 /* http://stackoverflow.com/questions/8740779/how-to-build-a-2-column-fixed-fluid-layout-with-twitter-bootstrap */
