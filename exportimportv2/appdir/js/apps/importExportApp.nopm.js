@@ -77,7 +77,7 @@ define(["jquery", "underscore", "backbone", "util/appDirCommon", "workers/dataPo
                 var missingValuesString = missingValues.join(", ");
                 updateFormDisplay({
                     rdcClass:ALERT_ERROR_CLASSES,
-                    rdMsgVal:"ImportExportApp Missing <b>" + missingValuesString + "</b> query params can't continue."
+                    rdMsgVal:"Missing <b>[" + missingValuesString + "]</b> required parameter(s) to continue."
                 });
                 return;
             }
@@ -242,10 +242,10 @@ define(["jquery", "underscore", "backbone", "util/appDirCommon", "workers/dataPo
                 msg = "Success " + options.rdMsgVal;
                 clazz = "success main-state-deploy-success"
             } else if (_.isEqual(options.rdcClass, ALERT_ERROR_CLASSES)) {
-                msg = "Error " + options.rdMsgVal;
+                msg = "Bummer! " + options.rdMsgVal;
                 clazz = "notification-bulb-error"
             }
-            $("#responseDataControl").removeClass("hidden").removeAttr("class").addClass(clazz).addClass("responseData");
+            $("#responseDataControl").removeClass("hidden").removeAttr("class").addClass(clazz);
             $("#responseData").empty().html(msg);
         }
 
