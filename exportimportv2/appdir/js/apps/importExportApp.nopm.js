@@ -40,11 +40,6 @@ define(["jquery", "underscore", "backbone", "util/appDirCommon", "workers/dataPo
                     $("#importAsNewSuffix").attr("disabled", true);
                 }
             });
-
-            $("#advancedOptionsToggle").on("click", function (e) {
-                $("#advancedOptionsWrap").collapse("toggle");
-                e.preventDefault();
-            });
         }
 
         ImportExportApp.prototype.postConstruct = function () {
