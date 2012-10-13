@@ -187,9 +187,10 @@ define(["jquery", "underscore", "backbone", "util/appDirCommon", "workers/dataPo
             var paramObject = {
                 conflictResolution:this.postParams.conflictResolution
             };
-            if (typeof(this.postParams.importAsNewSuffix) !== "undefined") {
-                paramObject.importAsNewSuffix = this.postParams.importAsNewSuffix;
-            }
+
+            paramObject.importAsNewSuffix =
+                (typeof(this.postParams.importAsNewSuffix) !== "undefined") ? paramObject.importAsNewSuffix = this.postParams.importAsNewSuffix : "NOOP";
+
             var url =
                 [this.postParams.appdhost, this.postParams.appdeximep, "?", $.param(paramObject)].join("");
             cu.log("Sending to... " + url);
