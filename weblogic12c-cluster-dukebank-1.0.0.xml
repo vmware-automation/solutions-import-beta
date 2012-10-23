@@ -4664,7 +4664,7 @@ exit $APPDRETURNSTATUS
                                 <description>Property will not participate in auto-binding.</description>
                                 <prop-auto-bind-type-enum>NONE</prop-auto-bind-type-enum>
                             </prop-auto-bind-type>
-                            <value><![CDATA[http://${darwin.content.server.ip}/artifacts/services/weblogic/mod_wl.so]]></value>
+                            <value><![CDATA[]]></value>
                             <readonly>false</readonly>
                             <overridable>true</overridable>
                             <expression>false</expression>
@@ -4688,7 +4688,7 @@ exit $APPDRETURNSTATUS
                                     <description>Bindable at blueprint level.</description>
                                     <lifecycle-order>2</lifecycle-order>
                                 </bind-lifecycle-type>
-                                <value><![CDATA[http://${darwin.content.server.ip}/artifacts/services/weblogic/mod_wl.so]]></value>
+                                <value><![CDATA[]]></value>
                                 <overridable>true</overridable>
                                 <expression>false</expression>
                             </ns5:bound-prop>
@@ -5815,7 +5815,7 @@ exit $APPDRETURNSTATUS
                                     <description>Property will not participate in auto-binding.</description>
                                     <prop-auto-bind-type-enum>NONE</prop-auto-bind-type-enum>
                                 </prop-auto-bind-type>
-                                <value><![CDATA[http://${darwin.content.server.ip}/artifacts/services/weblogic/mod_wl.so]]></value>
+                                <value><![CDATA[]]></value>
                                 <readonly>false</readonly>
                                 <overridable>true</overridable>
                                 <expression>false</expression>
@@ -5839,7 +5839,7 @@ exit $APPDRETURNSTATUS
                                     <description>Bindable at blueprint level.</description>
                                     <lifecycle-order>2</lifecycle-order>
                                     </bind-lifecycle-type>
-                                    <value><![CDATA[http://${darwin.content.server.ip}/artifacts/services/weblogic/mod_wl.so]]></value>
+                                    <value><![CDATA[]]></value>
                                     <overridable>true</overridable>
                                     <expression>false</expression>
                                 </ns5:bound-prop>
@@ -6917,7 +6917,7 @@ exit $APPDRETURNSTATUS
                             <description>Property will not participate in auto-binding.</description>
                             <prop-auto-bind-type-enum>NONE</prop-auto-bind-type-enum>
                         </prop-auto-bind-type>
-                        <value><![CDATA[http://${darwin.content.server.ip}/artifacts/services/weblogic/wls1211_generic.jar]]></value>
+                        <value><![CDATA[]]></value>
                         <readonly>false</readonly>
                         <overridable>true</overridable>
                         <expression>false</expression>
@@ -6965,7 +6965,7 @@ exit $APPDRETURNSTATUS
                                 <description>Bindable at blueprint level.</description>
                                 <lifecycle-order>2</lifecycle-order>
                             </bind-lifecycle-type>
-                            <value><![CDATA[http://${darwin.content.server.ip}/artifacts/services/weblogic/wls1211_generic.jar]]></value>
+                            <value><![CDATA[]]></value>
                             <overridable>true</overridable>
                             <expression>false</expression>
                         </ns5:bound-prop>
@@ -17049,7 +17049,7 @@ exit $APPDRETURNSTATUS
                             <description>Property will not participate in auto-binding.</description>
                             <prop-auto-bind-type-enum>NONE</prop-auto-bind-type-enum>
                         </prop-auto-bind-type>
-                        <value><![CDATA[http://${darwin.content.server.ip}/artifacts/services/weblogic/wls1211_generic.jar]]></value>
+                        <value><![CDATA[]]></value>
                         <readonly>false</readonly>
                         <overridable>true</overridable>
                         <expression>false</expression>
@@ -17097,7 +17097,7 @@ exit $APPDRETURNSTATUS
                                 <description>Bindable at blueprint level.</description>
                                 <lifecycle-order>2</lifecycle-order>
                             </bind-lifecycle-type>
-                            <value><![CDATA[http://${darwin.content.server.ip}/artifacts/services/weblogic/wls1211_generic.jar]]></value>
+                            <value><![CDATA[]]></value>
                             <overridable>true</overridable>
                             <expression>false</expression>
                         </ns5:bound-prop>
