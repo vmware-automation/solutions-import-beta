@@ -4,5 +4,5 @@ ALERT_SUCCESS_CLASSES = "alert alert-success";
 
 requirejs.config({
     baseUrl:"../js", 
-    waitSeconds: 15,
+    waitSeconds: 15
 });
