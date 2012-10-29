@@ -1,0 +1,15 @@
+{
+    "vmware":{
+        "config":{
+            "version":1.0
+        },
+        "applications":{
+            "applicationDirectorWebImport":{
+                "exportFileName":"ClusteredDotShoppingCart.xml
+                "exportedFileReadme":"ClusteredDotShoppingCart.readme",
+                "importSectionHeader":"Clustered DotShopping Cart",
+                "exportedWithAppDVersion":5.0
+            }
+        }
+    }
+}
