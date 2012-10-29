@@ -5,7 +5,7 @@
         },
         "applications":{
             "applicationDirectorWebImport":{
-                "exportFileName":"ClusteredDotShoppingCart.xml"
+                "exportFileName":"ClusteredDotShoppingCart.xml",
                 "exportedFileReadme":"ClusteredDotShoppingCart.readme",
                 "importSectionHeader":"Clustered DotShopping Cart",
                 "exportedWithAppDVersion":5.0
