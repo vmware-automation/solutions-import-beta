@@ -132,3 +132,17 @@ textarea.readme-content {
     margin-top: 20px;
 }
 
+/* Works on Webkit */
+::-webkit-input-placeholder {
+    font-weight: normal;
+    font-style: italic;
+    color: #999999;
+}
+
+/* Works on Firefox */
+input:-moz-placeholder {
+    font-weight: normal;
+    font-style: italic;
+    color: #999999;
+}
+
