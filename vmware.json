@@ -1,0 +1,15 @@
+{
+    "vmware":{
+        "config":{
+            "version":1.0
+        },
+        "applications":{
+            "applicationDirectorWebImport":{
+                "exportFileName":"Nanotrader-1.0.0.xml",
+                "exportedFileReadme":"Nanotrader-1.0.0.readme",
+                "importSectionHeader":"Nanotrader 1.0.0",
+                "exportedWithAppDVersion":5.0
+            }
+        }
+    }
+}
