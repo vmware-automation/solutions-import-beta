@@ -1,0 +1,15 @@
+{
+    "vmware":{
+        "config":{
+            "version":1.0
+        },
+        "applications":{
+            "applicationDirectorWebImport":{
+                "exportFileName":"BitNamiDrupal-1.0.0.xml",
+                "exportedFileReadme":"BitNamiDrupal-1.0.0.xml.readme",
+                "importSectionHeader":"BitNamiDrupal",
+                "exportedWithAppDVersion":5.0
+            }
+        }
+    }
+}
