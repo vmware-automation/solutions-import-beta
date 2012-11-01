@@ -12,7 +12,7 @@
                 "optional":{
                     "nextStepsMarkdownFile":"weblogic12c-cluster-dukebank-1.0.0.xml.nextsteps.markdown"
                 }
-            },
+            }
         }
     }
 }
