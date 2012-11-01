@@ -1,0 +1,15 @@
+{
+    "vmware":{
+        "config":{
+            "version":1.0
+        },
+        "applications":{
+            "applicationDirectorWebImport":{
+                "exportFileName":"MSExchange.xml",
+                "exportedFileReadme":"MSExchange.readme",
+                "importSectionHeader":"MS Exchange 2010",
+                "exportedWithAppDVersion":5.0
+            }
+        }
+    }
+}
