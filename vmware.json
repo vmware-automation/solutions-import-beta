@@ -5,7 +5,7 @@
         },
         "applications":{
             "applicationDirectorWebImport":{
-                "exportFileName":"ClusteredDotShoppingCart.xml",
+                "exportFileName":"2blueprints.xml",
                 "exportedFileReadme":"ClusteredDotShoppingCart.readme",
                 "importSectionHeader":"Clustered DotShopping Cart",
                 "exportedWithAppDVersion":5.0
