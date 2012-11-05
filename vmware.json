@@ -8,7 +8,10 @@
                 "exportFileName":"2blueprints.xml",
                 "exportedFileReadme":"ClusteredDotShoppingCart.readme",
                 "importSectionHeader":"Clustered DotShopping Cart",
-                "exportedWithAppDVersion":5.0
+                "exportedWithAppDVersion":5.0,
+		"optional":{
+                    "enableConsoleLogging":true
+                }
             }
         }
     }
