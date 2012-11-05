@@ -5,9 +5,9 @@
         },
         "applications":{
             "applicationDirectorWebImport":{
-                "exportFileName":"MSExchange.xml",
-                "exportedFileReadme":"MSExchange.readme",
-                "importSectionHeader":"MS Exchange 2010",
+                "exportFileName":"SQL_Server_2012_Cluster.xml",
+                "exportedFileReadme":"SQL_Server_2012_Cluster.readme",
+                "importSectionHeader":"SQL Server 2012 Cluster",
                 "exportedWithAppDVersion":5.0
             }
         }
