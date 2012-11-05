@@ -25,7 +25,7 @@ html, body {
 }
 
 /* http://stackoverflow.com/questions/8740779/how-to-build-a-2-column-fixed-fluid-layout-with-twitter-bootstrap */
-.fill {
+/*.fill {
     min-height: 100%;
     position: relative;
 }
@@ -39,7 +39,7 @@ html, body {
     top: 0;
     width: inherit;
     z-index: -1;
-}
+}*/
 
 /* override bootstrap stuff */
 .form-horizontal .control-label {
@@ -49,6 +49,17 @@ html, body {
 
 .form-horizontal .controls {
     margin-left: 220px;
+}
+
+.reset > * {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-size: 100%;
+	line-height: 1.5em;
+	text-decoration: none;
+	vertical-align: baseline;
 }
 
 /*.modal-body {
