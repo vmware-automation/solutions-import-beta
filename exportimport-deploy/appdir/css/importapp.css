@@ -21,6 +21,7 @@
 
 html, body {
     height: 100%;
+    width: 100%;
     overflow: hidden;
 }
 
@@ -52,14 +53,14 @@ html, body {
 }
 
 .reset > * {
-	margin: 0;
-	padding: 0;
-	border: 0;
-	outline: 0;
-	font-size: 100%;
-	line-height: 1.5em;
-	text-decoration: none;
-	vertical-align: baseline;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    line-height: 1.5em;
+    text-decoration: none;
+    vertical-align: baseline;
 }
 
 /*.modal-body {
@@ -94,6 +95,13 @@ body .modal {
 
 .title-page .content-container .content {
     padding: 20px;
+}
+
+.copyright {
+    clear: left;
+    margin-left: 3px;
+    font-size: 0.8125em;
+    color: #BBB;
 }
 
 textarea.readme-content {
@@ -138,6 +146,7 @@ textarea.readme-content {
     font-size: 20px;
     padding: 10px;
 }
+
 #responseDataControl.notification-bulb-error {
     float: none;
     margin-top: 20px;
