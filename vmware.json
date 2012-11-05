@@ -10,7 +10,8 @@
                 "importSectionHeader":"Weblogic Cluster",
                 "exportedWithAppDVersion":5.0,
                 "optional":{
-                    "nextStepsMarkdownFile":"weblogic12c-cluster-dukebank-1.0.0.xml.nextsteps.markdown"
+                    "nextStepsMarkdownFile":"weblogic12c-cluster-dukebank-1.0.0.xml.nextsteps.markdown",
+                    "enableConsoleLogging":true
                 }
             }
         }
