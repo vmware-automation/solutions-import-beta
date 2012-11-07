@@ -11,6 +11,4 @@ Your application has been successfully imported and ready to go but first there 
 2. You will need to configure the Apache WebLogic Plugin content property in the Apache script as displayed. This can be obtained as an Oracle download from here: http://www.oracle.com/technetwork/middleware/ias/downloads/wls-plugins-096117.html
 ![Apache WebLogic Plugin][wl_so]
 
-<div class="alert alert-info">
-<strong>You are now good to go.<strong>
-<div>
+<b>You are now good to go.</b>
