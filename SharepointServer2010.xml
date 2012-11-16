@@ -30,7 +30,7 @@
         <id>0</id>
         <inactive>false</inactive>
         <lock-version>0</lock-version>
-        <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+        <last-updated>2012-11-16T14:24:06+05:30</last-updated>
         <last-update-user>admin</last-update-user>
         <created>2012-08-23T05:09:53+05:30</created>
         <create-user>admin</create-user>
@@ -75,7 +75,7 @@ Microsoft SharePoint 2010 makes it easier for people to work together. Using Sha
             <id>0</id>
             <inactive>false</inactive>
             <lock-version>0</lock-version>
-            <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+            <last-updated>2012-11-16T14:24:06+05:30</last-updated>
             <last-update-user>admin</last-update-user>
             <created>2012-08-23T05:09:53+05:30</created>
             <create-user>admin</create-user>
@@ -86,7 +86,7 @@ Microsoft SharePoint 2010 makes it easier for people to work together. Using Sha
                 <id>0</id>
                 <inactive>false</inactive>
                 <lock-version>0</lock-version>
-                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                 <last-update-user>admin</last-update-user>
                 <created>2012-08-23T05:09:53+05:30</created>
                 <create-user>admin</create-user>
@@ -274,7 +274,7 @@ Microsoft SharePoint 2010 makes it easier for people to work together. Using Sha
                     <id>0</id>
                     <inactive>false</inactive>
                     <lock-version>0</lock-version>
-                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                     <last-update-user>admin</last-update-user>
                     <created>2012-08-23T05:09:53+05:30</created>
                     <create-user>admin</create-user>
@@ -467,7 +467,7 @@ Microsoft SharePoint 2010 makes it easier for people to work together. Using Sha
                             <id>0</id>
                             <inactive>false</inactive>
                             <lock-version>0</lock-version>
-                            <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                            <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                             <last-update-user>admin</last-update-user>
                             <created>2012-09-04T09:21:51+05:30</created>
                             <create-user>admin</create-user>
@@ -2188,9 +2188,9 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                         <id>0</id>
                         <inactive>false</inactive>
                         <lock-version>0</lock-version>
-                        <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                        <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                         <last-update-user>admin</last-update-user>
-                        <created>2012-11-16T06:08:39+05:30</created>
+                        <created>2012-11-16T14:24:06+05:30</created>
                         <create-user>admin</create-user>
                         <node-component-dependency-type>
                             <id>3</id>
@@ -2217,7 +2217,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                         <id>0</id>
                         <inactive>false</inactive>
                         <lock-version>0</lock-version>
-                        <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                        <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                         <last-update-user>admin</last-update-user>
                         <created>2012-09-04T11:52:57+05:30</created>
                         <create-user>admin</create-user>
@@ -2255,7 +2255,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                             <id>0</id>
                             <inactive>false</inactive>
                             <lock-version>0</lock-version>
-                            <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                            <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                             <last-update-user>admin</last-update-user>
                             <created>2012-09-04T11:52:57+05:30</created>
                             <create-user>admin</create-user>
@@ -2280,7 +2280,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                         <id>0</id>
                         <inactive>false</inactive>
                         <lock-version>0</lock-version>
-                        <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                        <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                         <last-update-user>admin</last-update-user>
                         <created>2012-09-04T11:52:57+05:30</created>
                         <create-user>admin</create-user>
@@ -2318,7 +2318,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                             <id>0</id>
                             <inactive>false</inactive>
                             <lock-version>0</lock-version>
-                            <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                            <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                             <last-update-user>admin</last-update-user>
                             <created>2012-09-04T11:52:57+05:30</created>
                             <create-user>admin</create-user>
@@ -2343,7 +2343,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                         <id>0</id>
                         <inactive>false</inactive>
                         <lock-version>0</lock-version>
-                        <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                        <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                         <last-update-user>admin</last-update-user>
                         <created>2012-09-04T11:52:57+05:30</created>
                         <create-user>admin</create-user>
@@ -2381,7 +2381,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                             <id>0</id>
                             <inactive>false</inactive>
                             <lock-version>0</lock-version>
-                            <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                            <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                             <last-update-user>admin</last-update-user>
                             <created>2012-09-04T11:52:57+05:30</created>
                             <create-user>admin</create-user>
@@ -2406,7 +2406,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                         <id>0</id>
                         <inactive>false</inactive>
                         <lock-version>0</lock-version>
-                        <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                        <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                         <last-update-user>admin</last-update-user>
                         <created>2012-09-04T11:52:57+05:30</created>
                         <create-user>admin</create-user>
@@ -2444,7 +2444,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                             <id>0</id>
                             <inactive>false</inactive>
                             <lock-version>0</lock-version>
-                            <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                            <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                             <last-update-user>admin</last-update-user>
                             <created>2012-09-04T11:52:57+05:30</created>
                             <create-user>admin</create-user>
@@ -2469,7 +2469,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                         <id>0</id>
                         <inactive>false</inactive>
                         <lock-version>0</lock-version>
-                        <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                        <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                         <last-update-user>admin</last-update-user>
                         <created>2012-11-15T04:21:50+05:30</created>
                         <create-user>admin</create-user>
@@ -2507,7 +2507,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                             <id>0</id>
                             <inactive>false</inactive>
                             <lock-version>0</lock-version>
-                            <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                            <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                             <last-update-user>admin</last-update-user>
                             <created>2012-11-15T04:21:51+05:30</created>
                             <create-user>admin</create-user>
@@ -2532,7 +2532,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                         <id>0</id>
                         <inactive>false</inactive>
                         <lock-version>0</lock-version>
-                        <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                        <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                         <last-update-user>admin</last-update-user>
                         <created>2012-11-15T04:26:45+05:30</created>
                         <create-user>admin</create-user>
@@ -2570,7 +2570,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                             <id>0</id>
                             <inactive>false</inactive>
                             <lock-version>0</lock-version>
-                            <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                            <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                             <last-update-user>admin</last-update-user>
                             <created>2012-11-15T04:26:45+05:30</created>
                             <create-user>admin</create-user>
@@ -2595,7 +2595,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                         <id>0</id>
                         <inactive>false</inactive>
                         <lock-version>0</lock-version>
-                        <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                        <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                         <last-update-user>admin</last-update-user>
                         <created>2012-09-04T11:52:57+05:30</created>
                         <create-user>admin</create-user>
@@ -2609,7 +2609,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                             <id>0</id>
                             <inactive>false</inactive>
                             <lock-version>0</lock-version>
-                            <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                            <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                             <last-update-user>admin</last-update-user>
                             <created>2012-09-04T11:52:57+05:30</created>
                             <create-user>admin</create-user>
@@ -2647,7 +2647,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                                 <id>0</id>
                                 <inactive>false</inactive>
                                 <lock-version>0</lock-version>
-                                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                                 <last-update-user>admin</last-update-user>
                                 <created>2012-09-04T11:52:57+05:30</created>
                                 <create-user>admin</create-user>
@@ -2672,7 +2672,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                             <id>0</id>
                             <inactive>false</inactive>
                             <lock-version>0</lock-version>
-                            <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                            <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                             <last-update-user>admin</last-update-user>
                             <created>2012-09-04T11:52:57+05:30</created>
                             <create-user>admin</create-user>
@@ -2710,7 +2710,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                                 <id>0</id>
                                 <inactive>false</inactive>
                                 <lock-version>0</lock-version>
-                                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                                 <last-update-user>admin</last-update-user>
                                 <created>2012-09-04T11:52:57+05:30</created>
                                 <create-user>admin</create-user>
@@ -2735,7 +2735,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                             <id>0</id>
                             <inactive>false</inactive>
                             <lock-version>0</lock-version>
-                            <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                            <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                             <last-update-user>admin</last-update-user>
                             <created>2012-09-04T11:52:57+05:30</created>
                             <create-user>admin</create-user>
@@ -2773,7 +2773,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                                 <id>0</id>
                                 <inactive>false</inactive>
                                 <lock-version>0</lock-version>
-                                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                                 <last-update-user>admin</last-update-user>
                                 <created>2012-09-04T11:52:57+05:30</created>
                                 <create-user>admin</create-user>
@@ -2798,7 +2798,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                             <id>0</id>
                             <inactive>false</inactive>
                             <lock-version>0</lock-version>
-                            <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                            <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                             <last-update-user>admin</last-update-user>
                             <created>2012-09-04T11:52:57+05:30</created>
                             <create-user>admin</create-user>
@@ -2836,7 +2836,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                                 <id>0</id>
                                 <inactive>false</inactive>
                                 <lock-version>0</lock-version>
-                                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                                 <last-update-user>admin</last-update-user>
                                 <created>2012-09-04T11:52:57+05:30</created>
                                 <create-user>admin</create-user>
@@ -2861,7 +2861,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                             <id>0</id>
                             <inactive>false</inactive>
                             <lock-version>0</lock-version>
-                            <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                            <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                             <last-update-user>admin</last-update-user>
                             <created>2012-11-15T04:21:50+05:30</created>
                             <create-user>admin</create-user>
@@ -2899,7 +2899,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                                 <id>0</id>
                                 <inactive>false</inactive>
                                 <lock-version>0</lock-version>
-                                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                                 <last-update-user>admin</last-update-user>
                                 <created>2012-11-15T04:21:51+05:30</created>
                                 <create-user>admin</create-user>
@@ -2924,7 +2924,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                             <id>0</id>
                             <inactive>false</inactive>
                             <lock-version>0</lock-version>
-                            <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                            <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                             <last-update-user>admin</last-update-user>
                             <created>2012-11-15T04:26:45+05:30</created>
                             <create-user>admin</create-user>
@@ -2962,7 +2962,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                                 <id>0</id>
                                 <inactive>false</inactive>
                                 <lock-version>0</lock-version>
-                                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                                 <last-update-user>admin</last-update-user>
                                 <created>2012-11-15T04:26:45+05:30</created>
                                 <create-user>admin</create-user>
@@ -2987,7 +2987,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                             <id>0</id>
                             <inactive>false</inactive>
                             <lock-version>0</lock-version>
-                            <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                            <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                             <last-update-user>admin</last-update-user>
                             <created>2012-09-04T11:52:57+05:30</created>
                             <create-user>admin</create-user>
@@ -2998,7 +2998,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                             <id>0</id>
                             <inactive>false</inactive>
                             <lock-version>0</lock-version>
-                            <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                            <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                             <last-update-user>admin</last-update-user>
                             <created>2012-09-04T11:52:57+05:30</created>
                             <create-user>admin</create-user>
@@ -3016,6 +3016,13 @@ $SITEPORT = "$sampleapp_port"
 $APPPOOLNAME = "$apppool_name"
 # Sample app directory
 $APP_DIR = "$sample_app_dir\APP"
+
+write-host "CREATING SAMPLE APP DIRECTORIES"
+if (!(Test-Path -Path $APP_DIR))
+{
+      New-Item $APP_DIR -type directory
+}
+
 # Script file that will create sample app
 $WEBAPP_FILE = "$APP_DIR\CreateWebApp.PS1"
 $TEMP_FILE = "$APP_DIR\Temp.txt"
@@ -3029,13 +3036,6 @@ $USERNAME = "$admin_user"
 $PASSWORD = "$admin_password"
 # Copy the password into tmp.txt file 
 $PASSWORD &gt; "$APP_DIR\tmp.txt"
-
-
-write-host "CREATING SAMPLE APP DIRECTORIES"
-if (!(Test-Path -Path $APP_DIR))
-{
-      New-Item $APP_DIR -type directory
-}
 
 ########VALIDATION FUNCTIONS#########################
 
@@ -3489,7 +3489,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                     <id>0</id>
                     <inactive>false</inactive>
                     <lock-version>0</lock-version>
-                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                     <last-update-user>admin</last-update-user>
                     <created>2012-08-23T05:09:53+05:30</created>
                     <create-user>admin</create-user>
@@ -3517,7 +3517,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                         <id>0</id>
                         <inactive>false</inactive>
                         <lock-version>0</lock-version>
-                        <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                        <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                         <last-update-user>admin</last-update-user>
                         <created>2012-08-23T05:09:53+05:30</created>
                         <create-user>admin</create-user>
@@ -3542,7 +3542,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                     <id>0</id>
                     <inactive>false</inactive>
                     <lock-version>0</lock-version>
-                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                     <last-update-user>admin</last-update-user>
                     <created>2012-08-23T05:09:53+05:30</created>
                     <create-user>admin</create-user>
@@ -3570,7 +3570,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                         <id>0</id>
                         <inactive>false</inactive>
                         <lock-version>0</lock-version>
-                        <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                        <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                         <last-update-user>admin</last-update-user>
                         <created>2012-08-23T05:09:53+05:30</created>
                         <create-user>admin</create-user>
@@ -3595,7 +3595,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                     <id>0</id>
                     <inactive>false</inactive>
                     <lock-version>0</lock-version>
-                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                     <last-update-user>admin</last-update-user>
                     <created>2012-08-23T05:09:53+05:30</created>
                     <create-user>admin</create-user>
@@ -3623,7 +3623,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                         <id>0</id>
                         <inactive>false</inactive>
                         <lock-version>0</lock-version>
-                        <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                        <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                         <last-update-user>admin</last-update-user>
                         <created>2012-08-23T05:09:53+05:30</created>
                         <create-user>admin</create-user>
@@ -3648,7 +3648,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                     <id>0</id>
                     <inactive>false</inactive>
                     <lock-version>0</lock-version>
-                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                     <last-update-user>admin</last-update-user>
                     <created>2012-08-23T05:09:53+05:30</created>
                     <create-user>admin</create-user>
@@ -3676,7 +3676,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                         <id>0</id>
                         <inactive>false</inactive>
                         <lock-version>0</lock-version>
-                        <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                        <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                         <last-update-user>admin</last-update-user>
                         <created>2012-08-23T05:09:53+05:30</created>
                         <create-user>admin</create-user>
@@ -3703,7 +3703,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
         <id>0</id>
         <inactive>false</inactive>
         <lock-version>0</lock-version>
-        <last-updated>2012-11-16T06:11:08+05:30</last-updated>
+        <last-updated>2012-11-16T14:24:54+05:30</last-updated>
         <last-update-user>admin</last-update-user>
         <created>2012-08-23T06:16:49+05:30</created>
         <create-user>admin</create-user>
@@ -3714,7 +3714,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
             <id>0</id>
             <inactive>false</inactive>
             <lock-version>0</lock-version>
-            <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+            <last-updated>2012-11-16T14:24:06+05:30</last-updated>
             <last-update-user>admin</last-update-user>
             <created>2012-08-23T05:09:53+05:30</created>
             <create-user>admin</create-user>
@@ -3759,7 +3759,7 @@ Microsoft SharePoint 2010 makes it easier for people to work together. Using Sha
                 <id>0</id>
                 <inactive>false</inactive>
                 <lock-version>0</lock-version>
-                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                 <last-update-user>admin</last-update-user>
                 <created>2012-08-23T05:09:53+05:30</created>
                 <create-user>admin</create-user>
@@ -3770,7 +3770,7 @@ Microsoft SharePoint 2010 makes it easier for people to work together. Using Sha
                     <id>0</id>
                     <inactive>false</inactive>
                     <lock-version>0</lock-version>
-                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                     <last-update-user>admin</last-update-user>
                     <created>2012-08-23T05:09:53+05:30</created>
                     <create-user>admin</create-user>
@@ -3958,7 +3958,7 @@ Microsoft SharePoint 2010 makes it easier for people to work together. Using Sha
                         <id>0</id>
                         <inactive>false</inactive>
                         <lock-version>0</lock-version>
-                        <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                        <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                         <last-update-user>admin</last-update-user>
                         <created>2012-08-23T05:09:53+05:30</created>
                         <create-user>admin</create-user>
@@ -4151,7 +4151,7 @@ Microsoft SharePoint 2010 makes it easier for people to work together. Using Sha
                                 <id>0</id>
                                 <inactive>false</inactive>
                                 <lock-version>0</lock-version>
-                                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                                 <last-update-user>admin</last-update-user>
                                 <created>2012-09-04T09:21:51+05:30</created>
                                 <create-user>admin</create-user>
@@ -5872,9 +5872,9 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                             <id>0</id>
                             <inactive>false</inactive>
                             <lock-version>0</lock-version>
-                            <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                            <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                             <last-update-user>admin</last-update-user>
-                            <created>2012-11-16T06:08:39+05:30</created>
+                            <created>2012-11-16T14:24:06+05:30</created>
                             <create-user>admin</create-user>
                             <node-component-dependency-type>
                                 <id>3</id>
@@ -5901,7 +5901,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                             <id>0</id>
                             <inactive>false</inactive>
                             <lock-version>0</lock-version>
-                            <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                            <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                             <last-update-user>admin</last-update-user>
                             <created>2012-09-04T11:52:57+05:30</created>
                             <create-user>admin</create-user>
@@ -5939,7 +5939,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                                 <id>0</id>
                                 <inactive>false</inactive>
                                 <lock-version>0</lock-version>
-                                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                                 <last-update-user>admin</last-update-user>
                                 <created>2012-09-04T11:52:57+05:30</created>
                                 <create-user>admin</create-user>
@@ -5964,7 +5964,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                             <id>0</id>
                             <inactive>false</inactive>
                             <lock-version>0</lock-version>
-                            <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                            <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                             <last-update-user>admin</last-update-user>
                             <created>2012-09-04T11:52:57+05:30</created>
                             <create-user>admin</create-user>
@@ -6002,7 +6002,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                                 <id>0</id>
                                 <inactive>false</inactive>
                                 <lock-version>0</lock-version>
-                                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                                 <last-update-user>admin</last-update-user>
                                 <created>2012-09-04T11:52:57+05:30</created>
                                 <create-user>admin</create-user>
@@ -6027,7 +6027,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                             <id>0</id>
                             <inactive>false</inactive>
                             <lock-version>0</lock-version>
-                            <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                            <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                             <last-update-user>admin</last-update-user>
                             <created>2012-09-04T11:52:57+05:30</created>
                             <create-user>admin</create-user>
@@ -6065,7 +6065,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                                 <id>0</id>
                                 <inactive>false</inactive>
                                 <lock-version>0</lock-version>
-                                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                                 <last-update-user>admin</last-update-user>
                                 <created>2012-09-04T11:52:57+05:30</created>
                                 <create-user>admin</create-user>
@@ -6090,7 +6090,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                             <id>0</id>
                             <inactive>false</inactive>
                             <lock-version>0</lock-version>
-                            <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                            <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                             <last-update-user>admin</last-update-user>
                             <created>2012-09-04T11:52:57+05:30</created>
                             <create-user>admin</create-user>
@@ -6128,7 +6128,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                                 <id>0</id>
                                 <inactive>false</inactive>
                                 <lock-version>0</lock-version>
-                                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                                 <last-update-user>admin</last-update-user>
                                 <created>2012-09-04T11:52:57+05:30</created>
                                 <create-user>admin</create-user>
@@ -6153,7 +6153,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                             <id>0</id>
                             <inactive>false</inactive>
                             <lock-version>0</lock-version>
-                            <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                            <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                             <last-update-user>admin</last-update-user>
                             <created>2012-11-15T04:21:50+05:30</created>
                             <create-user>admin</create-user>
@@ -6191,7 +6191,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                                 <id>0</id>
                                 <inactive>false</inactive>
                                 <lock-version>0</lock-version>
-                                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                                 <last-update-user>admin</last-update-user>
                                 <created>2012-11-15T04:21:51+05:30</created>
                                 <create-user>admin</create-user>
@@ -6216,7 +6216,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                             <id>0</id>
                             <inactive>false</inactive>
                             <lock-version>0</lock-version>
-                            <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                            <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                             <last-update-user>admin</last-update-user>
                             <created>2012-11-15T04:26:45+05:30</created>
                             <create-user>admin</create-user>
@@ -6254,7 +6254,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                                 <id>0</id>
                                 <inactive>false</inactive>
                                 <lock-version>0</lock-version>
-                                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                                 <last-update-user>admin</last-update-user>
                                 <created>2012-11-15T04:26:45+05:30</created>
                                 <create-user>admin</create-user>
@@ -6279,7 +6279,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                             <id>0</id>
                             <inactive>false</inactive>
                             <lock-version>0</lock-version>
-                            <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                            <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                             <last-update-user>admin</last-update-user>
                             <created>2012-09-04T11:52:57+05:30</created>
                             <create-user>admin</create-user>
@@ -6293,7 +6293,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                                 <id>0</id>
                                 <inactive>false</inactive>
                                 <lock-version>0</lock-version>
-                                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                                 <last-update-user>admin</last-update-user>
                                 <created>2012-09-04T11:52:57+05:30</created>
                                 <create-user>admin</create-user>
@@ -6331,7 +6331,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                                     <id>0</id>
                                     <inactive>false</inactive>
                                     <lock-version>0</lock-version>
-                                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                                     <last-update-user>admin</last-update-user>
                                     <created>2012-09-04T11:52:57+05:30</created>
                                     <create-user>admin</create-user>
@@ -6356,7 +6356,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                                 <id>0</id>
                                 <inactive>false</inactive>
                                 <lock-version>0</lock-version>
-                                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                                 <last-update-user>admin</last-update-user>
                                 <created>2012-09-04T11:52:57+05:30</created>
                                 <create-user>admin</create-user>
@@ -6394,7 +6394,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                                     <id>0</id>
                                     <inactive>false</inactive>
                                     <lock-version>0</lock-version>
-                                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                                     <last-update-user>admin</last-update-user>
                                     <created>2012-09-04T11:52:57+05:30</created>
                                     <create-user>admin</create-user>
@@ -6419,7 +6419,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                                 <id>0</id>
                                 <inactive>false</inactive>
                                 <lock-version>0</lock-version>
-                                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                                 <last-update-user>admin</last-update-user>
                                 <created>2012-09-04T11:52:57+05:30</created>
                                 <create-user>admin</create-user>
@@ -6457,7 +6457,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                                     <id>0</id>
                                     <inactive>false</inactive>
                                     <lock-version>0</lock-version>
-                                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                                     <last-update-user>admin</last-update-user>
                                     <created>2012-09-04T11:52:57+05:30</created>
                                     <create-user>admin</create-user>
@@ -6482,7 +6482,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                                 <id>0</id>
                                 <inactive>false</inactive>
                                 <lock-version>0</lock-version>
-                                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                                 <last-update-user>admin</last-update-user>
                                 <created>2012-09-04T11:52:57+05:30</created>
                                 <create-user>admin</create-user>
@@ -6520,7 +6520,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                                     <id>0</id>
                                     <inactive>false</inactive>
                                     <lock-version>0</lock-version>
-                                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                                     <last-update-user>admin</last-update-user>
                                     <created>2012-09-04T11:52:57+05:30</created>
                                     <create-user>admin</create-user>
@@ -6545,7 +6545,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                                 <id>0</id>
                                 <inactive>false</inactive>
                                 <lock-version>0</lock-version>
-                                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                                 <last-update-user>admin</last-update-user>
                                 <created>2012-11-15T04:21:50+05:30</created>
                                 <create-user>admin</create-user>
@@ -6583,7 +6583,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                                     <id>0</id>
                                     <inactive>false</inactive>
                                     <lock-version>0</lock-version>
-                                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                                     <last-update-user>admin</last-update-user>
                                     <created>2012-11-15T04:21:51+05:30</created>
                                     <create-user>admin</create-user>
@@ -6608,7 +6608,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                                 <id>0</id>
                                 <inactive>false</inactive>
                                 <lock-version>0</lock-version>
-                                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                                 <last-update-user>admin</last-update-user>
                                 <created>2012-11-15T04:26:45+05:30</created>
                                 <create-user>admin</create-user>
@@ -6646,7 +6646,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                                     <id>0</id>
                                     <inactive>false</inactive>
                                     <lock-version>0</lock-version>
-                                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                                     <last-update-user>admin</last-update-user>
                                     <created>2012-11-15T04:26:45+05:30</created>
                                     <create-user>admin</create-user>
@@ -6671,7 +6671,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                                 <id>0</id>
                                 <inactive>false</inactive>
                                 <lock-version>0</lock-version>
-                                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                                 <last-update-user>admin</last-update-user>
                                 <created>2012-09-04T11:52:57+05:30</created>
                                 <create-user>admin</create-user>
@@ -6682,7 +6682,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                                 <id>0</id>
                                 <inactive>false</inactive>
                                 <lock-version>0</lock-version>
-                                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                                 <last-update-user>admin</last-update-user>
                                 <created>2012-09-04T11:52:57+05:30</created>
                                 <create-user>admin</create-user>
@@ -6700,6 +6700,13 @@ $SITEPORT = "$sampleapp_port"
 $APPPOOLNAME = "$apppool_name"
 # Sample app directory
 $APP_DIR = "$sample_app_dir\APP"
+
+write-host "CREATING SAMPLE APP DIRECTORIES"
+if (!(Test-Path -Path $APP_DIR))
+{
+      New-Item $APP_DIR -type directory
+}
+
 # Script file that will create sample app
 $WEBAPP_FILE = "$APP_DIR\CreateWebApp.PS1"
 $TEMP_FILE = "$APP_DIR\Temp.txt"
@@ -6713,13 +6720,6 @@ $USERNAME = "$admin_user"
 $PASSWORD = "$admin_password"
 # Copy the password into tmp.txt file 
 $PASSWORD &gt; "$APP_DIR\tmp.txt"
-
-
-write-host "CREATING SAMPLE APP DIRECTORIES"
-if (!(Test-Path -Path $APP_DIR))
-{
-      New-Item $APP_DIR -type directory
-}
 
 ########VALIDATION FUNCTIONS#########################
 
@@ -7173,7 +7173,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                         <id>0</id>
                         <inactive>false</inactive>
                         <lock-version>0</lock-version>
-                        <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                        <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                         <last-update-user>admin</last-update-user>
                         <created>2012-08-23T05:09:53+05:30</created>
                         <create-user>admin</create-user>
@@ -7201,7 +7201,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                             <id>0</id>
                             <inactive>false</inactive>
                             <lock-version>0</lock-version>
-                            <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                            <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                             <last-update-user>admin</last-update-user>
                             <created>2012-08-23T05:09:53+05:30</created>
                             <create-user>admin</create-user>
@@ -7226,7 +7226,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                         <id>0</id>
                         <inactive>false</inactive>
                         <lock-version>0</lock-version>
-                        <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                        <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                         <last-update-user>admin</last-update-user>
                         <created>2012-08-23T05:09:53+05:30</created>
                         <create-user>admin</create-user>
@@ -7254,7 +7254,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                             <id>0</id>
                             <inactive>false</inactive>
                             <lock-version>0</lock-version>
-                            <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                            <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                             <last-update-user>admin</last-update-user>
                             <created>2012-08-23T05:09:53+05:30</created>
                             <create-user>admin</create-user>
@@ -7279,7 +7279,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                         <id>0</id>
                         <inactive>false</inactive>
                         <lock-version>0</lock-version>
-                        <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                        <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                         <last-update-user>admin</last-update-user>
                         <created>2012-08-23T05:09:53+05:30</created>
                         <create-user>admin</create-user>
@@ -7307,7 +7307,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                             <id>0</id>
                             <inactive>false</inactive>
                             <lock-version>0</lock-version>
-                            <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                            <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                             <last-update-user>admin</last-update-user>
                             <created>2012-08-23T05:09:53+05:30</created>
                             <create-user>admin</create-user>
@@ -7332,7 +7332,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                         <id>0</id>
                         <inactive>false</inactive>
                         <lock-version>0</lock-version>
-                        <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                        <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                         <last-update-user>admin</last-update-user>
                         <created>2012-08-23T05:09:53+05:30</created>
                         <create-user>admin</create-user>
@@ -7360,7 +7360,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                             <id>0</id>
                             <inactive>false</inactive>
                             <lock-version>0</lock-version>
-                            <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                            <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                             <last-update-user>admin</last-update-user>
                             <created>2012-08-23T05:09:53+05:30</created>
                             <create-user>admin</create-user>
@@ -7387,7 +7387,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
             <id>0</id>
             <inactive>false</inactive>
             <lock-version>0</lock-version>
-            <last-updated>2012-11-16T06:11:08+05:30</last-updated>
+            <last-updated>2012-11-16T14:24:54+05:30</last-updated>
             <last-update-user>admin</last-update-user>
             <created>2012-08-23T06:16:49+05:30</created>
             <create-user>admin</create-user>
@@ -7395,7 +7395,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                 <id>0</id>
                 <inactive>false</inactive>
                 <lock-version>0</lock-version>
-                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                 <last-update-user>admin</last-update-user>
                 <created>2012-08-23T05:09:53+05:30</created>
                 <create-user>admin</create-user>
@@ -7583,7 +7583,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                     <id>0</id>
                     <inactive>false</inactive>
                     <lock-version>0</lock-version>
-                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                     <last-update-user>admin</last-update-user>
                     <created>2012-08-23T05:09:53+05:30</created>
                     <create-user>admin</create-user>
@@ -7594,7 +7594,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                     <id>0</id>
                     <inactive>false</inactive>
                     <lock-version>0</lock-version>
-                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                     <last-update-user>admin</last-update-user>
                     <created>2012-08-23T05:09:53+05:30</created>
                     <create-user>admin</create-user>
@@ -7622,7 +7622,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                         <id>0</id>
                         <inactive>false</inactive>
                         <lock-version>0</lock-version>
-                        <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                        <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                         <last-update-user>admin</last-update-user>
                         <created>2012-08-23T05:09:53+05:30</created>
                         <create-user>admin</create-user>
@@ -7647,7 +7647,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                     <id>0</id>
                     <inactive>false</inactive>
                     <lock-version>0</lock-version>
-                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                     <last-update-user>admin</last-update-user>
                     <created>2012-08-23T05:09:53+05:30</created>
                     <create-user>admin</create-user>
@@ -7675,7 +7675,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                         <id>0</id>
                         <inactive>false</inactive>
                         <lock-version>0</lock-version>
-                        <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                        <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                         <last-update-user>admin</last-update-user>
                         <created>2012-08-23T05:09:53+05:30</created>
                         <create-user>admin</create-user>
@@ -7700,7 +7700,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                     <id>0</id>
                     <inactive>false</inactive>
                     <lock-version>0</lock-version>
-                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                     <last-update-user>admin</last-update-user>
                     <created>2012-08-23T05:09:53+05:30</created>
                     <create-user>admin</create-user>
@@ -7728,7 +7728,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                         <id>0</id>
                         <inactive>false</inactive>
                         <lock-version>0</lock-version>
-                        <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                        <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                         <last-update-user>admin</last-update-user>
                         <created>2012-08-23T05:09:53+05:30</created>
                         <create-user>admin</create-user>
@@ -7753,7 +7753,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                     <id>0</id>
                     <inactive>false</inactive>
                     <lock-version>0</lock-version>
-                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                     <last-update-user>admin</last-update-user>
                     <created>2012-08-23T05:09:53+05:30</created>
                     <create-user>admin</create-user>
@@ -7781,7 +7781,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                         <id>0</id>
                         <inactive>false</inactive>
                         <lock-version>0</lock-version>
-                        <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                        <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                         <last-update-user>admin</last-update-user>
                         <created>2012-08-23T05:09:53+05:30</created>
                         <create-user>admin</create-user>
@@ -7820,7 +7820,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                 <id>0</id>
                 <inactive>false</inactive>
                 <lock-version>0</lock-version>
-                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                 <last-update-user>admin</last-update-user>
                 <created>2012-08-23T05:09:53+05:30</created>
                 <create-user>admin</create-user>
@@ -7848,7 +7848,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                     <id>0</id>
                     <inactive>false</inactive>
                     <lock-version>0</lock-version>
-                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                     <last-update-user>admin</last-update-user>
                     <created>2012-08-23T05:09:53+05:30</created>
                     <create-user>admin</create-user>
@@ -7873,7 +7873,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                 <id>0</id>
                 <inactive>false</inactive>
                 <lock-version>0</lock-version>
-                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                 <last-update-user>admin</last-update-user>
                 <created>2012-08-23T05:09:53+05:30</created>
                 <create-user>admin</create-user>
@@ -7901,7 +7901,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                     <id>0</id>
                     <inactive>false</inactive>
                     <lock-version>0</lock-version>
-                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                     <last-update-user>admin</last-update-user>
                     <created>2012-08-23T05:09:53+05:30</created>
                     <create-user>admin</create-user>
@@ -7926,7 +7926,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                 <id>0</id>
                 <inactive>false</inactive>
                 <lock-version>0</lock-version>
-                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                 <last-update-user>admin</last-update-user>
                 <created>2012-08-23T05:09:53+05:30</created>
                 <create-user>admin</create-user>
@@ -7954,7 +7954,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                     <id>0</id>
                     <inactive>false</inactive>
                     <lock-version>0</lock-version>
-                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                     <last-update-user>admin</last-update-user>
                     <created>2012-08-23T05:09:53+05:30</created>
                     <create-user>admin</create-user>
@@ -7979,7 +7979,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                 <id>0</id>
                 <inactive>false</inactive>
                 <lock-version>0</lock-version>
-                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                 <last-update-user>admin</last-update-user>
                 <created>2012-08-23T05:09:53+05:30</created>
                 <create-user>admin</create-user>
@@ -8007,7 +8007,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                     <id>0</id>
                     <inactive>false</inactive>
                     <lock-version>0</lock-version>
-                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                     <last-update-user>admin</last-update-user>
                     <created>2012-08-23T05:09:53+05:30</created>
                     <create-user>admin</create-user>
@@ -8032,7 +8032,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
             <id>0</id>
             <inactive>false</inactive>
             <lock-version>0</lock-version>
-            <last-updated>2012-11-16T06:11:08+05:30</last-updated>
+            <last-updated>2012-11-16T14:24:54+05:30</last-updated>
             <last-update-user>admin</last-update-user>
             <created>2012-08-23T06:16:49+05:30</created>
             <create-user>admin</create-user>
@@ -8045,7 +8045,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
             <id>0</id>
             <inactive>false</inactive>
             <lock-version>0</lock-version>
-            <last-updated>2012-11-16T06:11:08+05:30</last-updated>
+            <last-updated>2012-11-16T14:24:54+05:30</last-updated>
             <last-update-user>admin</last-update-user>
             <created>2012-09-04T09:22:55+05:30</created>
             <create-user>admin</create-user>
@@ -8236,7 +8236,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                     <id>0</id>
                     <inactive>false</inactive>
                     <lock-version>0</lock-version>
-                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                     <last-update-user>admin</last-update-user>
                     <created>2012-09-04T09:21:51+05:30</created>
                     <create-user>admin</create-user>
@@ -8646,7 +8646,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
             <id>0</id>
             <inactive>false</inactive>
             <lock-version>0</lock-version>
-            <last-updated>2012-11-16T06:11:08+05:30</last-updated>
+            <last-updated>2012-11-16T14:24:54+05:30</last-updated>
             <last-update-user>admin</last-update-user>
             <created>2012-09-04T11:54:25+05:30</created>
             <create-user>admin</create-user>
@@ -8662,7 +8662,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                 <id>0</id>
                 <inactive>false</inactive>
                 <lock-version>0</lock-version>
-                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                 <last-update-user>admin</last-update-user>
                 <created>2012-09-04T11:52:57+05:30</created>
                 <create-user>admin</create-user>
@@ -8700,7 +8700,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                     <id>0</id>
                     <inactive>false</inactive>
                     <lock-version>0</lock-version>
-                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                     <last-update-user>admin</last-update-user>
                     <created>2012-09-04T11:52:57+05:30</created>
                     <create-user>admin</create-user>
@@ -8725,7 +8725,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                 <id>0</id>
                 <inactive>false</inactive>
                 <lock-version>0</lock-version>
-                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                 <last-update-user>admin</last-update-user>
                 <created>2012-09-04T11:52:57+05:30</created>
                 <create-user>admin</create-user>
@@ -8763,7 +8763,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                     <id>0</id>
                     <inactive>false</inactive>
                     <lock-version>0</lock-version>
-                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                     <last-update-user>admin</last-update-user>
                     <created>2012-09-04T11:52:57+05:30</created>
                     <create-user>admin</create-user>
@@ -8788,7 +8788,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                 <id>0</id>
                 <inactive>false</inactive>
                 <lock-version>0</lock-version>
-                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                 <last-update-user>admin</last-update-user>
                 <created>2012-09-04T11:52:57+05:30</created>
                 <create-user>admin</create-user>
@@ -8826,7 +8826,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                     <id>0</id>
                     <inactive>false</inactive>
                     <lock-version>0</lock-version>
-                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                     <last-update-user>admin</last-update-user>
                     <created>2012-09-04T11:52:57+05:30</created>
                     <create-user>admin</create-user>
@@ -8851,7 +8851,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                 <id>0</id>
                 <inactive>false</inactive>
                 <lock-version>0</lock-version>
-                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                 <last-update-user>admin</last-update-user>
                 <created>2012-09-04T11:52:57+05:30</created>
                 <create-user>admin</create-user>
@@ -8889,7 +8889,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                     <id>0</id>
                     <inactive>false</inactive>
                     <lock-version>0</lock-version>
-                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                     <last-update-user>admin</last-update-user>
                     <created>2012-09-04T11:52:57+05:30</created>
                     <create-user>admin</create-user>
@@ -8914,7 +8914,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                 <id>0</id>
                 <inactive>false</inactive>
                 <lock-version>0</lock-version>
-                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                 <last-update-user>admin</last-update-user>
                 <created>2012-11-15T04:21:50+05:30</created>
                 <create-user>admin</create-user>
@@ -8952,7 +8952,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                     <id>0</id>
                     <inactive>false</inactive>
                     <lock-version>0</lock-version>
-                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                     <last-update-user>admin</last-update-user>
                     <created>2012-11-15T04:21:51+05:30</created>
                     <create-user>admin</create-user>
@@ -8977,7 +8977,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                 <id>0</id>
                 <inactive>false</inactive>
                 <lock-version>0</lock-version>
-                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                 <last-update-user>admin</last-update-user>
                 <created>2012-11-15T04:26:45+05:30</created>
                 <create-user>admin</create-user>
@@ -9015,7 +9015,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                     <id>0</id>
                     <inactive>false</inactive>
                     <lock-version>0</lock-version>
-                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                     <last-update-user>admin</last-update-user>
                     <created>2012-11-15T04:26:45+05:30</created>
                     <create-user>admin</create-user>
@@ -9041,7 +9041,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
             <id>0</id>
             <inactive>false</inactive>
             <lock-version>0</lock-version>
-            <last-updated>2012-11-16T06:11:08+05:30</last-updated>
+            <last-updated>2012-11-16T14:24:54+05:30</last-updated>
             <last-update-user>admin</last-update-user>
             <created>1970-01-01T00:00:00+05:30</created>
             <create-user>admin</create-user>
@@ -9344,7 +9344,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                 <id>0</id>
                 <inactive>false</inactive>
                 <lock-version>0</lock-version>
-                <last-updated>2012-11-16T06:11:08+05:30</last-updated>
+                <last-updated>2012-11-16T14:24:54+05:30</last-updated>
                 <last-update-user>admin</last-update-user>
                 <created>1970-01-01T00:00:00+05:30</created>
                 <create-user>admin</create-user>
@@ -9367,17 +9367,17 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                     <id>0</id>
                     <inactive>false</inactive>
                     <lock-version>0</lock-version>
-                    <last-updated>2012-11-16T06:11:08+05:30</last-updated>
+                    <last-updated>2012-11-16T14:24:54+05:30</last-updated>
                     <last-update-user>admin</last-update-user>
-                    <created>2012-11-16T06:11:08+05:30</created>
+                    <created>2012-11-16T14:24:54+05:30</created>
                     <create-user>admin</create-user>
                     <nics logical-network-name="Default Logical Network">
                         <id>0</id>
                         <inactive>false</inactive>
                         <lock-version>0</lock-version>
-                        <last-updated>2012-11-16T06:11:08+05:30</last-updated>
+                        <last-updated>2012-11-16T14:24:54+05:30</last-updated>
                         <last-update-user>admin</last-update-user>
-                        <created>2012-11-16T06:11:08+05:30</created>
+                        <created>2012-11-16T14:24:54+05:30</created>
                         <create-user>admin</create-user>
                         <name>NIC0</name>
                         <id-name>104</id-name>
@@ -9388,17 +9388,17 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                 <id>0</id>
                 <inactive>false</inactive>
                 <lock-version>0</lock-version>
-                <last-updated>2012-11-16T06:11:08+05:30</last-updated>
+                <last-updated>2012-11-16T14:24:54+05:30</last-updated>
                 <last-update-user>admin</last-update-user>
-                <created>2012-11-16T06:11:08+05:30</created>
+                <created>2012-11-16T14:24:54+05:30</created>
                 <create-user>admin</create-user>
                 <first-task-id>
                     <id>0</id>
                     <inactive>false</inactive>
                     <lock-version>0</lock-version>
-                    <last-updated>2012-11-16T06:11:08+05:30</last-updated>
+                    <last-updated>2012-11-16T14:24:54+05:30</last-updated>
                     <last-update-user>admin</last-update-user>
-                    <created>2012-11-16T06:11:08+05:30</created>
+                    <created>2012-11-16T14:24:54+05:30</created>
                     <create-user>admin</create-user>
                     <component-id>Microsoft_Sharepoint_2010</component-id>
                     <identifier>Microsoft_Sharepoint_2010-INSTALL</identifier>
@@ -9408,9 +9408,9 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                     <id>0</id>
                     <inactive>false</inactive>
                     <lock-version>0</lock-version>
-                    <last-updated>2012-11-16T06:11:08+05:30</last-updated>
+                    <last-updated>2012-11-16T14:24:54+05:30</last-updated>
                     <last-update-user>admin</last-update-user>
-                    <created>2012-11-16T06:11:08+05:30</created>
+                    <created>2012-11-16T14:24:54+05:30</created>
                     <create-user>admin</create-user>
                     <description>Install lifecycle on a component.</description>
                     <script-mode>inline</script-mode>
@@ -9645,9 +9645,9 @@ else
                         <id>0</id>
                         <inactive>false</inactive>
                         <lock-version>0</lock-version>
-                        <last-updated>2012-11-16T06:11:08+05:30</last-updated>
+                        <last-updated>2012-11-16T14:24:54+05:30</last-updated>
                         <last-update-user>admin</last-update-user>
-                        <created>2012-11-16T06:11:08+05:30</created>
+                        <created>2012-11-16T14:24:54+05:30</created>
                         <create-user>admin</create-user>
                         <component-id>Microsoft_Sharepoint_2010</component-id>
                         <identifier>Microsoft_Sharepoint_2010-INSTALL</identifier>
@@ -9658,9 +9658,9 @@ else
                         <id>0</id>
                         <inactive>false</inactive>
                         <lock-version>0</lock-version>
-                        <last-updated>2012-11-16T06:11:08+05:30</last-updated>
+                        <last-updated>2012-11-16T14:24:54+05:30</last-updated>
                         <last-update-user>admin</last-update-user>
-                        <created>2012-11-16T06:11:08+05:30</created>
+                        <created>2012-11-16T14:24:54+05:30</created>
                         <create-user>admin</create-user>
                         <name>sharepoint_installer</name>
                         <value><![CDATA[C:\SHAREPT]]></value>
@@ -9672,9 +9672,9 @@ else
                         <id>0</id>
                         <inactive>false</inactive>
                         <lock-version>0</lock-version>
-                        <last-updated>2012-11-16T06:11:08+05:30</last-updated>
+                        <last-updated>2012-11-16T14:24:54+05:30</last-updated>
                         <last-update-user>admin</last-update-user>
-                        <created>2012-11-16T06:11:08+05:30</created>
+                        <created>2012-11-16T14:24:54+05:30</created>
                         <create-user>admin</create-user>
                         <name>machine_ip</name>
                         <value><![CDATA[${['self']['host']['ip']}]]></value>
@@ -9686,9 +9686,9 @@ else
                         <id>0</id>
                         <inactive>false</inactive>
                         <lock-version>0</lock-version>
-                        <last-updated>2012-11-16T06:11:08+05:30</last-updated>
+                        <last-updated>2012-11-16T14:24:54+05:30</last-updated>
                         <last-update-user>admin</last-update-user>
-                        <created>2012-11-16T06:11:08+05:30</created>
+                        <created>2012-11-16T14:24:54+05:30</created>
                         <create-user>admin</create-user>
                         <name>server_role</name>
                         <value><![CDATA[SINGLESERVER]]></value>
@@ -9700,9 +9700,9 @@ else
                         <id>0</id>
                         <inactive>false</inactive>
                         <lock-version>0</lock-version>
-                        <last-updated>2012-11-16T06:11:08+05:30</last-updated>
+                        <last-updated>2012-11-16T14:24:54+05:30</last-updated>
                         <last-update-user>admin</last-update-user>
-                        <created>2012-11-16T06:11:08+05:30</created>
+                        <created>2012-11-16T14:24:54+05:30</created>
                         <create-user>admin</create-user>
                         <name>package_id</name>
                         <value><![CDATA[Sts]]></value>
@@ -9714,9 +9714,9 @@ else
                         <id>0</id>
                         <inactive>false</inactive>
                         <lock-version>0</lock-version>
-                        <last-updated>2012-11-16T06:11:08+05:30</last-updated>
+                        <last-updated>2012-11-16T14:24:54+05:30</last-updated>
                         <last-update-user>admin</last-update-user>
-                        <created>2012-11-16T06:11:08+05:30</created>
+                        <created>2012-11-16T14:24:54+05:30</created>
                         <create-user>admin</create-user>
                         <name>Port</name>
                         <value><![CDATA[7001]]></value>
@@ -9728,9 +9728,9 @@ else
                         <id>0</id>
                         <inactive>false</inactive>
                         <lock-version>0</lock-version>
-                        <last-updated>2012-11-16T06:11:08+05:30</last-updated>
+                        <last-updated>2012-11-16T14:24:54+05:30</last-updated>
                         <last-update-user>admin</last-update-user>
-                        <created>2012-11-16T06:11:08+05:30</created>
+                        <created>2012-11-16T14:24:54+05:30</created>
                         <create-user>admin</create-user>
                         <name>download_url</name>
                         <value><![CDATA[http://10.20.140.69:8080/SharePoint/SharePointServer.exe]]></value>
@@ -9742,9 +9742,9 @@ else
                         <id>0</id>
                         <inactive>false</inactive>
                         <lock-version>0</lock-version>
-                        <last-updated>2012-11-16T06:11:08+05:30</last-updated>
+                        <last-updated>2012-11-16T14:24:54+05:30</last-updated>
                         <last-update-user>admin</last-update-user>
-                        <created>2012-11-16T06:11:08+05:30</created>
+                        <created>2012-11-16T14:24:54+05:30</created>
                         <create-user>admin</create-user>
                         <name>pid_key</name>
                         <value><![CDATA[C63K8-P47HD-JM443-K2VP6-Y3FFQ]]></value>
@@ -9756,9 +9756,9 @@ else
                         <id>0</id>
                         <inactive>false</inactive>
                         <lock-version>0</lock-version>
-                        <last-updated>2012-11-16T06:11:08+05:30</last-updated>
+                        <last-updated>2012-11-16T14:24:54+05:30</last-updated>
                         <last-update-user>admin</last-update-user>
-                        <created>2012-11-16T06:11:08+05:30</created>
+                        <created>2012-11-16T14:24:54+05:30</created>
                         <create-user>admin</create-user>
                         <name>config_xml</name>
                         <value><![CDATA[C:\Program Files (x86)\MSECache\oserver2010\Files\Setup\config.xml]]></value>
@@ -9770,17 +9770,17 @@ else
                         <id>0</id>
                         <inactive>false</inactive>
                         <lock-version>0</lock-version>
-                        <last-updated>2012-11-16T06:11:08+05:30</last-updated>
+                        <last-updated>2012-11-16T14:24:54+05:30</last-updated>
                         <last-update-user>admin</last-update-user>
-                        <created>2012-11-16T06:11:08+05:30</created>
+                        <created>2012-11-16T14:24:54+05:30</created>
                         <create-user>admin</create-user>
                         <node-task-identifier>
                             <id>0</id>
                             <inactive>false</inactive>
                             <lock-version>0</lock-version>
-                            <last-updated>2012-11-16T06:11:08+05:30</last-updated>
+                            <last-updated>2012-11-16T14:24:54+05:30</last-updated>
                             <last-update-user>admin</last-update-user>
-                            <created>2012-11-16T06:11:08+05:30</created>
+                            <created>2012-11-16T14:24:54+05:30</created>
                             <create-user>admin</create-user>
                             <component-id>Sample_App</component-id>
                             <identifier>Sample_App-INSTALL</identifier>
@@ -9795,9 +9795,9 @@ else
                     <id>0</id>
                     <inactive>false</inactive>
                     <lock-version>0</lock-version>
-                    <last-updated>2012-11-16T06:11:08+05:30</last-updated>
+                    <last-updated>2012-11-16T14:24:54+05:30</last-updated>
                     <last-update-user>admin</last-update-user>
-                    <created>2012-11-16T06:11:08+05:30</created>
+                    <created>2012-11-16T14:24:54+05:30</created>
                     <create-user>admin</create-user>
                     <description>Install lifecycle on a component.</description>
                     <script-mode>inline</script-mode>
@@ -9815,6 +9815,13 @@ $SITEPORT = "$sampleapp_port"
 $APPPOOLNAME = "$apppool_name"
 # Sample app directory
 $APP_DIR = "$sample_app_dir\APP"
+
+write-host "CREATING SAMPLE APP DIRECTORIES"
+if (!(Test-Path -Path $APP_DIR))
+{
+      New-Item $APP_DIR -type directory
+}
+
 # Script file that will create sample app
 $WEBAPP_FILE = "$APP_DIR\CreateWebApp.PS1"
 $TEMP_FILE = "$APP_DIR\Temp.txt"
@@ -9828,13 +9835,6 @@ $USERNAME = "$admin_user"
 $PASSWORD = "$admin_password"
 # Copy the password into tmp.txt file 
 $PASSWORD > "$APP_DIR\tmp.txt"
-
-
-write-host "CREATING SAMPLE APP DIRECTORIES"
-if (!(Test-Path -Path $APP_DIR))
-{
-      New-Item $APP_DIR -type directory
-}
 
 ########VALIDATION FUNCTIONS#########################
 
@@ -9962,9 +9962,9 @@ Start-Process powershell -verb runas -ArgumentList "-file $SITECOLLECTION_FILE"]
                         <id>0</id>
                         <inactive>false</inactive>
                         <lock-version>0</lock-version>
-                        <last-updated>2012-11-16T06:11:08+05:30</last-updated>
+                        <last-updated>2012-11-16T14:24:54+05:30</last-updated>
                         <last-update-user>admin</last-update-user>
-                        <created>2012-11-16T06:11:08+05:30</created>
+                        <created>2012-11-16T14:24:54+05:30</created>
                         <create-user>admin</create-user>
                         <component-id>Sample_App</component-id>
                         <identifier>Sample_App-INSTALL</identifier>
@@ -9975,9 +9975,9 @@ Start-Process powershell -verb runas -ArgumentList "-file $SITECOLLECTION_FILE"]
                         <id>0</id>
                         <inactive>false</inactive>
                         <lock-version>0</lock-version>
-                        <last-updated>2012-11-16T06:11:08+05:30</last-updated>
+                        <last-updated>2012-11-16T14:24:54+05:30</last-updated>
                         <last-update-user>admin</last-update-user>
-                        <created>2012-11-16T06:11:08+05:30</created>
+                        <created>2012-11-16T14:24:54+05:30</created>
                         <create-user>admin</create-user>
                         <name>sample_app_dir</name>
                         <value><![CDATA[C:\SHAREPT]]></value>
@@ -9989,9 +9989,9 @@ Start-Process powershell -verb runas -ArgumentList "-file $SITECOLLECTION_FILE"]
                         <id>0</id>
                         <inactive>false</inactive>
                         <lock-version>0</lock-version>
-                        <last-updated>2012-11-16T06:11:08+05:30</last-updated>
+                        <last-updated>2012-11-16T14:24:54+05:30</last-updated>
                         <last-update-user>admin</last-update-user>
-                        <created>2012-11-16T06:11:08+05:30</created>
+                        <created>2012-11-16T14:24:54+05:30</created>
                         <create-user>admin</create-user>
                         <name>apppool_name</name>
                         <value><![CDATA[Apppool_4484]]></value>
@@ -10003,9 +10003,9 @@ Start-Process powershell -verb runas -ArgumentList "-file $SITECOLLECTION_FILE"]
                         <id>0</id>
                         <inactive>false</inactive>
                         <lock-version>0</lock-version>
-                        <last-updated>2012-11-16T06:11:08+05:30</last-updated>
+                        <last-updated>2012-11-16T14:24:54+05:30</last-updated>
                         <last-update-user>admin</last-update-user>
-                        <created>2012-11-16T06:11:08+05:30</created>
+                        <created>2012-11-16T14:24:54+05:30</created>
                         <create-user>admin</create-user>
                         <name>sampleapp_port</name>
                         <value><![CDATA[4484]]></value>
@@ -10017,9 +10017,9 @@ Start-Process powershell -verb runas -ArgumentList "-file $SITECOLLECTION_FILE"]
                         <id>0</id>
                         <inactive>false</inactive>
                         <lock-version>0</lock-version>
-                        <last-updated>2012-11-16T06:11:08+05:30</last-updated>
+                        <last-updated>2012-11-16T14:24:54+05:30</last-updated>
                         <last-update-user>admin</last-update-user>
-                        <created>2012-11-16T06:11:08+05:30</created>
+                        <created>2012-11-16T14:24:54+05:30</created>
                         <create-user>admin</create-user>
                         <name>sampleapp_sitename</name>
                         <value><![CDATA[samplesite]]></value>
@@ -10031,9 +10031,9 @@ Start-Process powershell -verb runas -ArgumentList "-file $SITECOLLECTION_FILE"]
                         <id>0</id>
                         <inactive>false</inactive>
                         <lock-version>0</lock-version>
-                        <last-updated>2012-11-16T06:11:08+05:30</last-updated>
+                        <last-updated>2012-11-16T14:24:54+05:30</last-updated>
                         <last-update-user>admin</last-update-user>
-                        <created>2012-11-16T06:11:08+05:30</created>
+                        <created>2012-11-16T14:24:54+05:30</created>
                         <create-user>admin</create-user>
                         <name>admin_user</name>
                         <value><![CDATA[darwin]]></value>
@@ -10045,9 +10045,9 @@ Start-Process powershell -verb runas -ArgumentList "-file $SITECOLLECTION_FILE"]
                         <id>0</id>
                         <inactive>false</inactive>
                         <lock-version>0</lock-version>
-                        <last-updated>2012-11-16T06:11:08+05:30</last-updated>
+                        <last-updated>2012-11-16T14:24:54+05:30</last-updated>
                         <last-update-user>admin</last-update-user>
-                        <created>2012-11-16T06:11:08+05:30</created>
+                        <created>2012-11-16T14:24:54+05:30</created>
                         <create-user>admin</create-user>
                         <name>admin_password</name>
                         <value><![CDATA[]]></value>
@@ -10063,7 +10063,7 @@ Start-Process powershell -verb runas -ArgumentList "-file $SITECOLLECTION_FILE"]
                     <id>0</id>
                     <inactive>false</inactive>
                     <lock-version>0</lock-version>
-                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                     <last-update-user>admin</last-update-user>
                     <created>2012-08-23T05:09:53+05:30</created>
                     <create-user>admin</create-user>
@@ -10089,7 +10089,7 @@ Start-Process powershell -verb runas -ArgumentList "-file $SITECOLLECTION_FILE"]
             <id>0</id>
             <inactive>false</inactive>
             <lock-version>0</lock-version>
-            <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+            <last-updated>2012-11-16T14:24:06+05:30</last-updated>
             <last-update-user>admin</last-update-user>
             <created>2012-08-23T05:09:53+05:30</created>
             <create-user>admin</create-user>
@@ -10134,7 +10134,7 @@ Microsoft SharePoint 2010 makes it easier for people to work together. Using Sha
                 <id>0</id>
                 <inactive>false</inactive>
                 <lock-version>0</lock-version>
-                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                 <last-update-user>admin</last-update-user>
                 <created>2012-08-23T05:09:53+05:30</created>
                 <create-user>admin</create-user>
@@ -10145,7 +10145,7 @@ Microsoft SharePoint 2010 makes it easier for people to work together. Using Sha
                     <id>0</id>
                     <inactive>false</inactive>
                     <lock-version>0</lock-version>
-                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                     <last-update-user>admin</last-update-user>
                     <created>2012-08-23T05:09:53+05:30</created>
                     <create-user>admin</create-user>
@@ -10333,7 +10333,7 @@ Microsoft SharePoint 2010 makes it easier for people to work together. Using Sha
                         <id>0</id>
                         <inactive>false</inactive>
                         <lock-version>0</lock-version>
-                        <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                        <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                         <last-update-user>admin</last-update-user>
                         <created>2012-08-23T05:09:53+05:30</created>
                         <create-user>admin</create-user>
@@ -10526,7 +10526,7 @@ Microsoft SharePoint 2010 makes it easier for people to work together. Using Sha
                                 <id>0</id>
                                 <inactive>false</inactive>
                                 <lock-version>0</lock-version>
-                                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                                 <last-update-user>admin</last-update-user>
                                 <created>2012-09-04T09:21:51+05:30</created>
                                 <create-user>admin</create-user>
@@ -12247,9 +12247,9 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                             <id>0</id>
                             <inactive>false</inactive>
                             <lock-version>0</lock-version>
-                            <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                            <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                             <last-update-user>admin</last-update-user>
-                            <created>2012-11-16T06:08:39+05:30</created>
+                            <created>2012-11-16T14:24:06+05:30</created>
                             <create-user>admin</create-user>
                             <node-component-dependency-type>
                                 <id>3</id>
@@ -12276,7 +12276,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                             <id>0</id>
                             <inactive>false</inactive>
                             <lock-version>0</lock-version>
-                            <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                            <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                             <last-update-user>admin</last-update-user>
                             <created>2012-09-04T11:52:57+05:30</created>
                             <create-user>admin</create-user>
@@ -12314,7 +12314,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                                 <id>0</id>
                                 <inactive>false</inactive>
                                 <lock-version>0</lock-version>
-                                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                                 <last-update-user>admin</last-update-user>
                                 <created>2012-09-04T11:52:57+05:30</created>
                                 <create-user>admin</create-user>
@@ -12339,7 +12339,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                             <id>0</id>
                             <inactive>false</inactive>
                             <lock-version>0</lock-version>
-                            <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                            <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                             <last-update-user>admin</last-update-user>
                             <created>2012-09-04T11:52:57+05:30</created>
                             <create-user>admin</create-user>
@@ -12377,7 +12377,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                                 <id>0</id>
                                 <inactive>false</inactive>
                                 <lock-version>0</lock-version>
-                                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                                 <last-update-user>admin</last-update-user>
                                 <created>2012-09-04T11:52:57+05:30</created>
                                 <create-user>admin</create-user>
@@ -12402,7 +12402,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                             <id>0</id>
                             <inactive>false</inactive>
                             <lock-version>0</lock-version>
-                            <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                            <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                             <last-update-user>admin</last-update-user>
                             <created>2012-09-04T11:52:57+05:30</created>
                             <create-user>admin</create-user>
@@ -12440,7 +12440,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                                 <id>0</id>
                                 <inactive>false</inactive>
                                 <lock-version>0</lock-version>
-                                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                                 <last-update-user>admin</last-update-user>
                                 <created>2012-09-04T11:52:57+05:30</created>
                                 <create-user>admin</create-user>
@@ -12465,7 +12465,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                             <id>0</id>
                             <inactive>false</inactive>
                             <lock-version>0</lock-version>
-                            <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                            <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                             <last-update-user>admin</last-update-user>
                             <created>2012-09-04T11:52:57+05:30</created>
                             <create-user>admin</create-user>
@@ -12503,7 +12503,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                                 <id>0</id>
                                 <inactive>false</inactive>
                                 <lock-version>0</lock-version>
-                                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                                 <last-update-user>admin</last-update-user>
                                 <created>2012-09-04T11:52:57+05:30</created>
                                 <create-user>admin</create-user>
@@ -12528,7 +12528,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                             <id>0</id>
                             <inactive>false</inactive>
                             <lock-version>0</lock-version>
-                            <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                            <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                             <last-update-user>admin</last-update-user>
                             <created>2012-11-15T04:21:50+05:30</created>
                             <create-user>admin</create-user>
@@ -12566,7 +12566,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                                 <id>0</id>
                                 <inactive>false</inactive>
                                 <lock-version>0</lock-version>
-                                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                                 <last-update-user>admin</last-update-user>
                                 <created>2012-11-15T04:21:51+05:30</created>
                                 <create-user>admin</create-user>
@@ -12591,7 +12591,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                             <id>0</id>
                             <inactive>false</inactive>
                             <lock-version>0</lock-version>
-                            <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                            <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                             <last-update-user>admin</last-update-user>
                             <created>2012-11-15T04:26:45+05:30</created>
                             <create-user>admin</create-user>
@@ -12629,7 +12629,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                                 <id>0</id>
                                 <inactive>false</inactive>
                                 <lock-version>0</lock-version>
-                                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                                 <last-update-user>admin</last-update-user>
                                 <created>2012-11-15T04:26:45+05:30</created>
                                 <create-user>admin</create-user>
@@ -12654,7 +12654,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                             <id>0</id>
                             <inactive>false</inactive>
                             <lock-version>0</lock-version>
-                            <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                            <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                             <last-update-user>admin</last-update-user>
                             <created>2012-09-04T11:52:57+05:30</created>
                             <create-user>admin</create-user>
@@ -12668,7 +12668,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                                 <id>0</id>
                                 <inactive>false</inactive>
                                 <lock-version>0</lock-version>
-                                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                                 <last-update-user>admin</last-update-user>
                                 <created>2012-09-04T11:52:57+05:30</created>
                                 <create-user>admin</create-user>
@@ -12706,7 +12706,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                                     <id>0</id>
                                     <inactive>false</inactive>
                                     <lock-version>0</lock-version>
-                                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                                     <last-update-user>admin</last-update-user>
                                     <created>2012-09-04T11:52:57+05:30</created>
                                     <create-user>admin</create-user>
@@ -12731,7 +12731,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                                 <id>0</id>
                                 <inactive>false</inactive>
                                 <lock-version>0</lock-version>
-                                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                                 <last-update-user>admin</last-update-user>
                                 <created>2012-09-04T11:52:57+05:30</created>
                                 <create-user>admin</create-user>
@@ -12769,7 +12769,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                                     <id>0</id>
                                     <inactive>false</inactive>
                                     <lock-version>0</lock-version>
-                                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                                     <last-update-user>admin</last-update-user>
                                     <created>2012-09-04T11:52:57+05:30</created>
                                     <create-user>admin</create-user>
@@ -12794,7 +12794,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                                 <id>0</id>
                                 <inactive>false</inactive>
                                 <lock-version>0</lock-version>
-                                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                                 <last-update-user>admin</last-update-user>
                                 <created>2012-09-04T11:52:57+05:30</created>
                                 <create-user>admin</create-user>
@@ -12832,7 +12832,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                                     <id>0</id>
                                     <inactive>false</inactive>
                                     <lock-version>0</lock-version>
-                                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                                     <last-update-user>admin</last-update-user>
                                     <created>2012-09-04T11:52:57+05:30</created>
                                     <create-user>admin</create-user>
@@ -12857,7 +12857,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                                 <id>0</id>
                                 <inactive>false</inactive>
                                 <lock-version>0</lock-version>
-                                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                                 <last-update-user>admin</last-update-user>
                                 <created>2012-09-04T11:52:57+05:30</created>
                                 <create-user>admin</create-user>
@@ -12895,7 +12895,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                                     <id>0</id>
                                     <inactive>false</inactive>
                                     <lock-version>0</lock-version>
-                                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                                     <last-update-user>admin</last-update-user>
                                     <created>2012-09-04T11:52:57+05:30</created>
                                     <create-user>admin</create-user>
@@ -12920,7 +12920,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                                 <id>0</id>
                                 <inactive>false</inactive>
                                 <lock-version>0</lock-version>
-                                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                                 <last-update-user>admin</last-update-user>
                                 <created>2012-11-15T04:21:50+05:30</created>
                                 <create-user>admin</create-user>
@@ -12958,7 +12958,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                                     <id>0</id>
                                     <inactive>false</inactive>
                                     <lock-version>0</lock-version>
-                                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                                     <last-update-user>admin</last-update-user>
                                     <created>2012-11-15T04:21:51+05:30</created>
                                     <create-user>admin</create-user>
@@ -12983,7 +12983,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                                 <id>0</id>
                                 <inactive>false</inactive>
                                 <lock-version>0</lock-version>
-                                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                                 <last-update-user>admin</last-update-user>
                                 <created>2012-11-15T04:26:45+05:30</created>
                                 <create-user>admin</create-user>
@@ -13021,7 +13021,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                                     <id>0</id>
                                     <inactive>false</inactive>
                                     <lock-version>0</lock-version>
-                                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                                     <last-update-user>admin</last-update-user>
                                     <created>2012-11-15T04:26:45+05:30</created>
                                     <create-user>admin</create-user>
@@ -13046,7 +13046,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                                 <id>0</id>
                                 <inactive>false</inactive>
                                 <lock-version>0</lock-version>
-                                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                                 <last-update-user>admin</last-update-user>
                                 <created>2012-09-04T11:52:57+05:30</created>
                                 <create-user>admin</create-user>
@@ -13057,7 +13057,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                                 <id>0</id>
                                 <inactive>false</inactive>
                                 <lock-version>0</lock-version>
-                                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                                 <last-update-user>admin</last-update-user>
                                 <created>2012-09-04T11:52:57+05:30</created>
                                 <create-user>admin</create-user>
@@ -13075,6 +13075,13 @@ $SITEPORT = "$sampleapp_port"
 $APPPOOLNAME = "$apppool_name"
 # Sample app directory
 $APP_DIR = "$sample_app_dir\APP"
+
+write-host "CREATING SAMPLE APP DIRECTORIES"
+if (!(Test-Path -Path $APP_DIR))
+{
+      New-Item $APP_DIR -type directory
+}
+
 # Script file that will create sample app
 $WEBAPP_FILE = "$APP_DIR\CreateWebApp.PS1"
 $TEMP_FILE = "$APP_DIR\Temp.txt"
@@ -13088,13 +13095,6 @@ $USERNAME = "$admin_user"
 $PASSWORD = "$admin_password"
 # Copy the password into tmp.txt file 
 $PASSWORD &gt; "$APP_DIR\tmp.txt"
-
-
-write-host "CREATING SAMPLE APP DIRECTORIES"
-if (!(Test-Path -Path $APP_DIR))
-{
-      New-Item $APP_DIR -type directory
-}
 
 ########VALIDATION FUNCTIONS#########################
 
@@ -13548,7 +13548,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                         <id>0</id>
                         <inactive>false</inactive>
                         <lock-version>0</lock-version>
-                        <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                        <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                         <last-update-user>admin</last-update-user>
                         <created>2012-08-23T05:09:53+05:30</created>
                         <create-user>admin</create-user>
@@ -13576,7 +13576,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                             <id>0</id>
                             <inactive>false</inactive>
                             <lock-version>0</lock-version>
-                            <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                            <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                             <last-update-user>admin</last-update-user>
                             <created>2012-08-23T05:09:53+05:30</created>
                             <create-user>admin</create-user>
@@ -13601,7 +13601,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                         <id>0</id>
                         <inactive>false</inactive>
                         <lock-version>0</lock-version>
-                        <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                        <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                         <last-update-user>admin</last-update-user>
                         <created>2012-08-23T05:09:53+05:30</created>
                         <create-user>admin</create-user>
@@ -13629,7 +13629,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                             <id>0</id>
                             <inactive>false</inactive>
                             <lock-version>0</lock-version>
-                            <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                            <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                             <last-update-user>admin</last-update-user>
                             <created>2012-08-23T05:09:53+05:30</created>
                             <create-user>admin</create-user>
@@ -13654,7 +13654,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                         <id>0</id>
                         <inactive>false</inactive>
                         <lock-version>0</lock-version>
-                        <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                        <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                         <last-update-user>admin</last-update-user>
                         <created>2012-08-23T05:09:53+05:30</created>
                         <create-user>admin</create-user>
@@ -13682,7 +13682,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                             <id>0</id>
                             <inactive>false</inactive>
                             <lock-version>0</lock-version>
-                            <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                            <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                             <last-update-user>admin</last-update-user>
                             <created>2012-08-23T05:09:53+05:30</created>
                             <create-user>admin</create-user>
@@ -13707,7 +13707,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                         <id>0</id>
                         <inactive>false</inactive>
                         <lock-version>0</lock-version>
-                        <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                        <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                         <last-update-user>admin</last-update-user>
                         <created>2012-08-23T05:09:53+05:30</created>
                         <create-user>admin</create-user>
@@ -13735,7 +13735,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                             <id>0</id>
                             <inactive>false</inactive>
                             <lock-version>0</lock-version>
-                            <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                            <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                             <last-update-user>admin</last-update-user>
                             <created>2012-08-23T05:09:53+05:30</created>
                             <create-user>admin</create-user>
@@ -13770,7 +13770,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                 <id>0</id>
                 <inactive>false</inactive>
                 <lock-version>0</lock-version>
-                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                 <last-update-user>admin</last-update-user>
                 <created>2012-08-23T05:09:53+05:30</created>
                 <create-user>admin</create-user>
@@ -13958,7 +13958,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                     <id>0</id>
                     <inactive>false</inactive>
                     <lock-version>0</lock-version>
-                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                     <last-update-user>admin</last-update-user>
                     <created>2012-08-23T05:09:53+05:30</created>
                     <create-user>admin</create-user>
@@ -13969,7 +13969,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                     <id>0</id>
                     <inactive>false</inactive>
                     <lock-version>0</lock-version>
-                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                     <last-update-user>admin</last-update-user>
                     <created>2012-08-23T05:09:53+05:30</created>
                     <create-user>admin</create-user>
@@ -13997,7 +13997,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                         <id>0</id>
                         <inactive>false</inactive>
                         <lock-version>0</lock-version>
-                        <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                        <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                         <last-update-user>admin</last-update-user>
                         <created>2012-08-23T05:09:53+05:30</created>
                         <create-user>admin</create-user>
@@ -14022,7 +14022,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                     <id>0</id>
                     <inactive>false</inactive>
                     <lock-version>0</lock-version>
-                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                     <last-update-user>admin</last-update-user>
                     <created>2012-08-23T05:09:53+05:30</created>
                     <create-user>admin</create-user>
@@ -14050,7 +14050,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                         <id>0</id>
                         <inactive>false</inactive>
                         <lock-version>0</lock-version>
-                        <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                        <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                         <last-update-user>admin</last-update-user>
                         <created>2012-08-23T05:09:53+05:30</created>
                         <create-user>admin</create-user>
@@ -14075,7 +14075,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                     <id>0</id>
                     <inactive>false</inactive>
                     <lock-version>0</lock-version>
-                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                     <last-update-user>admin</last-update-user>
                     <created>2012-08-23T05:09:53+05:30</created>
                     <create-user>admin</create-user>
@@ -14103,7 +14103,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                         <id>0</id>
                         <inactive>false</inactive>
                         <lock-version>0</lock-version>
-                        <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                        <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                         <last-update-user>admin</last-update-user>
                         <created>2012-08-23T05:09:53+05:30</created>
                         <create-user>admin</create-user>
@@ -14128,7 +14128,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                     <id>0</id>
                     <inactive>false</inactive>
                     <lock-version>0</lock-version>
-                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                     <last-update-user>admin</last-update-user>
                     <created>2012-08-23T05:09:53+05:30</created>
                     <create-user>admin</create-user>
@@ -14156,7 +14156,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                         <id>0</id>
                         <inactive>false</inactive>
                         <lock-version>0</lock-version>
-                        <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                        <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                         <last-update-user>admin</last-update-user>
                         <created>2012-08-23T05:09:53+05:30</created>
                         <create-user>admin</create-user>
@@ -14195,7 +14195,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                 <id>0</id>
                 <inactive>false</inactive>
                 <lock-version>0</lock-version>
-                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                 <last-update-user>admin</last-update-user>
                 <created>2012-08-23T05:09:53+05:30</created>
                 <create-user>admin</create-user>
@@ -14223,7 +14223,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                     <id>0</id>
                     <inactive>false</inactive>
                     <lock-version>0</lock-version>
-                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                     <last-update-user>admin</last-update-user>
                     <created>2012-08-23T05:09:53+05:30</created>
                     <create-user>admin</create-user>
@@ -14248,7 +14248,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                 <id>0</id>
                 <inactive>false</inactive>
                 <lock-version>0</lock-version>
-                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                 <last-update-user>admin</last-update-user>
                 <created>2012-08-23T05:09:53+05:30</created>
                 <create-user>admin</create-user>
@@ -14276,7 +14276,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                     <id>0</id>
                     <inactive>false</inactive>
                     <lock-version>0</lock-version>
-                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                     <last-update-user>admin</last-update-user>
                     <created>2012-08-23T05:09:53+05:30</created>
                     <create-user>admin</create-user>
@@ -14301,7 +14301,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                 <id>0</id>
                 <inactive>false</inactive>
                 <lock-version>0</lock-version>
-                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                 <last-update-user>admin</last-update-user>
                 <created>2012-08-23T05:09:53+05:30</created>
                 <create-user>admin</create-user>
@@ -14329,7 +14329,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                     <id>0</id>
                     <inactive>false</inactive>
                     <lock-version>0</lock-version>
-                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                     <last-update-user>admin</last-update-user>
                     <created>2012-08-23T05:09:53+05:30</created>
                     <create-user>admin</create-user>
@@ -14354,7 +14354,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                 <id>0</id>
                 <inactive>false</inactive>
                 <lock-version>0</lock-version>
-                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                 <last-update-user>admin</last-update-user>
                 <created>2012-08-23T05:09:53+05:30</created>
                 <create-user>admin</create-user>
@@ -14382,7 +14382,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                     <id>0</id>
                     <inactive>false</inactive>
                     <lock-version>0</lock-version>
-                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                     <last-update-user>admin</last-update-user>
                     <created>2012-08-23T05:09:53+05:30</created>
                     <create-user>admin</create-user>
@@ -14611,7 +14611,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                     <id>0</id>
                     <inactive>false</inactive>
                     <lock-version>0</lock-version>
-                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                     <last-update-user>admin</last-update-user>
                     <created>2012-09-04T09:21:51+05:30</created>
                     <create-user>admin</create-user>
@@ -15037,7 +15037,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                 <id>0</id>
                 <inactive>false</inactive>
                 <lock-version>0</lock-version>
-                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                 <last-update-user>admin</last-update-user>
                 <created>2012-09-04T11:52:57+05:30</created>
                 <create-user>admin</create-user>
@@ -15075,7 +15075,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                     <id>0</id>
                     <inactive>false</inactive>
                     <lock-version>0</lock-version>
-                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                     <last-update-user>admin</last-update-user>
                     <created>2012-09-04T11:52:57+05:30</created>
                     <create-user>admin</create-user>
@@ -15100,7 +15100,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                 <id>0</id>
                 <inactive>false</inactive>
                 <lock-version>0</lock-version>
-                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                 <last-update-user>admin</last-update-user>
                 <created>2012-09-04T11:52:57+05:30</created>
                 <create-user>admin</create-user>
@@ -15138,7 +15138,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                     <id>0</id>
                     <inactive>false</inactive>
                     <lock-version>0</lock-version>
-                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                     <last-update-user>admin</last-update-user>
                     <created>2012-09-04T11:52:57+05:30</created>
                     <create-user>admin</create-user>
@@ -15163,7 +15163,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                 <id>0</id>
                 <inactive>false</inactive>
                 <lock-version>0</lock-version>
-                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                 <last-update-user>admin</last-update-user>
                 <created>2012-09-04T11:52:57+05:30</created>
                 <create-user>admin</create-user>
@@ -15201,7 +15201,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                     <id>0</id>
                     <inactive>false</inactive>
                     <lock-version>0</lock-version>
-                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                     <last-update-user>admin</last-update-user>
                     <created>2012-09-04T11:52:57+05:30</created>
                     <create-user>admin</create-user>
@@ -15226,7 +15226,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                 <id>0</id>
                 <inactive>false</inactive>
                 <lock-version>0</lock-version>
-                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                 <last-update-user>admin</last-update-user>
                 <created>2012-09-04T11:52:57+05:30</created>
                 <create-user>admin</create-user>
@@ -15264,7 +15264,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                     <id>0</id>
                     <inactive>false</inactive>
                     <lock-version>0</lock-version>
-                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                     <last-update-user>admin</last-update-user>
                     <created>2012-09-04T11:52:57+05:30</created>
                     <create-user>admin</create-user>
@@ -15289,7 +15289,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                 <id>0</id>
                 <inactive>false</inactive>
                 <lock-version>0</lock-version>
-                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                 <last-update-user>admin</last-update-user>
                 <created>2012-11-15T04:21:50+05:30</created>
                 <create-user>admin</create-user>
@@ -15327,7 +15327,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                     <id>0</id>
                     <inactive>false</inactive>
                     <lock-version>0</lock-version>
-                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                     <last-update-user>admin</last-update-user>
                     <created>2012-11-15T04:21:51+05:30</created>
                     <create-user>admin</create-user>
@@ -15352,7 +15352,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                 <id>0</id>
                 <inactive>false</inactive>
                 <lock-version>0</lock-version>
-                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                 <last-update-user>admin</last-update-user>
                 <created>2012-11-15T04:26:45+05:30</created>
                 <create-user>admin</create-user>
@@ -15390,7 +15390,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                     <id>0</id>
                     <inactive>false</inactive>
                     <lock-version>0</lock-version>
-                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                     <last-update-user>admin</last-update-user>
                     <created>2012-11-15T04:26:45+05:30</created>
                     <create-user>admin</create-user>
@@ -16435,7 +16435,7 @@ Start-Process powershell -verb runas -ArgumentList "-file $SITECOLLECTION_FILE"]
                     <id>0</id>
                     <inactive>false</inactive>
                     <lock-version>0</lock-version>
-                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                     <last-update-user>admin</last-update-user>
                     <created>2012-08-23T05:09:53+05:30</created>
                     <create-user>admin</create-user>
@@ -16461,7 +16461,7 @@ Start-Process powershell -verb runas -ArgumentList "-file $SITECOLLECTION_FILE"]
             <id>0</id>
             <inactive>false</inactive>
             <lock-version>0</lock-version>
-            <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+            <last-updated>2012-11-16T14:24:06+05:30</last-updated>
             <last-update-user>admin</last-update-user>
             <created>2012-08-23T05:09:53+05:30</created>
             <create-user>admin</create-user>
@@ -16506,7 +16506,7 @@ Microsoft SharePoint 2010 makes it easier for people to work together. Using Sha
                 <id>0</id>
                 <inactive>false</inactive>
                 <lock-version>0</lock-version>
-                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                 <last-update-user>admin</last-update-user>
                 <created>2012-08-23T05:09:53+05:30</created>
                 <create-user>admin</create-user>
@@ -16517,7 +16517,7 @@ Microsoft SharePoint 2010 makes it easier for people to work together. Using Sha
                     <id>0</id>
                     <inactive>false</inactive>
                     <lock-version>0</lock-version>
-                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                     <last-update-user>admin</last-update-user>
                     <created>2012-08-23T05:09:53+05:30</created>
                     <create-user>admin</create-user>
@@ -16705,7 +16705,7 @@ Microsoft SharePoint 2010 makes it easier for people to work together. Using Sha
                         <id>0</id>
                         <inactive>false</inactive>
                         <lock-version>0</lock-version>
-                        <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                        <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                         <last-update-user>admin</last-update-user>
                         <created>2012-08-23T05:09:53+05:30</created>
                         <create-user>admin</create-user>
@@ -16898,7 +16898,7 @@ Microsoft SharePoint 2010 makes it easier for people to work together. Using Sha
                                 <id>0</id>
                                 <inactive>false</inactive>
                                 <lock-version>0</lock-version>
-                                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                                 <last-update-user>admin</last-update-user>
                                 <created>2012-09-04T09:21:51+05:30</created>
                                 <create-user>admin</create-user>
@@ -18619,9 +18619,9 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                             <id>0</id>
                             <inactive>false</inactive>
                             <lock-version>0</lock-version>
-                            <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                            <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                             <last-update-user>admin</last-update-user>
-                            <created>2012-11-16T06:08:39+05:30</created>
+                            <created>2012-11-16T14:24:06+05:30</created>
                             <create-user>admin</create-user>
                             <node-component-dependency-type>
                                 <id>3</id>
@@ -18648,7 +18648,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                             <id>0</id>
                             <inactive>false</inactive>
                             <lock-version>0</lock-version>
-                            <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                            <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                             <last-update-user>admin</last-update-user>
                             <created>2012-09-04T11:52:57+05:30</created>
                             <create-user>admin</create-user>
@@ -18686,7 +18686,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                                 <id>0</id>
                                 <inactive>false</inactive>
                                 <lock-version>0</lock-version>
-                                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                                 <last-update-user>admin</last-update-user>
                                 <created>2012-09-04T11:52:57+05:30</created>
                                 <create-user>admin</create-user>
@@ -18711,7 +18711,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                             <id>0</id>
                             <inactive>false</inactive>
                             <lock-version>0</lock-version>
-                            <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                            <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                             <last-update-user>admin</last-update-user>
                             <created>2012-09-04T11:52:57+05:30</created>
                             <create-user>admin</create-user>
@@ -18749,7 +18749,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                                 <id>0</id>
                                 <inactive>false</inactive>
                                 <lock-version>0</lock-version>
-                                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                                 <last-update-user>admin</last-update-user>
                                 <created>2012-09-04T11:52:57+05:30</created>
                                 <create-user>admin</create-user>
@@ -18774,7 +18774,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                             <id>0</id>
                             <inactive>false</inactive>
                             <lock-version>0</lock-version>
-                            <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                            <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                             <last-update-user>admin</last-update-user>
                             <created>2012-09-04T11:52:57+05:30</created>
                             <create-user>admin</create-user>
@@ -18812,7 +18812,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                                 <id>0</id>
                                 <inactive>false</inactive>
                                 <lock-version>0</lock-version>
-                                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                                 <last-update-user>admin</last-update-user>
                                 <created>2012-09-04T11:52:57+05:30</created>
                                 <create-user>admin</create-user>
@@ -18837,7 +18837,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                             <id>0</id>
                             <inactive>false</inactive>
                             <lock-version>0</lock-version>
-                            <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                            <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                             <last-update-user>admin</last-update-user>
                             <created>2012-09-04T11:52:57+05:30</created>
                             <create-user>admin</create-user>
@@ -18875,7 +18875,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                                 <id>0</id>
                                 <inactive>false</inactive>
                                 <lock-version>0</lock-version>
-                                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                                 <last-update-user>admin</last-update-user>
                                 <created>2012-09-04T11:52:57+05:30</created>
                                 <create-user>admin</create-user>
@@ -18900,7 +18900,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                             <id>0</id>
                             <inactive>false</inactive>
                             <lock-version>0</lock-version>
-                            <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                            <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                             <last-update-user>admin</last-update-user>
                             <created>2012-11-15T04:21:50+05:30</created>
                             <create-user>admin</create-user>
@@ -18938,7 +18938,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                                 <id>0</id>
                                 <inactive>false</inactive>
                                 <lock-version>0</lock-version>
-                                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                                 <last-update-user>admin</last-update-user>
                                 <created>2012-11-15T04:21:51+05:30</created>
                                 <create-user>admin</create-user>
@@ -18963,7 +18963,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                             <id>0</id>
                             <inactive>false</inactive>
                             <lock-version>0</lock-version>
-                            <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                            <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                             <last-update-user>admin</last-update-user>
                             <created>2012-11-15T04:26:45+05:30</created>
                             <create-user>admin</create-user>
@@ -19001,7 +19001,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                                 <id>0</id>
                                 <inactive>false</inactive>
                                 <lock-version>0</lock-version>
-                                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                                 <last-update-user>admin</last-update-user>
                                 <created>2012-11-15T04:26:45+05:30</created>
                                 <create-user>admin</create-user>
@@ -19026,7 +19026,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                             <id>0</id>
                             <inactive>false</inactive>
                             <lock-version>0</lock-version>
-                            <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                            <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                             <last-update-user>admin</last-update-user>
                             <created>2012-09-04T11:52:57+05:30</created>
                             <create-user>admin</create-user>
@@ -19040,7 +19040,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                                 <id>0</id>
                                 <inactive>false</inactive>
                                 <lock-version>0</lock-version>
-                                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                                 <last-update-user>admin</last-update-user>
                                 <created>2012-09-04T11:52:57+05:30</created>
                                 <create-user>admin</create-user>
@@ -19078,7 +19078,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                                     <id>0</id>
                                     <inactive>false</inactive>
                                     <lock-version>0</lock-version>
-                                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                                     <last-update-user>admin</last-update-user>
                                     <created>2012-09-04T11:52:57+05:30</created>
                                     <create-user>admin</create-user>
@@ -19103,7 +19103,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                                 <id>0</id>
                                 <inactive>false</inactive>
                                 <lock-version>0</lock-version>
-                                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                                 <last-update-user>admin</last-update-user>
                                 <created>2012-09-04T11:52:57+05:30</created>
                                 <create-user>admin</create-user>
@@ -19141,7 +19141,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                                     <id>0</id>
                                     <inactive>false</inactive>
                                     <lock-version>0</lock-version>
-                                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                                     <last-update-user>admin</last-update-user>
                                     <created>2012-09-04T11:52:57+05:30</created>
                                     <create-user>admin</create-user>
@@ -19166,7 +19166,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                                 <id>0</id>
                                 <inactive>false</inactive>
                                 <lock-version>0</lock-version>
-                                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                                 <last-update-user>admin</last-update-user>
                                 <created>2012-09-04T11:52:57+05:30</created>
                                 <create-user>admin</create-user>
@@ -19204,7 +19204,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                                     <id>0</id>
                                     <inactive>false</inactive>
                                     <lock-version>0</lock-version>
-                                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                                     <last-update-user>admin</last-update-user>
                                     <created>2012-09-04T11:52:57+05:30</created>
                                     <create-user>admin</create-user>
@@ -19229,7 +19229,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                                 <id>0</id>
                                 <inactive>false</inactive>
                                 <lock-version>0</lock-version>
-                                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                                 <last-update-user>admin</last-update-user>
                                 <created>2012-09-04T11:52:57+05:30</created>
                                 <create-user>admin</create-user>
@@ -19267,7 +19267,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                                     <id>0</id>
                                     <inactive>false</inactive>
                                     <lock-version>0</lock-version>
-                                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                                     <last-update-user>admin</last-update-user>
                                     <created>2012-09-04T11:52:57+05:30</created>
                                     <create-user>admin</create-user>
@@ -19292,7 +19292,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                                 <id>0</id>
                                 <inactive>false</inactive>
                                 <lock-version>0</lock-version>
-                                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                                 <last-update-user>admin</last-update-user>
                                 <created>2012-11-15T04:21:50+05:30</created>
                                 <create-user>admin</create-user>
@@ -19330,7 +19330,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                                     <id>0</id>
                                     <inactive>false</inactive>
                                     <lock-version>0</lock-version>
-                                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                                     <last-update-user>admin</last-update-user>
                                     <created>2012-11-15T04:21:51+05:30</created>
                                     <create-user>admin</create-user>
@@ -19355,7 +19355,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                                 <id>0</id>
                                 <inactive>false</inactive>
                                 <lock-version>0</lock-version>
-                                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                                 <last-update-user>admin</last-update-user>
                                 <created>2012-11-15T04:26:45+05:30</created>
                                 <create-user>admin</create-user>
@@ -19393,7 +19393,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                                     <id>0</id>
                                     <inactive>false</inactive>
                                     <lock-version>0</lock-version>
-                                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                                     <last-update-user>admin</last-update-user>
                                     <created>2012-11-15T04:26:45+05:30</created>
                                     <create-user>admin</create-user>
@@ -19418,7 +19418,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                                 <id>0</id>
                                 <inactive>false</inactive>
                                 <lock-version>0</lock-version>
-                                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                                 <last-update-user>admin</last-update-user>
                                 <created>2012-09-04T11:52:57+05:30</created>
                                 <create-user>admin</create-user>
@@ -19429,7 +19429,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                                 <id>0</id>
                                 <inactive>false</inactive>
                                 <lock-version>0</lock-version>
-                                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                                 <last-update-user>admin</last-update-user>
                                 <created>2012-09-04T11:52:57+05:30</created>
                                 <create-user>admin</create-user>
@@ -19447,6 +19447,13 @@ $SITEPORT = "$sampleapp_port"
 $APPPOOLNAME = "$apppool_name"
 # Sample app directory
 $APP_DIR = "$sample_app_dir\APP"
+
+write-host "CREATING SAMPLE APP DIRECTORIES"
+if (!(Test-Path -Path $APP_DIR))
+{
+      New-Item $APP_DIR -type directory
+}
+
 # Script file that will create sample app
 $WEBAPP_FILE = "$APP_DIR\CreateWebApp.PS1"
 $TEMP_FILE = "$APP_DIR\Temp.txt"
@@ -19460,13 +19467,6 @@ $USERNAME = "$admin_user"
 $PASSWORD = "$admin_password"
 # Copy the password into tmp.txt file 
 $PASSWORD &gt; "$APP_DIR\tmp.txt"
-
-
-write-host "CREATING SAMPLE APP DIRECTORIES"
-if (!(Test-Path -Path $APP_DIR))
-{
-      New-Item $APP_DIR -type directory
-}
 
 ########VALIDATION FUNCTIONS#########################
 
@@ -19920,7 +19920,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                         <id>0</id>
                         <inactive>false</inactive>
                         <lock-version>0</lock-version>
-                        <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                        <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                         <last-update-user>admin</last-update-user>
                         <created>2012-08-23T05:09:53+05:30</created>
                         <create-user>admin</create-user>
@@ -19948,7 +19948,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                             <id>0</id>
                             <inactive>false</inactive>
                             <lock-version>0</lock-version>
-                            <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                            <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                             <last-update-user>admin</last-update-user>
                             <created>2012-08-23T05:09:53+05:30</created>
                             <create-user>admin</create-user>
@@ -19973,7 +19973,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                         <id>0</id>
                         <inactive>false</inactive>
                         <lock-version>0</lock-version>
-                        <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                        <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                         <last-update-user>admin</last-update-user>
                         <created>2012-08-23T05:09:53+05:30</created>
                         <create-user>admin</create-user>
@@ -20001,7 +20001,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                             <id>0</id>
                             <inactive>false</inactive>
                             <lock-version>0</lock-version>
-                            <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                            <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                             <last-update-user>admin</last-update-user>
                             <created>2012-08-23T05:09:53+05:30</created>
                             <create-user>admin</create-user>
@@ -20026,7 +20026,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                         <id>0</id>
                         <inactive>false</inactive>
                         <lock-version>0</lock-version>
-                        <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                        <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                         <last-update-user>admin</last-update-user>
                         <created>2012-08-23T05:09:53+05:30</created>
                         <create-user>admin</create-user>
@@ -20054,7 +20054,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                             <id>0</id>
                             <inactive>false</inactive>
                             <lock-version>0</lock-version>
-                            <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                            <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                             <last-update-user>admin</last-update-user>
                             <created>2012-08-23T05:09:53+05:30</created>
                             <create-user>admin</create-user>
@@ -20079,7 +20079,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                         <id>0</id>
                         <inactive>false</inactive>
                         <lock-version>0</lock-version>
-                        <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                        <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                         <last-update-user>admin</last-update-user>
                         <created>2012-08-23T05:09:53+05:30</created>
                         <create-user>admin</create-user>
@@ -20107,7 +20107,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                             <id>0</id>
                             <inactive>false</inactive>
                             <lock-version>0</lock-version>
-                            <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                            <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                             <last-update-user>admin</last-update-user>
                             <created>2012-08-23T05:09:53+05:30</created>
                             <create-user>admin</create-user>
@@ -20142,7 +20142,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                 <id>0</id>
                 <inactive>false</inactive>
                 <lock-version>0</lock-version>
-                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                 <last-update-user>admin</last-update-user>
                 <created>2012-08-23T05:09:53+05:30</created>
                 <create-user>admin</create-user>
@@ -20330,7 +20330,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                     <id>0</id>
                     <inactive>false</inactive>
                     <lock-version>0</lock-version>
-                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                     <last-update-user>admin</last-update-user>
                     <created>2012-08-23T05:09:53+05:30</created>
                     <create-user>admin</create-user>
@@ -20341,7 +20341,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                     <id>0</id>
                     <inactive>false</inactive>
                     <lock-version>0</lock-version>
-                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                     <last-update-user>admin</last-update-user>
                     <created>2012-08-23T05:09:53+05:30</created>
                     <create-user>admin</create-user>
@@ -20369,7 +20369,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                         <id>0</id>
                         <inactive>false</inactive>
                         <lock-version>0</lock-version>
-                        <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                        <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                         <last-update-user>admin</last-update-user>
                         <created>2012-08-23T05:09:53+05:30</created>
                         <create-user>admin</create-user>
@@ -20394,7 +20394,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                     <id>0</id>
                     <inactive>false</inactive>
                     <lock-version>0</lock-version>
-                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                     <last-update-user>admin</last-update-user>
                     <created>2012-08-23T05:09:53+05:30</created>
                     <create-user>admin</create-user>
@@ -20422,7 +20422,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                         <id>0</id>
                         <inactive>false</inactive>
                         <lock-version>0</lock-version>
-                        <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                        <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                         <last-update-user>admin</last-update-user>
                         <created>2012-08-23T05:09:53+05:30</created>
                         <create-user>admin</create-user>
@@ -20447,7 +20447,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                     <id>0</id>
                     <inactive>false</inactive>
                     <lock-version>0</lock-version>
-                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                     <last-update-user>admin</last-update-user>
                     <created>2012-08-23T05:09:53+05:30</created>
                     <create-user>admin</create-user>
@@ -20475,7 +20475,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                         <id>0</id>
                         <inactive>false</inactive>
                         <lock-version>0</lock-version>
-                        <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                        <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                         <last-update-user>admin</last-update-user>
                         <created>2012-08-23T05:09:53+05:30</created>
                         <create-user>admin</create-user>
@@ -20500,7 +20500,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                     <id>0</id>
                     <inactive>false</inactive>
                     <lock-version>0</lock-version>
-                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                     <last-update-user>admin</last-update-user>
                     <created>2012-08-23T05:09:53+05:30</created>
                     <create-user>admin</create-user>
@@ -20528,7 +20528,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                         <id>0</id>
                         <inactive>false</inactive>
                         <lock-version>0</lock-version>
-                        <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                        <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                         <last-update-user>admin</last-update-user>
                         <created>2012-08-23T05:09:53+05:30</created>
                         <create-user>admin</create-user>
@@ -20567,7 +20567,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                 <id>0</id>
                 <inactive>false</inactive>
                 <lock-version>0</lock-version>
-                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                 <last-update-user>admin</last-update-user>
                 <created>2012-08-23T05:09:53+05:30</created>
                 <create-user>admin</create-user>
@@ -20595,7 +20595,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                     <id>0</id>
                     <inactive>false</inactive>
                     <lock-version>0</lock-version>
-                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                     <last-update-user>admin</last-update-user>
                     <created>2012-08-23T05:09:53+05:30</created>
                     <create-user>admin</create-user>
@@ -20620,7 +20620,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                 <id>0</id>
                 <inactive>false</inactive>
                 <lock-version>0</lock-version>
-                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                 <last-update-user>admin</last-update-user>
                 <created>2012-08-23T05:09:53+05:30</created>
                 <create-user>admin</create-user>
@@ -20648,7 +20648,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                     <id>0</id>
                     <inactive>false</inactive>
                     <lock-version>0</lock-version>
-                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                     <last-update-user>admin</last-update-user>
                     <created>2012-08-23T05:09:53+05:30</created>
                     <create-user>admin</create-user>
@@ -20673,7 +20673,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                 <id>0</id>
                 <inactive>false</inactive>
                 <lock-version>0</lock-version>
-                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                 <last-update-user>admin</last-update-user>
                 <created>2012-08-23T05:09:53+05:30</created>
                 <create-user>admin</create-user>
@@ -20701,7 +20701,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                     <id>0</id>
                     <inactive>false</inactive>
                     <lock-version>0</lock-version>
-                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                     <last-update-user>admin</last-update-user>
                     <created>2012-08-23T05:09:53+05:30</created>
                     <create-user>admin</create-user>
@@ -20726,7 +20726,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                 <id>0</id>
                 <inactive>false</inactive>
                 <lock-version>0</lock-version>
-                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                 <last-update-user>admin</last-update-user>
                 <created>2012-08-23T05:09:53+05:30</created>
                 <create-user>admin</create-user>
@@ -20754,7 +20754,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                     <id>0</id>
                     <inactive>false</inactive>
                     <lock-version>0</lock-version>
-                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                     <last-update-user>admin</last-update-user>
                     <created>2012-08-23T05:09:53+05:30</created>
                     <create-user>admin</create-user>
@@ -20979,7 +20979,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                     <id>0</id>
                     <inactive>false</inactive>
                     <lock-version>0</lock-version>
-                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                     <last-update-user>admin</last-update-user>
                     <created>2012-09-04T09:21:51+05:30</created>
                     <create-user>admin</create-user>
@@ -21401,7 +21401,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                 <id>0</id>
                 <inactive>false</inactive>
                 <lock-version>0</lock-version>
-                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                 <last-update-user>admin</last-update-user>
                 <created>2012-09-04T11:52:57+05:30</created>
                 <create-user>admin</create-user>
@@ -21439,7 +21439,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                     <id>0</id>
                     <inactive>false</inactive>
                     <lock-version>0</lock-version>
-                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                     <last-update-user>admin</last-update-user>
                     <created>2012-09-04T11:52:57+05:30</created>
                     <create-user>admin</create-user>
@@ -21464,7 +21464,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                 <id>0</id>
                 <inactive>false</inactive>
                 <lock-version>0</lock-version>
-                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                 <last-update-user>admin</last-update-user>
                 <created>2012-09-04T11:52:57+05:30</created>
                 <create-user>admin</create-user>
@@ -21502,7 +21502,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                     <id>0</id>
                     <inactive>false</inactive>
                     <lock-version>0</lock-version>
-                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                     <last-update-user>admin</last-update-user>
                     <created>2012-09-04T11:52:57+05:30</created>
                     <create-user>admin</create-user>
@@ -21527,7 +21527,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                 <id>0</id>
                 <inactive>false</inactive>
                 <lock-version>0</lock-version>
-                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                 <last-update-user>admin</last-update-user>
                 <created>2012-09-04T11:52:57+05:30</created>
                 <create-user>admin</create-user>
@@ -21565,7 +21565,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                     <id>0</id>
                     <inactive>false</inactive>
                     <lock-version>0</lock-version>
-                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                     <last-update-user>admin</last-update-user>
                     <created>2012-09-04T11:52:57+05:30</created>
                     <create-user>admin</create-user>
@@ -21590,7 +21590,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                 <id>0</id>
                 <inactive>false</inactive>
                 <lock-version>0</lock-version>
-                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                 <last-update-user>admin</last-update-user>
                 <created>2012-09-04T11:52:57+05:30</created>
                 <create-user>admin</create-user>
@@ -21628,7 +21628,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                     <id>0</id>
                     <inactive>false</inactive>
                     <lock-version>0</lock-version>
-                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                     <last-update-user>admin</last-update-user>
                     <created>2012-09-04T11:52:57+05:30</created>
                     <create-user>admin</create-user>
@@ -21653,7 +21653,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                 <id>0</id>
                 <inactive>false</inactive>
                 <lock-version>0</lock-version>
-                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                 <last-update-user>admin</last-update-user>
                 <created>2012-11-15T04:21:50+05:30</created>
                 <create-user>admin</create-user>
@@ -21691,7 +21691,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                     <id>0</id>
                     <inactive>false</inactive>
                     <lock-version>0</lock-version>
-                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                     <last-update-user>admin</last-update-user>
                     <created>2012-11-15T04:21:51+05:30</created>
                     <create-user>admin</create-user>
@@ -21716,7 +21716,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                 <id>0</id>
                 <inactive>false</inactive>
                 <lock-version>0</lock-version>
-                <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                 <last-update-user>admin</last-update-user>
                 <created>2012-11-15T04:26:45+05:30</created>
                 <create-user>admin</create-user>
@@ -21754,7 +21754,7 @@ ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
                     <id>0</id>
                     <inactive>false</inactive>
                     <lock-version>0</lock-version>
-                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                     <last-update-user>admin</last-update-user>
                     <created>2012-11-15T04:26:45+05:30</created>
                     <create-user>admin</create-user>
@@ -22537,7 +22537,7 @@ else
                     <id>0</id>
                     <inactive>false</inactive>
                     <lock-version>0</lock-version>
-                    <last-updated>2012-11-16T06:08:39+05:30</last-updated>
+                    <last-updated>2012-11-16T14:24:06+05:30</last-updated>
                     <last-update-user>admin</last-update-user>
                     <created>2012-08-23T05:09:53+05:30</created>
                     <create-user>admin</create-user>
