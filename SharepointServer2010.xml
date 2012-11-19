@@ -3102,15 +3102,15 @@ $sw1.writeline("add-PSSnapin Microsoft.Sharepoint.powershell")
 # define a variable $Username(combination of computer name and username)
 $sw1.writeline("`$Username = `"$COMPUTERNAME\$USERNAME`"") 
 # Store password into $Password varable from tmp.txt
-$sw1.writeline("`$Password = get-content `"$INSTALLER\tmp.txt`"") 
+$sw1.writeline("`$Password = get-content `"$APP_DIR\tmp.txt`"") 
 # Make secure string from password 
 $sw1.writeline("`$my_secure_password_string = convertto-securestring `"`$Password`" -asplaintext -force") 
 # Change the secure string in to encrypted string by  adding key in to password secure string 
 $sw1.writeline("`$my_encrypted_string = convertfrom-securestring `$my_secure_password_string-key (1..16)") 
 # Store encrypted string in to a txt file
-$sw1.writeline("`$my_encrypted_string &gt; `"$INSTALLER\password.txt`"") 
+$sw1.writeline("`$my_encrypted_string &gt; `"$APP_DIR\password.txt`"") 
 # Read Encrypted password from txt file 
-$sw1.writeline("`$my_secure_password_string = convertto-securestring (get-content `"$INSTALLER\password.txt`") -key (1..16)") 
+$sw1.writeline("`$my_secure_password_string = convertto-securestring (get-content `"$APP_DIR\password.txt`") -key (1..16)") 
 # Create Credentail variable by using username and password
 $sw1.writeline("`$cred = New-Object System.Management.Automation.PSCredential `$Username,`$my_secure_password_string ") 
 # Create Manage Account 
