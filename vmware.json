@@ -12,6 +12,7 @@
                 "optional":{
                     "nextStepsMarkdownFile":"weblogic12c-cluster-dukebank-1.0.0.xml.md",
                     "enableConsoleLogging":true
+                    "exportedFileErrorReadme":"weblogic12c-cluster-dukebank-1.0.0.xml.error.readme",
                 }
             }
         }
