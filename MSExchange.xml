@@ -1980,7 +1980,7 @@ taskkill /IM Exchange_Server_Trial.exe /F
 
 $domain_account="$domain\$domain_username"
 Write-Output "INSTALLING MICROSOFT EXCHANGE SERVER"
-add-content c:\setup.ps1 "&amp; `"$EXTRACT_LOCATION_EXCHANGE\setup.com`" /m:install /r:H C M"
+add-content c:\setup.ps1 "&amp; `"$EXTRACT_LOCATION_EXCHANGE\setup.com`" /m:install /OrganizationName:$domain /r:H C M"
 schtasks /CREATE /TN "Install-MES" /SC MONTHLY /MO first /D SUN /RL HIGHEST /RU $domain_account /RP $domain_password /TR "powershell -noprofile -command &amp;{C:\setup.ps1} -WindowStyle Hidden" /F
 schtasks /RUN /TN "Install-MES"
 
