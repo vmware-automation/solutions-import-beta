@@ -109,6 +109,11 @@ textarea.readme-content {
     height: 185px;
 }
 
+textarea.error-readme-content {
+    width: 100%;
+    height: 50px;    
+}
+
 #importOptions {
     position: relative;
     margin-top: 25px;
