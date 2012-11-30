@@ -7,5 +7,5 @@ Your Alfresco application blueprint and service have been successfully imported 
 
 For more information about this application visit [BitNami Alfresco for VMware].
 
-Additional information about BitNami solitions is available at [BitNami Applications for VMware].
+Additional information about BitNami solutions is available at [BitNami Applications for VMware].
 
