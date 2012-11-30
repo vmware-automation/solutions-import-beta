@@ -1,5 +1,5 @@
 [BitNami Applications for VMware]: http://bitnami.org/vmware "BitNami Applications for VMware"
-[BitNami LimeSurvey for VMware]: http://bitnami.org/vmware/limesurvey "LimeSurvey Gallery for VMware"
+[BitNami LimeSurvey for VMware]: http://bitnami.org/vmware/limesurvey "BitNami LimeSurvey for VMware"
 
 
 ## Success
