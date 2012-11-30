@@ -1,5 +1,5 @@
 [BitNami Applications for VMware]: http://bitnami.org/vmware "BitNami Applications for VMware"
-[BitNami MediaWiki for VMware]: http://bitnami.org/vmware/mediawiki "MediaWiki Gallery for VMware"
+[BitNami MediaWiki for VMware]: http://bitnami.org/vmware/mediawiki "BitNami MediaWiki for VMware"
 
 
 ## Success
