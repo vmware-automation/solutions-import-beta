@@ -7,7 +7,7 @@
             "applicationDirectorWebImport":{
                 "exportFileName":"BitNami-Alfresco-64bit-blueprint.xml",
                 "exportedFileReadme":"BitNami-Alfresco-64bit-blueprint.xml.readme",
-                "importSectionHeader":"Alfresco",
+                "importSectionHeader":"BitNami Alfresco",
                 "exportedWithAppDVersion":5.0,
                 "optional":{
                     "nextStepsMarkdownFile":"BitNami-Alfresco-64bit-blueprint.xml.md",
