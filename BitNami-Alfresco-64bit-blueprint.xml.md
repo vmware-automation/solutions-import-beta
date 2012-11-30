@@ -3,7 +3,7 @@
 
 
 ## Success
-Your Alfresco application blueprint and service have been successfully imported and ready to go.
+Your BitNami Alfresco application blueprint and service have been successfully imported and ready to go.
 
 For more information about this application visit [BitNami Alfresco for VMware].
 
