@@ -1,5 +1,5 @@
 [BitNami Applications for VMware]: http://bitnami.org/vmware "BitNami Applications for VMware"
-[BitNami Mantis for VMware]: http://bitnami.org/vmware/mantis "Mantis Gallery for VMware"
+[BitNami Mantis for VMware]: http://bitnami.org/vmware/mantis "BitNami Mantis for VMware"
 
 
 ## Success
