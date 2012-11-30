@@ -1,5 +1,5 @@
 [BitNami Applications for VMware]: http://bitnami.org/vmware "BitNami Applications for VMware"
-[BitNami Roller for VMware]: http://bitnami.org/vmware/roller "Roller Gallery for VMware"
+[BitNami Roller for VMware]: http://bitnami.org/vmware/roller "BitNami Roller for VMware"
 
 
 ## Success
