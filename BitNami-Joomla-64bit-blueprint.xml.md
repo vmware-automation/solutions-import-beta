@@ -1,5 +1,5 @@
 [BitNami Applications for VMware]: http://bitnami.org/vmware "BitNami Applications for VMware"
-[BitNami Joomla for VMware]: http://bitnami.org/vmware/joomla "Joomla Gallery for VMware"
+[BitNami Joomla for VMware]: http://bitnami.org/vmware/joomla "BitNami Joomla for VMware"
 
 
 ## Success
