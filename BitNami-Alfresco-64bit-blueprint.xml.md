@@ -1,7 +1,11 @@
-[bt]: http://bitnami.org/vmware "BitNami Applications for VMware"
+[BitNami Applications for VMware]: http://bitnami.org/vmware "BitNami Applications for VMware"
+[BitNami Alfresco for VMware]: http://bitnami.org/vmware/alfresco "BitNami Alfresco for VMware"
+
 
 ## Success
-Your *** application blueprint and services have been successfully imported and ready to go.
+Your Alfresco application blueprint and service have been successfully imported and ready to go.
 
-For move information about this application visit [bt].
+For more information about this application visit [BitNami Alfresco for VMware].
+
+Additional information about BitNami solitions is available at [BitNami Applications for VMware].
 

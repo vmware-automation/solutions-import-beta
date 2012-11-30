@@ -5,12 +5,12 @@
         },
         "applications":{
             "applicationDirectorWebImport":{
-                "exportFileName":"BitNami-xxx-32bit-blueprint.xml",
-                "exportedFileReadme":"BitNami-xxx-32bit-blueprint.xml.readme",
-                "importSectionHeader":"xxx",
+                "exportFileName":"BitNami-Alfresco-64bit-blueprint.xml",
+                "exportedFileReadme":"BitNami-Alfresco-64bit-blueprint.xml.readme",
+                "importSectionHeader":"Alfresco",
                 "exportedWithAppDVersion":5.0,
                 "optional":{
-                    "nextStepsMarkdownFile":"BitNami-xxx-32bit-blueprint.xml.md",
+                    "nextStepsMarkdownFile":"BitNami-Alfresco-64bit-blueprint.xml.md",
                     "enableConsoleLogging":true,
                     "exportedFileErrorReadme":"import-error.readme"
                 }
