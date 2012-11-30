@@ -1,5 +1,5 @@
 [BitNami Applications for VMware]: http://bitnami.org/vmware "BitNami Applications for VMware"
-[BitNami Jenkins for VMware]: http://bitnami.org/vmware/jenkins "Jenkins Gallery for VMware"
+[BitNami Jenkins for VMware]: http://bitnami.org/vmware/jenkins "BitNami Jenkins for VMware"
 
 
 ## Success
