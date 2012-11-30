@@ -3,9 +3,9 @@
 
 
 ## Success
-Your BitNami Roller application blueprint and service have been successfully imported and ready to go.
+Your BitNami Subversion application blueprint and service have been successfully imported and ready to go.
 
-For more information about this application visit [BitNami Roller for VMware].
+For more information about this application visit [BitNami Subversion for VMware].
 
 Additional information about BitNami solutions is available at [BitNami Applications for VMware].
 
