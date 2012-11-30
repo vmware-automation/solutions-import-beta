@@ -1,5 +1,5 @@
 [BitNami Applications for VMware]: http://bitnami.org/vmware "BitNami Applications for VMware"
-[BitNami Piwik for VMware]: http://bitnami.org/vmware/piwik "Piwik Gallery for VMware"
+[BitNami Piwik for VMware]: http://bitnami.org/vmware/piwik "BitNami Piwik for VMware"
 
 
 ## Success
