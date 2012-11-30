@@ -1,5 +1,5 @@
 [BitNami Applications for VMware]: http://bitnami.org/vmware "BitNami Applications for VMware"
-[BitNami JasperReports for VMware]: http://bitnami.org/vmware/jasperserver "JasperReports Gallery for VMware"
+[BitNami JasperReports for VMware]: http://bitnami.org/vmware/jasperserver "BitNami JasperReports for VMware"
 
 
 ## Success
