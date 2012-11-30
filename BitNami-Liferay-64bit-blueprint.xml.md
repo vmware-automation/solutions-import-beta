@@ -1,5 +1,5 @@
 [BitNami Applications for VMware]: http://bitnami.org/vmware "BitNami Applications for VMware"
-[BitNami Liferay for VMware]: http://bitnami.org/vmware/liferay "Liferay Gallery for VMware"
+[BitNami Liferay for VMware]: http://bitnami.org/vmware/liferay "BitNami Liferay for VMware"
 
 
 ## Success
