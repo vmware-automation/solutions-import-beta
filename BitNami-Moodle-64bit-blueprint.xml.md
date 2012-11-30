@@ -1,5 +1,5 @@
 [BitNami Applications for VMware]: http://bitnami.org/vmware "BitNami Applications for VMware"
-[BitNami Moodle for VMware]: http://bitnami.org/vmware/moodle "Moodle Gallery for VMware"
+[BitNami Moodle for VMware]: http://bitnami.org/vmware/moodle "BitNami Moodle for VMware"
 
 
 ## Success
