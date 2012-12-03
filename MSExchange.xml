@@ -4219,6 +4219,7 @@ schtasks /CREATE /TN "Exchange_SampleApp" /SC MONTHLY /MO first /D SUN /RL HIGHE
 #Start-Sleep -Seconds 1200
 schtasks /RUN /TN "Exchange_SampleApp"
 $name=$user_principal_name | %{$data = [regex]::split($_, '\t|@'); Write-Output "$($data[0])"}
+schtasks /DELETE /F /TN "Exchange_SampleApp"
 echo " "
 echo "SAMPLE APPLICATION EXECUTED SUCCESSUFLLY"
 echo " "
