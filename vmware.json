@@ -5,9 +5,9 @@
         },
         "applications":{
             "applicationDirectorWebImport":{
-                "exportFileName":"WSO2_ESB.xml",
-                "exportedFileReadme":"WSO2_ESB.readme",
-                "importSectionHeader":"WSO2 ESB 4.0.3",
+                "exportFileName":"DB2.xml",
+                "exportedFileReadme":"DB2.readme",
+                "importSectionHeader":"DB2 10.1.0",
                 "exportedWithAppDVersion":5.0
             }
         }
