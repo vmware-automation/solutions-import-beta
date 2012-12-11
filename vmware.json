@@ -5,9 +5,9 @@
         },
         "applications":{
             "applicationDirectorWebImport":{
-                "exportFileName":"MSExchange.xml",
-                "exportedFileReadme":"MSExchange.readme",
-                "importSectionHeader":"MS Exchange 2010",
+                "exportFileName":"WSO2_ESB.xml",
+                "exportedFileReadme":"WSO2_ESB.readme",
+                "importSectionHeader":"WSO2 ESB 4.0.3",
                 "exportedWithAppDVersion":5.0
             }
         }
