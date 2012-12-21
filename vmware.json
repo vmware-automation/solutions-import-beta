@@ -5,9 +5,9 @@
         },
         "applications":{
             "applicationDirectorWebImport":{
-                "exportFileName":"LAMP_Stack.xml",
-                "exportedFileReadme":"LAMP_Stack.readme",
-                "importSectionHeader":"LAMP Stack",
+                "exportFileName":"piwikv1.9.2_Linux.xml",
+                "exportedFileReadme":"piwikv1.9.2_Linux.readme",
+                "importSectionHeader":"Piwik on Linux v1.9.2",
                 "exportedWithAppDVersion":5.0
             }
         }
