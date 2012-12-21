@@ -7,7 +7,7 @@
             "applicationDirectorWebImport":{
                 "exportFileName":"weblogic12c_cluster_Windows-dukebank-1.0.0.xml",
                 "exportedFileReadme":"weblogic12c_cluster_Windows-dukebank-1.0.0.readme",
-                "importSectionHeader":"Weblogic 12c Cluster for Windows",
+                "importSectionHeader":"Weblogic Server 12c Cluster for Windows",
                 "exportedWithAppDVersion":5.0
             }
         }
