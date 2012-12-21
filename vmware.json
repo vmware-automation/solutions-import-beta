@@ -5,9 +5,9 @@
         },
         "applications":{
             "applicationDirectorWebImport":{
-                "exportFileName":"DB2.xml",
-                "exportedFileReadme":"DB2.readme",
-                "importSectionHeader":"DB2 10.1.0",
+                "exportFileName":"LAMP_Stack.xml",
+                "exportedFileReadme":"LAMP_Stack.readme",
+                "importSectionHeader":"LAMP Stack",
                 "exportedWithAppDVersion":5.0
             }
         }
