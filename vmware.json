@@ -5,9 +5,9 @@
         },
         "applications":{
             "applicationDirectorWebImport":{
-                "exportFileName":"weblogic12c_cluster_Windows-dukebank-1.0.0.xml",
-                "exportedFileReadme":"weblogic12c_cluster_Windows-dukebank-1.0.0.readme",
-                "importSectionHeader":"Weblogic Server 12c Cluster for Windows",
+                "exportFileName":"Oracle_RAC_11.2.xml",
+                "exportedFileReadme":"Oracle_RAC_11.2.readme",
+                "importSectionHeader":"Oracle RAC 11.2 for RHEL 6.1",
                 "exportedWithAppDVersion":5.0
             }
         }
