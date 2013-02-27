@@ -1,0 +1,20 @@
+{
+    "vmware":{
+        "config":{
+            "version":1.0
+        },
+        "applications":{
+            "applicationDirectorWebImport":{
+                "exportFileName":"duke-bank-app-4.0.0.xml",
+                "exportedFileReadme":"duke-bank-app-4.0.0.xml.readme",
+                "importSectionHeader":"Dukes Bank",
+                "exportedWithAppDVersion":5.0,
+                "optional":{
+                    "nextStepsMarkdownFile":"",
+                    "enableConsoleLogging":true,
+                    "exportedFileErrorReadme":"import-error.readme"
+                }
+            }
+        }
+    }
+}
