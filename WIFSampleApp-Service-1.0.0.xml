@@ -1,0 +1,780 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns26:export-package
+    xmlns:ns9="http://www.vmware.com/darwin/schema/beans/cloud/provider"
+    xmlns:ns7="http://www.vmware.com/darwin/schema/beans/catalog/component"
+    xmlns:ns17="http://www.vmware.com/darwin/schema/beans/update/profile"
+    xmlns:ns15="http://www.vmware.com/darwin/schema/beans/flow"
+    xmlns:ns25="http://www.vmware.com/darwin/schema/beans/notification"
+    xmlns:ns6="http://www.vmware.com/darwin/schema/beans/entity"
+    xmlns:ns12="http://www.vmware.com/darwin/schema/beans/cloud/tunnel"
+    xmlns:ns20="http://www.vmware.com/darwin/schema/beans/security/user"
+    xmlns:ns22="http://www.vmware.com/darwin/schema/beans/ssl"
+    xmlns:ns19="http://www.vmware.com/darwin/schema/beans/security/ldap"
+    xmlns:ns13="http://www.vmware.com/darwin/schema/beans/deployment/environment"
+    xmlns:ns23="http://www.vmware.com/darwin/schema/beans/response"
+    xmlns:ns21="http://www.vmware.com/darwin/schema/beans/networking"
+    xmlns:ns24="http://www.vmware.com/darwin/schema/beans/api"
+    xmlns:ns18="http://www.vmware.com/darwin/schema/beans/deployment"
+    xmlns:ns5="http://www.vmware.com/darwin/schema/beans/metatag"
+    xmlns:ns4="http://www.vmware.com/darwin/schema/beans/props"
+    xmlns:ns10="http://www.vmware.com/darwin/schema/beans/physical/template"
+    xmlns:ns27="http://www.vmware.com/darwin/schema/beans/license"
+    xmlns:ns26="http://www.vmware.com/darwin/schema/beans/exim"
+    xmlns:ns16="http://www.vmware.com/darwin/schema/beans/deployment/profile"
+    xmlns:ns14="http://www.vmware.com/darwin/schema/beans/driver/location"
+    xmlns:ns8="http://www.vmware.com/darwin/schema/beans/scripts"
+    xmlns:ns11="http://www.vmware.com/darwin/schema/beans/blueprint"
+    xmlns:ns3="http://www.vmware.com/darwin/schema/beans/application" xmlns:ns2="http://www.vmware.com/darwin/schema/beans/security">
+    <errors>false</errors>
+    <application-director-version>vFabric Application Director CLI BUILD [5.0.0-879382]</application-director-version>
+    <service-versions>
+        <id>0</id>
+        <inactive>false</inactive>
+        <lock-version>0</lock-version>
+        <last-updated>2013-01-25T08:22:23-08:00</last-updated>
+        <last-update-user>admin</last-update-user>
+        <created>2013-01-17T09:47:12-08:00</created>
+        <create-user>admin</create-user>
+        <name>WIFSampleApp</name>
+        <description>WIF Sample Application</description>
+        <revision>0</revision>
+        <major>1</major>
+        <minor>0</minor>
+        <micro>0</micro>
+        <qualifier></qualifier>
+        <dynamically-installable>true</dynamically-installable>
+        <auto-bind-properties>false</auto-bind-properties>
+        <icon-name></icon-name>
+        <props>
+            <id>0</id>
+            <inactive>false</inactive>
+            <lock-version>0</lock-version>
+            <last-updated>2013-01-25T08:22:23-08:00</last-updated>
+            <last-update-user>admin</last-update-user>
+            <created>2013-01-17T09:47:12-08:00</created>
+            <create-user>admin</create-user>
+            <name></name>
+            <description>Windows Identity Foundation SDK </description>
+            <key>wifinstaller</key>
+            <prop-type>
+                <id>0</id>
+                <inactive>false</inactive>
+                <lock-version>0</lock-version>
+                <last-updated>2012-10-19T05:45:07-07:00</last-updated>
+                <last-update-user>SYSTEM</last-update-user>
+                <created>2012-10-19T05:45:07-07:00</created>
+                <create-user>SYSTEM</create-user>
+                <name>String</name>
+                <description>String (java.lang.String).</description>
+            </prop-type>
+            <required>true</required>
+            <secured>false</secured>
+            <prop-auto-bind-type>
+                <id>0</id>
+                <inactive>false</inactive>
+                <lock-version>1</lock-version>
+                <last-updated>2012-10-19T05:45:07-07:00</last-updated>
+                <last-update-user>SYSTEM</last-update-user>
+                <created>2012-10-19T05:45:07-07:00</created>
+                <create-user>SYSTEM</create-user>
+                <name>None</name>
+                <description>Property will not participate in auto-binding.</description>
+                <prop-auto-bind-type-enum>NONE</prop-auto-bind-type-enum>
+            </prop-auto-bind-type>
+            <value><![CDATA[http://173.240.99.85/AppDirector/WIF/WindowsIdentityFoundation-SDK-3.5.msi]]></value>
+            <readonly>false</readonly>
+            <overridable>true</overridable>
+            <expression>false</expression>
+            <ns4:bound-prop>
+                <id>0</id>
+                <inactive>false</inactive>
+                <lock-version>0</lock-version>
+                <last-updated>2013-01-25T08:22:23-08:00</last-updated>
+                <last-update-user>admin</last-update-user>
+                <created>2013-01-17T09:47:12-08:00</created>
+                <create-user>admin</create-user>
+                <bind-lifecycle-type>
+                    <id>0</id>
+                    <inactive>false</inactive>
+                    <lock-version>0</lock-version>
+                    <last-updated>2012-10-19T05:45:07-07:00</last-updated>
+                    <last-update-user>SYSTEM</last-update-user>
+                    <created>2012-10-19T05:45:07-07:00</created>
+                    <create-user>SYSTEM</create-user>
+                    <name>Catalog</name>
+                    <description>Bindable at service/catalog level.</description>
+                    <lifecycle-order>1</lifecycle-order>
+                </bind-lifecycle-type>
+                <value><![CDATA[http://173.240.99.85/AppDirector/WIF/WindowsIdentityFoundation-SDK-3.5.msi]]></value>
+                <overridable>true</overridable>
+                <expression>false</expression>
+            </ns4:bound-prop>
+        </props>
+        <props>
+            <id>0</id>
+            <inactive>false</inactive>
+            <lock-version>0</lock-version>
+            <last-updated>2013-01-25T08:22:23-08:00</last-updated>
+            <last-update-user>admin</last-update-user>
+            <created>2013-01-17T09:47:12-08:00</created>
+            <create-user>admin</create-user>
+            <name></name>
+            <description>Active Directory Domain Name</description>
+            <key>domain</key>
+            <prop-type>
+                <id>0</id>
+                <inactive>false</inactive>
+                <lock-version>0</lock-version>
+                <last-updated>2012-10-19T05:45:07-07:00</last-updated>
+                <last-update-user>SYSTEM</last-update-user>
+                <created>2012-10-19T05:45:07-07:00</created>
+                <create-user>SYSTEM</create-user>
+                <name>String</name>
+                <description>String (java.lang.String).</description>
+            </prop-type>
+            <required>true</required>
+            <secured>false</secured>
+            <prop-auto-bind-type>
+                <id>0</id>
+                <inactive>false</inactive>
+                <lock-version>1</lock-version>
+                <last-updated>2012-10-19T05:45:07-07:00</last-updated>
+                <last-update-user>SYSTEM</last-update-user>
+                <created>2012-10-19T05:45:07-07:00</created>
+                <create-user>SYSTEM</create-user>
+                <name>None</name>
+                <description>Property will not participate in auto-binding.</description>
+                <prop-auto-bind-type-enum>NONE</prop-auto-bind-type-enum>
+            </prop-auto-bind-type>
+            <value><![CDATA[]]></value>
+            <readonly>false</readonly>
+            <overridable>true</overridable>
+            <expression>false</expression>
+            <ns4:bound-prop>
+                <id>0</id>
+                <inactive>false</inactive>
+                <lock-version>0</lock-version>
+                <last-updated>2013-01-25T08:22:23-08:00</last-updated>
+                <last-update-user>admin</last-update-user>
+                <created>2013-01-17T09:47:12-08:00</created>
+                <create-user>admin</create-user>
+                <bind-lifecycle-type>
+                    <id>0</id>
+                    <inactive>false</inactive>
+                    <lock-version>0</lock-version>
+                    <last-updated>2012-10-19T05:45:07-07:00</last-updated>
+                    <last-update-user>SYSTEM</last-update-user>
+                    <created>2012-10-19T05:45:07-07:00</created>
+                    <create-user>SYSTEM</create-user>
+                    <name>Catalog</name>
+                    <description>Bindable at service/catalog level.</description>
+                    <lifecycle-order>1</lifecycle-order>
+                </bind-lifecycle-type>
+                <value><![CDATA[]]></value>
+                <overridable>true</overridable>
+                <expression>false</expression>
+            </ns4:bound-prop>
+        </props>
+        <meta-tag>
+            <id>0</id>
+            <inactive>false</inactive>
+            <lock-version>0</lock-version>
+            <last-updated>2012-10-19T05:45:07-07:00</last-updated>
+            <last-update-user>SYSTEM</last-update-user>
+            <created>2012-10-19T05:45:07-07:00</created>
+            <create-user>SYSTEM</create-user>
+            <name>Windows Services</name>
+            <description>Windows Services</description>
+            <meta-tag-type>
+                <id>0</id>
+                <inactive>false</inactive>
+                <lock-version>0</lock-version>
+                <last-updated>2012-10-19T05:45:07-07:00</last-updated>
+                <last-update-user>SYSTEM</last-update-user>
+                <created>2012-10-19T05:45:07-07:00</created>
+                <create-user>SYSTEM</create-user>
+                <name>Server Type</name>
+                <description>Server type, primarily used for organizing data.</description>
+                <meta-tag-enum>SERVER_TYPE</meta-tag-enum>
+                <user-managed-type>true</user-managed-type>
+            </meta-tag-type>
+        </meta-tag>
+        <service>
+            <id>0</id>
+            <inactive>false</inactive>
+            <lock-version>0</lock-version>
+            <last-updated>2013-01-17T09:44:49-08:00</last-updated>
+            <last-update-user>admin</last-update-user>
+            <created>2013-01-17T09:44:49-08:00</created>
+            <create-user>admin</create-user>
+            <name>WIFSampleApp</name>
+            <description>Sample application for testing ADFS</description>
+            <revision>0</revision>
+            <icon-name></icon-name>
+        </service>
+        <os-versions>
+            <id>0</id>
+            <inactive>false</inactive>
+            <lock-version>0</lock-version>
+            <last-updated>2012-03-15T10:00:00-07:00</last-updated>
+            <last-update-user>SYSTEM</last-update-user>
+            <created>2012-03-15T10:00:00-07:00</created>
+            <create-user>SYSTEM</create-user>
+            <name>WIN64</name>
+            <description>Windows Server 2008 R2 Enterprise SP1</description>
+            <revision>0</revision>
+            <major>6</major>
+            <minor>1</minor>
+            <micro>7601</micro>
+            <qualifier></qualifier>
+            <dynamically-installable>false</dynamically-installable>
+            <auto-bind-properties>false</auto-bind-properties>
+            <operating-system>
+                <id>0</id>
+                <inactive>false</inactive>
+                <lock-version>0</lock-version>
+                <last-updated>2012-10-19T05:45:08-07:00</last-updated>
+                <last-update-user>SYSTEM</last-update-user>
+                <created>2012-10-19T05:45:08-07:00</created>
+                <create-user>SYSTEM</create-user>
+                <name>WIN64</name>
+                <description>Microsoft Windows 64bit</description>
+                <revision>0</revision>
+                <icon-name>windowstemplate</icon-name>
+                <os-family-meta-tag>
+                    <id>0</id>
+                    <inactive>false</inactive>
+                    <lock-version>0</lock-version>
+                    <last-updated>2012-10-19T05:45:07-07:00</last-updated>
+                    <last-update-user>SYSTEM</last-update-user>
+                    <created>2012-10-19T05:45:07-07:00</created>
+                    <create-user>SYSTEM</create-user>
+                    <name>Windows</name>
+                    <description>Windows based operating systems</description>
+                    <meta-tag-type>
+                        <id>0</id>
+                        <inactive>false</inactive>
+                        <lock-version>0</lock-version>
+                        <last-updated>2012-10-19T05:45:07-07:00</last-updated>
+                        <last-update-user>SYSTEM</last-update-user>
+                        <created>2012-10-19T05:45:07-07:00</created>
+                        <create-user>SYSTEM</create-user>
+                        <name>OS Family</name>
+                        <description>Operating System (OS) Family.</description>
+                        <meta-tag-enum>OS_FAMILY</meta-tag-enum>
+                        <user-managed-type>false</user-managed-type>
+                    </meta-tag-type>
+                    <os-family>WINDOWS</os-family>
+                </os-family-meta-tag>
+                <hardware-architecture-meta-tag>
+                    <id>0</id>
+                    <inactive>false</inactive>
+                    <lock-version>0</lock-version>
+                    <last-updated>2012-10-19T05:45:07-07:00</last-updated>
+                    <last-update-user>SYSTEM</last-update-user>
+                    <created>2012-10-19T05:45:07-07:00</created>
+                    <create-user>SYSTEM</create-user>
+                    <name>x86_64</name>
+                    <description>x86_64</description>
+                    <meta-tag-type>
+                        <id>0</id>
+                        <inactive>false</inactive>
+                        <lock-version>0</lock-version>
+                        <last-updated>2012-10-19T05:45:07-07:00</last-updated>
+                        <last-update-user>SYSTEM</last-update-user>
+                        <created>2012-10-19T05:45:07-07:00</created>
+                        <create-user>SYSTEM</create-user>
+                        <name>Hardware Architecture</name>
+                        <description>Hardware Architecture, used to describe whether something is or supports 32 bit, 64 bit, etc.</description>
+                        <meta-tag-enum>HARDWARE_ARCHITECTURE</meta-tag-enum>
+                        <user-managed-type>false</user-managed-type>
+                    </meta-tag-type>
+                    <hardware-architecture>X86_64</hardware-architecture>
+                </hardware-architecture-meta-tag>
+            </operating-system>
+        </os-versions>
+        <ns8:component-version-script>
+            <id>0</id>
+            <inactive>false</inactive>
+            <lock-version>0</lock-version>
+            <last-updated>2013-01-25T08:22:23-08:00</last-updated>
+            <last-update-user>admin</last-update-user>
+            <created>2013-01-17T09:47:12-08:00</created>
+            <create-user>admin</create-user>
+            <description></description>
+            <script>#Name install.ps1
+
+#LAST Modified
+#07-December-2012
+
+#SYNOPSIS
+#This script installs the following package
+#WIF Sample App on ADFS 2.0 
+#
+#Author
+#Persistent Systems Ltd
+#Shweta Malhotra
+
+#Install the WIF SDK software 
+#Fetching Host Name
+
+$computer=gc env:computername
+echo $computer
+echo $domain
+
+write-output  "Installing WIF SDK"
+Start-Process -FilePath msiexec -ArgumentList /i, $wifinstaller, /quiet -Wait
+$wifsdk="C:\Program Files (x86)\Windows Identity Foundation SDK"
+if(!(Test-Path -Path $wifsdk))
+	{
+		write-output "WIF SDK installation failed"
+		exit
+	} 
+	else 
+	{
+		write-output "WIF SDK installed successfully"
+		
+		#Create the WIF sample application
+		write-output "Creating the WIF sample application"
+		Set-Location "C:\Program Files (x86)\Windows Identity Foundation SDK\v3.5\Samples\Quick Start\Using Managed STS"
+		0|./Setup.bat
+
+		# Create and Configure application pool Wif Samples
+		write-output  "Create and Configure application pool Wif Samples"
+		C:\Windows\System32\inetsrv\appcmd add apppool /name:WifSamples
+		Import-Module WebAdministration
+		Set-ItemProperty -Path IIS:\AppPools\WifSamples -Name ProcessModel.LoadUserProfile -value 'True'
+		Add-PSSnapin Microsoft.Adfs.PowerShell
+		write-output  "Create FedUtilSampleUserInput file and load data"
+		New-Item C:\FedUtilSampleUserInput.xml -type file
+		set-variable -name FedUtilInputfile -value "C:\FedUtilSampleUserInput.xml"
+		if(!(Test-Path -Path $FedUtilInputfile))
+			{
+				write-output  "FedUtilSampleUserInput file does not exist"
+				exit
+			} 
+			else 
+			{
+				write-output "Loading data in FedUtilInputfile file"
+				$feddata="
+				&lt;fedUtilUserInput&gt;
+				&lt;application location=`"C:\Program Files (x86)\Windows Identity Foundation SDK\v3.5\Samples\Quick Start\Using Managed STS\ClaimsAwareWebAppWithManagedSTS\web.config`" applicationUri=`"https://$computer.$domain/ClaimsAwareWebAppWithManagedSTS/`" updateMetadata=`"false`"&gt;
+				&lt;securityTokenService federationMetadataLocation=`"https://$computer.$domain/FederationMetadata/2007-06/FederationMetadata.xml`"&gt;
+				&lt;disableCertificateValidation /&gt; 
+				&lt;/securityTokenService&gt;
+				&lt;/application&gt;
+				&lt;/fedUtilUserInput&gt;"
+				$feddata &gt;  $FedUtilInputfile
+                                
+				if ($FedUtilInputfile.length/1KB -gt 0)
+					{
+					
+                                               cd 'C:\Program Files (x86)\Windows Identity Foundation SDK\v3.5'
+						./FedUtil.exe /silent $FedUtilInputfile /output result_file
+						#Wait for FedUtil process to complete
+						$FedUtilid=(Get-Process *FedUt*).Id
+						wait-process -Id $FedUtilid
+						New-Item C:\Issuance-Authorization-Rules.txt -type file
+                        set-variable -name Iarfile -value "C:\Issuance-Authorization-Rules.txt"
+                        if(!(Test-Path -Path $Iarfile))
+			                {
+				                write-output "Issuance-Authorization-Rules file does not exist"
+				                exit
+			                } 
+			            else 
+							{
+			                    write-output "Loading data in Issuance-Authorization-Rules File"
+                                $iardata='@RuleTemplate = "AllowAllAuthzRule"
+                                =&gt; issue(Type = "http://schemas.microsoft.com/authorization/claims/permit", Value = "true");'
+                                $iardata &gt;   $Iarfile
+                                if ($Iarfile.length/1KB -gt 0)
+					                {
+                                      
+                                        New-Item C:\Issuance-Transform-Rules.txt -type file
+                                        set-variable -name Itrfile -value "C:\Issuance-Transform-Rules.txt"
+                                        if(!(Test-Path -Path $Itrfile))
+											{
+												write-output "Issuance-Transform-Rules file does not exist"
+												exit
+											} 
+										else
+											{
+                                          
+												$itrdata='@RuleTemplate = "PassThroughClaims"
+												@RuleName = "Pass Through Windows Account Name Rule"
+												c:[Type == "http://schemas.microsoft.com/ws/2008/06/identity/claims/windowsaccountname"]
+												=&gt; issue(claim = c);'
+												$itrdata &gt;  $Itrfile
+												if ($Itrfile.length/1KB -gt 0)
+													{
+														#Configure ADFS to Send Claims to the Application
+														write-output "Add the sample application as a relying party here"
+                                                                                                            
+														Add-ADFSRelyingPartyTrust -Name "$computer.$domain" -MetadataUrl "https://$computer.$domain/ClaimsAwareWebAppWithManagedSTS/FederationMetadata/2007-06/FederationMetadata.xml" -IssuanceAuthorizationRulesFile $Iarfile  -Enabled $true -AutoUpdateEnabled $true -MonitoringEnabled $true
+                                                                                                           
+														#Configure ADFS to Send Claims to the Application
+														write-output "Configure claim rules for WIF Sample App"
+														Set-ADFSRelyingPartyTrust -TargetName "$computer.$domain" -Identifier "https://$computer.$domain/ClaimsAwareWebAppWithManagedSTS/" -IssuanceTransformRulesFile $Itrfile
+														if ($?)
+														{
+															write-output "ADFS configured successfully for WIF Sample App"
+														} 
+														else 
+														{
+															write-output "ADFS configuration failed for WIF Sample App"
+															exit
+														}
+													}
+													else
+													{
+														write-output "Loading data failed for Issuance-Transform-Rules file"
+														exit
+													}
+													
+											}
+
+									}
+									else
+									{
+										write-output "Loading data failed for Issuance-Authorization-Rules File"
+										exit
+									}
+
+							}
+					}
+					else
+					{
+						write-output "Loading data failed for FedUtilSampleUserInput file"
+						exit
+					}
+			}
+	}
+</script>
+            <embedded>true</embedded>
+            <script-type>
+                <id>0</id>
+                <inactive>false</inactive>
+                <lock-version>0</lock-version>
+                <last-updated>2012-10-19T05:45:07-07:00</last-updated>
+                <last-update-user>SYSTEM</last-update-user>
+                <created>2012-10-19T05:45:07-07:00</created>
+                <create-user>SYSTEM</create-user>
+                <name>Windows Powershell Script</name>
+                <description>Windows Powershell Script.</description>
+                <name-message-key>type.script.powershell.name</name-message-key>
+                <description-message-key>type.script.powershell.description</description-message-key>
+                <supported-os-details>
+                    <id>0</id>
+                    <inactive>false</inactive>
+                    <lock-version>0</lock-version>
+                    <last-updated>2012-10-19T05:45:08-07:00</last-updated>
+                    <last-update-user>SYSTEM</last-update-user>
+                    <created>2012-10-19T05:45:08-07:00</created>
+                    <create-user>SYSTEM</create-user>
+                    <os-family>
+                        <id>0</id>
+                        <inactive>false</inactive>
+                        <lock-version>0</lock-version>
+                        <last-updated>2012-10-19T05:45:07-07:00</last-updated>
+                        <last-update-user>SYSTEM</last-update-user>
+                        <created>2012-10-19T05:45:07-07:00</created>
+                        <create-user>SYSTEM</create-user>
+                        <name>Windows</name>
+                        <description>Windows based operating systems</description>
+                        <meta-tag-type>
+                            <id>0</id>
+                            <inactive>false</inactive>
+                            <lock-version>0</lock-version>
+                            <last-updated>2012-10-19T05:45:07-07:00</last-updated>
+                            <last-update-user>SYSTEM</last-update-user>
+                            <created>2012-10-19T05:45:07-07:00</created>
+                            <create-user>SYSTEM</create-user>
+                            <name>OS Family</name>
+                            <description>Operating System (OS) Family.</description>
+                            <meta-tag-enum>OS_FAMILY</meta-tag-enum>
+                            <user-managed-type>false</user-managed-type>
+                        </meta-tag-type>
+                        <os-family>WINDOWS</os-family>
+                    </os-family>
+                    <supports-array-props>true</supports-array-props>
+                    <supports-output-props>true</supports-output-props>
+                    <exec-command>powershell.exe -ExecutionPolicy remotesigned &lt;exec-script&gt; &lt;script-file&gt; &lt;json-input-properties-file&gt; &lt;output-properties-file&gt; &lt;task-output-log-file&gt;</exec-command>
+                    <exec-script>$error.clear()
+# Auto convert input properties to local Powershell variables
+
+# Parsing JSON elements into Powershell object
+function ParseJsonProps ($jsonFile)
+{
+ $jsonjsonCharCount = 0
+ $newObjStart = $false
+ $arrayStart = $false
+ $tokenStart = $false
+ $valueStart = $false
+ $escapeStart = $false
+ 
+ $jsonFileLen = $jsonFile.length
+ $jsonObj = New-Object System.Text.StringBuilder
+ 
+ ForEach($c in $jsonFile.ToCharArray()) {
+    $jsonCharCount++
+    $tmpStr = ""
+    switch -regex ($c) {
+        "{" { 
+            if($newObjStart -eq $false) {
+                $tmpStr = "(New-Object PSObject "
+                $newObjStart = $true
+            } else {
+                $tmpStr = $c
+            }
+        }
+        "}" {
+            if($jsonCharCount -lt $jsonFileLen) {
+                $tmpStr = $c
+            } else {
+                $tmpStr = ")"
+            }
+        }
+        '"' {
+            if($tokenStart -eq $false -and $valueStart -eq $false -and $arrayStart -eq $false) {
+                $tmpStr = '| Add-Member -Passthru NoteProperty "'
+            } else {
+                if($escapeStart -eq $false) {
+                    $tmpStr = $c
+                } else {
+                    $tmpStr = "```""
+                    $escapeStart = $false
+                }
+            }
+            $tokenStart = $true
+        }
+        ":" {
+            if($valueStart -eq $true -or $arrayStart -eq $true) {
+                $tmpStr = $c
+            } else {
+                $tmpStr = " "
+            }
+            $valueStart = $true
+        }
+        "," {
+            if($arrayStart) {
+                $tmpStr = $c
+            } else {
+                $valueStart = $false
+                $tokenStart = $false
+            }
+        }	
+        "\[" {
+            $tmpStr = "@("
+            $arrayStart = $true
+        }
+        "\]" {
+            $tmpStr = ")"
+            $arrayStart = $false
+        }
+        "``" {
+            $tmpStr = "````"
+        }
+        "\\" {
+            if($escapeStart -eq $false) {
+                $escapeStart = $true
+            } else {
+                $tmpStr = $c
+                $escapeStart = $false
+            }
+        }
+        "\$" {
+            if($escapeStart -eq $false) {
+                $tmpStr = '`$'
+            } else {
+                $tmpStr = '`$'
+                $escapeStart = $false
+            }
+        }
+        "n" {
+            if($escapeStart -eq $false) {
+                $tmpStr = $c
+            } else {
+                $tmpStr = "``n"
+                $escapeStart = $false
+            }
+        }
+        "r" {
+            if($escapeStart -eq $false) {
+                $tmpStr = $c
+            } else {
+                $tmpStr = "``r"
+                $escapeStart = $false
+            }
+        }
+        "t" {
+            if($escapeStart -eq $false) {
+                $tmpStr = $c
+            } else {
+                $tmpStr = "``t"
+                $escapeStart = $false
+            }
+        }
+        "b" {
+            if($escapeStart -eq $false) {
+                $tmpStr = $c
+            } else {
+                $tmpStr = "``b"
+                $escapeStart = $false
+            }
+        }
+        default {
+            if($escapeStart -eq $false) {
+                $tmpStr = $c
+            } else {
+                $tmpStr = "\$c"
+                $escapeStart = $false
+            }
+            #$tmpStr = $c
+            #if($escapeStart -eq $true) {
+            #    $escapeStart = $false
+            #}
+        }
+    }                        
+    [void] $jsonObj.Append($tmpStr)
+ }
+ 
+ $jsonObj | Invoke-Expression
+}
+
+$vmw_appd_json_file = Get-Content "$($Args[1])"
+$vmw_appd_json_obj = ParseJsonProps $vmw_appd_json_file
+$vmw_appd_json_props = $vmw_appd_json_obj.PsObject.Properties
+
+# Assigning obj to local variable
+ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
+{
+ $vmw_appd_obj_prop_name = $vmw_appd_obj_prop.Name;
+ #$vmw_appd_obj_prop_name_full = '$vmw_appd_json_obj' + '.' + $vmw_appd_obj_prop_name
+ #$vmw_appd_obj_prop_value = Invoke-Expression $vmw_appd_obj_prop_name_full
+ Set-Variable -Name $vmw_appd_obj_prop_name -value $vmw_appd_json_obj."$vmw_appd_obj_prop_name"
+}
+
+
+# Execute user's Powershell script
+$error.clear()
+$global:LASTEXITCODE = $null
+. "$($Args[0])" 2&gt;&amp;1 | out-file -encoding Default "$($Args[3])"
+
+if ($LASTEXITCODE -and $LASTEXITCODE -ne 0) {
+ "`nABORT. LASTEXITCODE is non-zero.`n" | out-file -encoding Default -append $($Args[3])
+ exit $LASTEXITCODE
+}
+
+if ($error.count -gt 0) {
+ "`nABORT. Encountered error in Powershell.`n" | out-file -encoding Default -append $($Args[3])
+ exit $error.count
+ }
+
+# Export Powershell variables to output properties file
+ForEach ($vmw_appd_obj_prop in $vmw_appd_json_props)
+{
+ $vmw_appd_obj_prop_name = $vmw_appd_obj_prop.Name;
+ $vmw_appd_obj_prop_type = (($vmw_appd_json_obj.($vmw_appd_obj_prop_name)).GetType()).Name
+
+ # Export only String AppD's properties; Output Array properties is not currently supported.
+ if ($vmw_appd_obj_prop_type.Contains("String")) {
+      $vmw_appd_obj_prop_name_expanded = '$' + $vmw_appd_obj_prop_name
+
+      # The ExpandString takes care of three cases. 
+      # Case-I when the string is set via input properties
+      # Case-II when the string is set via input properties and overridden in script (install/configure..)
+      # Case-III lastly when it is only set via script (install/configure..) and left empty in input props
+      #
+      # Also note that powershell as is does not care if this variable was a computed 
+      # or a string variable that filter happens at a different layer.
+      #
+      $expandedUserVariable = $ExecutionContext.InvokeCommand.ExpandString($vmw_appd_obj_prop_name_expanded)
+
+     ($vmw_appd_obj_prop_name + '=' + $expandedUserVariable) | Add-Content $($Args[2]) 
+ }
+}
+</exec-script>
+                    <exec-script-extension>ps1</exec-script-extension>
+                    <file-extension>ps1</file-extension>
+                </supported-os-details>
+                <script-type-expression>
+                    <id>0</id>
+                    <inactive>false</inactive>
+                    <lock-version>0</lock-version>
+                    <last-updated>2012-10-19T05:45:07-07:00</last-updated>
+                    <last-update-user>SYSTEM</last-update-user>
+                    <created>2012-10-19T05:45:07-07:00</created>
+                    <create-user>SYSTEM</create-user>
+                    <prop-type>
+                        <id>0</id>
+                        <inactive>false</inactive>
+                        <lock-version>0</lock-version>
+                        <last-updated>2012-10-19T05:45:07-07:00</last-updated>
+                        <last-update-user>SYSTEM</last-update-user>
+                        <created>2012-10-19T05:45:07-07:00</created>
+                        <create-user>SYSTEM</create-user>
+                        <name>String</name>
+                        <description>String (java.lang.String).</description>
+                    </prop-type>
+                    <expression>$&lt;property-name&gt;</expression>
+                </script-type-expression>
+                <script-type-expression>
+                    <id>0</id>
+                    <inactive>false</inactive>
+                    <lock-version>0</lock-version>
+                    <last-updated>2012-10-19T05:45:07-07:00</last-updated>
+                    <last-update-user>SYSTEM</last-update-user>
+                    <created>2012-10-19T05:45:07-07:00</created>
+                    <create-user>SYSTEM</create-user>
+                    <prop-type>
+                        <id>0</id>
+                        <inactive>false</inactive>
+                        <lock-version>0</lock-version>
+                        <last-updated>2012-10-19T05:45:07-07:00</last-updated>
+                        <last-update-user>SYSTEM</last-update-user>
+                        <created>2012-10-19T05:45:07-07:00</created>
+                        <create-user>SYSTEM</create-user>
+                        <name>Content</name>
+                        <description>Content (java.lang.String).</description>
+                    </prop-type>
+                    <expression>$&lt;property-name&gt;</expression>
+                </script-type-expression>
+                <script-type-expression>
+                    <id>0</id>
+                    <inactive>false</inactive>
+                    <lock-version>0</lock-version>
+                    <last-updated>2012-10-19T05:45:07-07:00</last-updated>
+                    <last-update-user>SYSTEM</last-update-user>
+                    <created>2012-10-19T05:45:07-07:00</created>
+                    <create-user>SYSTEM</create-user>
+                    <prop-type>
+                        <id>0</id>
+                        <inactive>false</inactive>
+                        <lock-version>0</lock-version>
+                        <last-updated>2012-10-19T05:45:07-07:00</last-updated>
+                        <last-update-user>SYSTEM</last-update-user>
+                        <created>2012-10-19T05:45:07-07:00</created>
+                        <create-user>SYSTEM</create-user>
+                        <name>Array</name>
+                        <description>Array</description>
+                    </prop-type>
+                    <expression>$&lt;property-name&gt;</expression>
+                </script-type-expression>
+            </script-type>
+            <component-lifecycle-type>
+                <id>0</id>
+                <inactive>false</inactive>
+                <lock-version>0</lock-version>
+                <last-updated>2012-10-19T05:45:08-07:00</last-updated>
+                <last-update-user>SYSTEM</last-update-user>
+                <created>2012-10-19T05:45:08-07:00</created>
+                <create-user>SYSTEM</create-user>
+                <name>INSTALL</name>
+                <description>Install lifecycle on a component.</description>
+                <name-message-key>type.lifecycle.install.name</name-message-key>
+                <description-message-key>type.lifecycle.install.description</description-message-key>
+            </component-lifecycle-type>
+            <reboot-after>false</reboot-after>
+        </ns8:component-version-script>
+    </service-versions>
+</ns26:export-package>
