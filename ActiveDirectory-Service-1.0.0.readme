@@ -1,0 +1,42 @@
+This demonstrates creating a standalone Active Directory Service.
+  
+!! IMPORTANT POINT REGARDING PROPERTIES !!
+When dealing with setting up properties in this demo take care to notice the Property Type.
+If you are downloading any file this must be of type content. If you use another type there is a good chance your deployment will fail.
+
+Steps
+
+1. Create a new service in the catalog.
+
+2. Use the following values for the service details:
+
+	Name: Active Directory
+	Description: MS Active Directory
+	Tags: Windows Services
+	Supported OSes: Win64 6.1.7601
+	Supported Components: 
+
+   See ActiveDirectory_Service_Details.jpg for an example.
+
+3. Use the properties in the "ActiveDirectory_Properties.xlsx" file to specify the properties for the service in the "Properties" pane.
+   See "ActiveDirectory_Properties.jpg" for an example.
+
+
+4. Add the install.bat, configure.bat contents to the service lifecycles.
+   For each one use the corresponding prefixed AD*.bat file included.
+
+   
+NOTES:
+* Each property is explained in the "Description" field of the property in ActiveDirectory_Properties.xlsx.
+
+* Most properties are set to a default value. And they can be modified in the blueprint before the deployment.
+
+***
+
+
+
+
+    
+
+
+
