@@ -1,7 +1,0 @@
-Active Directory (AD) is a directory service created by Microsoft for Windows domain networks. It is included in most Windows Server operating systems.
-Active Directory provides a central location for network administration and security. Server computers that run Active Directory are called domain controllers. An AD domain controller authenticates and authorizes all users and computers in a Windows domain type network—assigning and enforcing security policies for all computers and installing or updating software.
-
-!! IMPORTANT POINT REGARDING PROPERTIES!!
-* Most properties are set to a default value. And they can be modified.
-
-
