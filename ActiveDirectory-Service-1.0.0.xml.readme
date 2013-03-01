@@ -1,17 +1,4 @@
-Active Directory (AD) is a directory service created by Microsoft for Windows domain networks. It is included in most Windows Server operating systems.
-Active Directory provides a central location for network administration and security. Server computers that run Active Directory are called domain controllers. An AD domain controller authenticates and authorizes all users and computers in a Windows domain type network—assigning and enforcing security policies for all computers and installing or updating software.
+Active Directory (AD) is a directory service created by Microsoft for Windows domain networks. It is included in most Windows Server operating systems.Active Directory provides a central location for network administration and security. Server computers that run Active Directory are called domain controllers. An AD domain controller authenticates and authorizes all users and computers in a Windows domain type network—assigning and enforcing security policies for all computers and installing or updating software.
   
 !! IMPORTANT POINT REGARDING PROPERTIES !!
-* When dealing with setting up properties in this demo take care to notice the Property Type.If you are downloading any file this must be of type content. If you use another type there is a good chance your deployment will fail.
-
-** Most properties are set to a default value. And they can be modified in the blueprint before the deployment.
-
-
-
-
-
-
-    
-
-
-
+* Most properties are set to a default value. And they can be modified in the blueprint before the deployment.
