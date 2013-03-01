@@ -1,1 +1,20 @@
-{    "vmware":{        "config":{            "version":1.0        },        "applications":{            "applicationDirectorWebImport":{                "exportFileName":"WIFSampleApp-Service-1.0.0.xml",                "exportedFileReadme":"WIFSampleApp-Service-1.0.0.xml.readme",                "importSectionHeader":"WIFSampleApp-Service",                "exportedWithAppDVersion":5.0,                "optional":{                    "nextStepsMarkdownFile":"WIFSampleApp-Service-1.0.0.xml.md",                    "enableConsoleLogging":true,                    "exportedFileErrorReadme":"WIFSampleApp-Service-1.0.0.xml.error.readme"                }            }        }    }} 
+{    
+	"vmware":{        
+		"config":{            
+			"version":1.0        
+		},        
+		"applications":{            
+			"applicationDirectorWebImport":{                
+				"exportFileName":"WIFSampleApp-Service-1.0.0.xml",                
+				"exportedFileReadme":"WIFSampleApp-Service-1.0.0.xml.readme",                
+				"importSectionHeader":"WIFSampleApp-Service",                
+				"exportedWithAppDVersion":5.0,                
+				"optional":{                    
+					"nextStepsMarkdownFile":"WIFSampleApp-Service-1.0.0.xml.md",                    
+					"enableConsoleLogging":true,                    
+					"exportedFileErrorReadme":"WIFSampleApp-Service-1.0.0.xml.error.readme"                
+				}            
+			}        
+		}    
+	}
+} 
