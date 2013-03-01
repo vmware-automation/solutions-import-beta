@@ -1,4 +1,4 @@
-[wl]: https://github.com/persistentsystems/solutions-import-beta/ADFS-Service/adfsinstaller.png
+[wl]: https://github.com/persistentsystems/solutions-import-beta/blob/ADFS-Service/adfsinstaller.png
 
 ## Success
 Your service has been successfully imported and ready to go but first there are a few final steps you need to follow before you can perform a deployment.
