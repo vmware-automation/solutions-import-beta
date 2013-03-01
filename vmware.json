@@ -1,1 +1,11 @@
-{    "vmware":{        "config":{            "version":1.0        },        "applications":{            "applicationDirectorWebImport":{                "exportFileName":"ActiveDirectory-Service-1.0.0.xml",                "exportedFileReadme":"ActiveDirectory-Service-1.0.0.xml.readme",                "importSectionHeader":"ActiveDirectory-Service",                "exportedWithAppDVersion":5.0,                "optional":{                    "nextStepsMarkdownFile":"ActiveDirectory-Service-1.0.0.xml.md",                    "enableConsoleLogging":true,                    "exportedFileErrorReadme":"ActiveDirectory-Service-1.0.0.xml.error.readme"                }            }        }    }} 
+{    "vmware":{        "config":{            "version":1.0        
+},        "applications":{            
+"applicationDirectorWebImport":{                
+"exportFileName":"ActiveDirectory-Service-1.0.0.xml",                
+"exportedFileReadme":"ActiveDirectory-Service-1.0.0.xml.readme",                
+"importSectionHeader":"ActiveDirectory-Service",                
+"exportedWithAppDVersion":5.0,                "optional":{                    
+"nextStepsMarkdownFile":"ActiveDirectory-Service-1.0.0.xml.md",                    
+"enableConsoleLogging":true,                    
+"exportedFileErrorReadme":"ActiveDirectory-Service-1.0.0.xml.error.readme"                }            }        }    
+}} 
