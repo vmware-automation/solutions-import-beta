@@ -5,14 +5,14 @@
 		},        
 		"applications":{            
 			"applicationDirectorWebImport":{                
-				"exportFileName":"weblogic12c-cluster-dukebank-1.0.0.xml",                
-				"exportedFileReadme":"weblogic12c-cluster-dukebank-1.0.0.xml.readme",                
-				"importSectionHeader":"Weblogic Cluster",                
+				"exportFileName":"ActiveDirectory-Service-1.0.0.xml",                
+				"exportedFileReadme":"ActiveDirectory-Service-1.0.0.xml.readme",                
+				"importSectionHeader":"ActiveDirectory-Service",                
 				"exportedWithAppDVersion":5.0,                
 				"optional":{                    
-					"nextStepsMarkdownFile":"weblogic12c-cluster-dukebank-1.0.0.xml.md",                    
+					"nextStepsMarkdownFile":"ActiveDirectory-Service-1.0.0.xml.md",                    
 					"enableConsoleLogging":true,                    
-					"exportedFileErrorReadme":"weblogic12c-cluster-dukebank-1.0.0.xml.error.readme"                
+					"exportedFileErrorReadme":"ActiveDirectory-Service-1.0.0.xml.error.readme"                
 				}            
 			}        
 		}    
