@@ -9,5 +9,5 @@ Your service has been successfully imported and ready to go but first there are 
 [![ActiveDirectory-Service Properties][wl]][wl]
 
 
-##### After this you good to go.
+##### After this you are good to go.
 
