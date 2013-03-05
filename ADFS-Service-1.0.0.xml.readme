@@ -31,7 +31,7 @@ Steps to export in *.p7b format
 8. On Export Private Key step, select ‘No, do not export private key’, select next.
 9. Select .P7B format and select checkbox ‘Include all certificates in the certification path if possible’ click next.
 10. Enter path and filename and click next
-11.Click Finish and certificate gets exported.
+11. Click Finish and certificate gets exported.
 
 
 
