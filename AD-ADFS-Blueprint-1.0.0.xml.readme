@@ -1,17 +1,32 @@
-Active Directory (AD) is a directory service created by Microsoft for Windows domain networks. It is included in most Windows Server operating 
-systems.Active Directory provides a central location for network administration and security. Server computers that run Active Directory are 
-called domain controllers. An AD domain controller authenticates and authorizes all users and computers in a Windows domain type network—assigning
-and enforcing security policies for all computers and installing or updating software.
+Active Directory (AD) is a directory service created by Microsoft for Windows domain networks. It is included in most of the Windows Server operating systems. Active Directory provides a central location for network administration and security. Server computers that run Active Directory are called domain controllers. An AD domain controller authenticates and authorizes all users and computers in a Windows domain type network—assigning and enforcing security policies for all computers and installing or updating software.
 
-Active Directory Federation Services (ADFS for short) is a software component developed by Microsoft that can be installed on Windows Server 
-operating systems to provide users with Single Sign-On access to systems and applications located across organizational boundaries. It uses a 
-claims-based access control authorization model to maintain application security and implement federated identity. Claims based authentication is 
-the process of authenticating a user based on a set of claims about its identity contained in a trusted token. Such a token is often issued 
-and signed by an entity that is able to authenticate the user by other means, and that is trusted by the entity doing the claims based authentication.In ADFS, identity federation is established between two organizations by establishing trust between two security realms. 
+Active Directory Federation Services (ADFS for short) is a software component developed by Microsoft that can be installed on Windows Server operating systems to provide users with Single Sign-On access to systems and applications located across organizational boundaries. It uses a claims-based access control authorization model to maintain application security and implement federated identity. Claims based authentication is the process of authenticating a user based on a set of claims about its identity contained in a trusted token. Such a token is often issued and signed by an entity that is able to authenticate the user by other means, and that is trusted by the entity doing the claims based authentication. In ADFS, identity federation is established between two organizations by establishing trust between two security realms. 
 
 !! IMPORTANT POINT REGARDING PROPERTIES!!
-* When dealing with setting up properties in this demo take care aboutthe Property Type.If you are downloading any file this must be of type content. If you use another type there is a good chance your deployment will fail.
+* When dealing with setting up properties in this demo take care about the property type. If you are downloading any file this must be of type content. If you use another type there is a good chance your deployment will fail.
+** The property adfsinstaller is the http location of your ADFS installer.
 
-** Be sure to provide adfsinstaller property is the http location of your ADFS installer.
+***User Certificates: 
+    usercert   is the  User Certificate in  *.pfx  format.
+    usercertpb  is the User Certificate in *.p7b format.
+
+For Self Signed Certificates user need to export the certificate as *.pfx only.   In case of the certificate signed by certification authority user need to export the certificate in *.pfx and .p7b format to include intermediate certificates.
+
+Steps to export in *.pfx format
+1. On IIS Manager, click Server Certificates.
+2. Select the certificate and click on export.
+3. User needs to enter the location and the password for the same in the export dialog.
+4. Certificate gets exported.
+
+Steps to export in *.p7b format
+1. Open Management Console. Go to Start, type MMC and enter.
+2. Click File->Add/Remove Snap-in.
+3. Select Certificates and click Add.
+4. Select Computer Account and click next.
+5. Now go to Personal Certificates, select the certificate to be exported, right click -> All tasks -> Export.
+6. On Certificate export wizard click next.
+7. On Export Private Key step, select ‘No, do not export private key’, select next.
+8. Select .P7B format and select checkbox ‘Include all certificates in the certification path if possible’ click next.
+9. Enter path for the certificate to be exported.
 
 

@@ -9,5 +9,5 @@ Your application has been successfully imported and ready to go but first there 
 [![ADFS Installer][wl]][wl]
 
 
-##### After this you good to go.
+##### After this you are good to go.
 
