@@ -4,10 +4,39 @@ Active Directory Federation Services (AD FS for short) is a software component d
 Operating systems to provide users with Single Sign-On access to systems and applications located across organizational boundaries. It uses a 
 Claims-based access control authorization model to maintain application security and implement federated identity. 
 
-Windows Identity Foundation (WIF) is a rich identity model framework designed for building claims-based applications and services and for supporting active and passive federated security scenarios. With WIF, you can enable passive federation for any ASP.NET application, and integrate claims-based authorization model into your ASP.NET applications and WCF services without breaking a sweat. Furthermore, WIF provides the plumbing 
-to build custom STS implementations, and includes features and controls to support authentication scenarios that involve managed information cards and identity selectors such as Windows CardSpace.
+Windows Identity Foundation (WIF) is a rich identity model framework designed for building claims-based applications and services and for supporting active and passive federated security scenarios. With WIF, you can enable passive federation for any ASP.NET application, and integrate claims-based authorization model into your ASP.NET applications and WCF services without breaking a sweat. Furthermore, WIF provides the plumbing to build custom STS implementations, and includes features and controls to support authentication scenarios that involve managed information cards and identity selectors such as Windows CardSpace.
+
 
 !! IMPORTANT POINT REGARDING PROPERTIES!!
 * When dealing with setting up properties in this demo take care about the property type. If you are downloading any file this must be of type content. If you use another type there is a good chance your deployment will fail.
 
-** Be sure to provide wifinstaller property is the http location of your Windows Identity Foundation SDK installer.
+** The property adfsinstaller is the http location of your ADFS installer.
+
+** The property wifinstaller is the http location of your Windows Identity Foundation SDK installer.
+
+***User Certificates: 
+    usercert   is the  User Certificate in  *.pfx  format.
+    usercertpb  is the User Certificate in *.p7b format.
+
+For Self Signed Certificates user need to export the certificate as *.pfx only.   In case of the certificate signed by certification authority user need to export the certificate in *.pfx and .p7b format to include intermediate certificates.
+
+Steps to export in *.pfx format
+1. Open Server Manager, Click on Roles
+2. On IIS Manager, click Server Certificates.
+3. Select the certificate and click on export.
+4. Browse and select location to export and type for export as *.pfx. Enter password and click Ok.
+5. User needs to enter the location and the password for the same in the export dialog.
+6. Certificate gets exported.
+
+Steps to export in *.p7b format
+1. Open Management Console. Go to Start, type MMC and enter.
+2. Click File->Add/Remove Snap-in.
+3. Select Certificates and click Add.
+4. Select Computer Account and click next.
+5. Click Finish. Click Ok on Add/Remove Snap-in dialog
+6. Now go to Personal Certificates, select the certificate to be exported, right click -> All tasks -> Export.
+7. On Certificate export wizard click next.
+8. On Export Private Key step, select ‘No, do not export private key’, select next.
+9. Select .P7B format and select checkbox ‘Include all certificates in the certification path if possible’ click next.
+10. Enter path and filename and click next
+11.Click Finish and certificate gets exported.
