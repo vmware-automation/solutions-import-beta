@@ -7,8 +7,8 @@ Your service has been successfully imported and ready to go but first there are 
 1. In the ADFS Service, you need to ensure that you have configured the **adfsinstaller** content property to point to the location of your adfs installer.
 
 2. User Certificates: 
-   *usercert  is the  User Certificate in  *.pfx  format.
-   **usercertpb is the User Certificate in *.p7b format.
+   **usercert**  is the  User Certificate in  *.pfx  format.
+   **usercertpb** is the User Certificate in *.p7b format.
 
 For Self Signed Certificates user need to export the certificate as *.pfx only. In case of the certificate signed by certification authority user need to export the certificate in *.pfx and .p7b format to include intermediate certificates.
 
