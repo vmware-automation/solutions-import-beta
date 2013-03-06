@@ -8,9 +8,7 @@ Your application has been successfully imported and ready to go but first there 
 
 [![ADFS Installer][wl]][wl]
 
-2. User Certificates: 
-   *usercert  is the  User Certificate in  *.pfx  format.
-   **usercertpb is the User Certificate in *.p7b format.
+2. In the AD-ADFS-Blueprint, **usercert**  is the  User Certificate in  *.pfx  format and **usercertpb** is the User Certificate in *.p7b format.
 
 For Self Signed Certificates user need to export the certificate as *.pfx only. In case of the certificate signed by certification authority user need to export the certificate in *.pfx and .p7b format to include intermediate certificates.
 
@@ -34,6 +32,8 @@ h. On Export Private Key step, select ‘No, do not export private key’, select ne
 i. Select .P7B format and select checkbox ‘Include all certificates in the certification path if possible’ click next.
 j. Enter path and filename and click next.
 k. Click Finish and certificate gets exported
+
+[![AD-ADFS-Properties][wl]][wl]
 
 ##### After this you are good to go.
 
