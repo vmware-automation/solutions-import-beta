@@ -7,7 +7,7 @@ Your application has been successfully imported and ready to go but first there 
  1.In the AD-ADFS-Blueprint Application, you need to ensure that you have configured the **adfsinstaller** content property to point to the location of your adfs installer.This file can be obtained as a Microsoft download from thier site
 http://www.microsoft.com/en-in/download/details.aspx?id=10909&hash=VrATgGfA8ZnXqoooj1Xqtr0uVhlPvHeSKKlmgVKbg7rsytvNjndrF%2fzelBesONw7N6%2fiUvPD9Ps0k3ds6sR8jw%3d%3d
 
- 2.In the AD-ADFS-Blueprint Application, **usercert**  is the User Certificate in  *.pfx  format and usercertpb is the User Certificate in *.p7b format.User need to export the certificate in *.pfx and .p7b format to include intermediate certificates.
+ 2.In the AD-ADFS-Blueprint Application, **usercert**  is the User Certificate in  *.pfx  format and usercertpb is the User Certificate in *.p7b format. User need to export the certificate in *.pfx and .p7b format to include intermediate certificates.
 
 Steps to export in *.pfx format
 a. Open Server Manager, Click on Roles.  
