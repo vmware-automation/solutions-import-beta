@@ -33,9 +33,10 @@ i. Select .P7B format and select checkbox ‘Include all certificates in the certi
 j. Enter path and filename and click next.
 k. Click Finish and certificate gets exported.
 
-[![AD-ADFS-WIFApp-Blueprint][w2]][w2]
+[![AD-ADFS-WIFApp-Blueprint_ADFSProperties][w2]][w2]
 
 3.In the AD-ADFS-WIFApp-Blueprint, you need to ensure that you have configured the **wifinstaller** content property to point to the location of your WIF SDK installer.
+
 [![WIF Installer][wl]][wl]
 
 
