@@ -11,7 +11,6 @@ Your service has been successfully imported and ready to go but first there are 
 Steps to export in *.pfx format
 
 a.Open Server Manager, Click on Roles.
-
 b.On IIS Manager, click Server Certificates.
 
 c.Select the certificate and click on export.
