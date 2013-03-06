@@ -9,12 +9,12 @@ Your service has been successfully imported and ready to go but first there are 
 2.In the ADFS Service, **usercert**  is the  User Certificate in  *.pfx  format and usercertpb  is the User Certificate in *.p7b format.User need to export the certificate in *.pfx and .p7b format to include intermediate certificates.
 
 I. Steps to export in *.pfx format  
-a.	Open Server Manager, Click on Roles.  
-b. On IIS Manager, click Server Certificates.  
-c. Select the certificate and click on export.  
-d. Browse and select location to export and type for export as *.pfx. Enter password and click Ok.  
-e. User needs to enter the location and the password for the same in the export dialog.  
-f. Certificate gets exported.
+	a. Open Server Manager, Click on Roles.  
+	b. On IIS Manager, click Server Certificates.  
+	c. Select the certificate and click on export.  
+	d. Browse and select location to export and type for export as *.pfx. Enter password and click Ok.  
+	e. User needs to enter the location and the password for the same in the export dialog.  
+	f. Certificate gets exported.
 
 II. Steps to export in *.p7b format  
 a. Open Management Console. Go to Start, type MMC and enter.  
