@@ -4,9 +4,9 @@
 Your service has been successfully imported and ready to go but first there are a few final steps you need to follow before you can perform a deployment.
 
 ### Next Steps
-1. In the ADFS Service, you need to ensure that you have configured the **adfsinstaller** content property to point to the location of your adfs installer. This file can be obtained as a Microsoft download from their site http://www.microsoft.com/en-in/download/details.aspx?id=10909&hash=VrATgGfA8ZnXqoooj1Xqtr0uVhlPvHeSKKlmgVKbg7rsytvNjndrF%2fzelBesONw7N6%2fiUvPD9Ps0k3ds6sR8jw%3d%3d
+1.In the ADFS Service, you need to ensure that you have configured the **adfsinstaller** content property to point to the location of your adfs installer. This file can be obtained as a Microsoft download from their site http://www.microsoft.com/en-in/download/details.aspx?id=10909&hash=VrATgGfA8ZnXqoooj1Xqtr0uVhlPvHeSKKlmgVKbg7rsytvNjndrF%2fzelBesONw7N6%2fiUvPD9Ps0k3ds6sR8jw%3d%3d
 
-2. In the ADFS Service, **usercert**  is the  User Certificate in  *.pfx  format and usercertpb  is the User Certificate in *.p7b format.User need to export the certificate in *.pfx and .p7b format to include intermediate certificates.
+2.In the ADFS Service, **usercert**  is the  User Certificate in  *.pfx  format and usercertpb  is the User Certificate in *.p7b format.User need to export the certificate in *.pfx and .p7b format to include intermediate certificates.
 
 I. Steps to export in *.pfx format  
 a.		Open Server Manager, Click on Roles.  
