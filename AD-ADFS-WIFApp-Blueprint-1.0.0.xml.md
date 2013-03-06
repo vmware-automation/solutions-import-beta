@@ -8,7 +8,7 @@ Your application has been successfully imported and ready to go but first there 
 
 1. In the AD-ADFS-WIFApp-Blueprint, you need to ensure that you have configured the **adfsinstaller** content property to point to the location of your adfs installer.
 
-In the AD-ADFS-WIFApp-Blueprint, **usercert**  is the  User Certificate in  *.pfx  format and usercertpb is the User Certificate in *.p7b format.
+2. In the AD-ADFS-WIFApp-Blueprint, **usercert**  is the  User Certificate in  *.pfx  format and usercertpb is the User Certificate in *.p7b format.
 
 For Self Signed Certificates user need to export the certificate as *.pfx only. In case of the certificate signed by certification authority user need to export the certificate in *.pfx and .p7b format to include intermediate certificates.
 
@@ -35,7 +35,7 @@ k. Click Finish and certificate gets exported.
 
 [![AD-ADFS-WIFApp-Blueprint][w2]][w2]
 
-1. In the AD-ADFS-WIFApp-Blueprint, you need to ensure that you have configured the **wifinstaller** content property to point to the location of your WIF SDK installer.
+3. In the AD-ADFS-WIFApp-Blueprint, you need to ensure that you have configured the **wifinstaller** content property to point to the location of your WIF SDK installer.
 [![WIF Installer][wl]][wl]
 
 
