@@ -35,7 +35,7 @@ k. Click Finish and certificate gets exported.
 
 [![AD-ADFS-WIFApp-Blueprint_ADFSProperties][w2]][w2]
 
-3.In the AD-ADFS-WIFApp-Blueprint, you need to ensure that you have configured the **wifinstaller** content property to point to the location of your WIF SDK installer.
+3.In the AD-ADFS-WIFApp-Blueprint, you need to ensure that you have configured the **wifinstaller** content property to point to the location of your WIF SDK installer.This can be obtained as a Microsoft download WindowsIdentityFoundation-SDK-3.5.msi from their site http://www.microsoft.com/en-us/download/details.aspx?id=4451
 
 [![WIF Installer][wl]][wl]
 
