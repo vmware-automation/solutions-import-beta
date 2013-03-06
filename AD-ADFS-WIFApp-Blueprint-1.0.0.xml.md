@@ -1,16 +1,13 @@
-[wl]: https://raw.github.com/persistentsystems/solutions-import-beta/AD-ADFS-WIFApp-Blueprint/WIFApp_Properties.png
-
+[w2]: https://raw.github.com/persistentsystems/solutions-import-beta/AD-ADFS-WIFApp-Blueprint/AD-ADFS-WIFApp-Blueprint_Properties1.png
+[wl]: https://raw.github.com/persistentsystems/solutions-import-beta/AD-ADFS-WIFApp-Blueprint/AD-ADFS-WIFApp-Blueprint_Properties2.png
 ## Success
 Your application has been successfully imported and ready to go but first there are a few final steps you need to follow before you can perform a deployment.
 
 ### Next Steps
 1.In the AD-ADFS-WIFApp-Blueprint Application, you need to ensure that you have configured the **wifinstaller** content property to point to the location of your WIF SDK installer.
-
 [![WIF Installer][wl]][wl]
 
-2. User Certificates: 
-   *usercert  is the  User Certificate in  *.pfx  format.
-   **usercertpb is the User Certificate in *.p7b format.
+2. In the AD-ADFS-WIFApp-Blueprint Application, **usercert**  is the  User Certificate in  *.pfx  format and usercertpb is the User Certificate in *.p7b format.
 
 For Self Signed Certificates user need to export the certificate as *.pfx only. In case of the certificate signed by certification authority user need to export the certificate in *.pfx and .p7b format to include intermediate certificates.
 
@@ -33,7 +30,10 @@ g. On Certificate export wizard click next.
 h. On Export Private Key step, select ‘No, do not export private key’, select next.
 i. Select .P7B format and select checkbox ‘Include all certificates in the certification path if possible’ click next.
 j. Enter path and filename and click next.
-k. Click Finish and certificate gets exported
+k. Click Finish and certificate gets exported.
+
+[![AD-ADFS-WIFApp-Blueprint][w2]][w2]
+
 
 ##### After this you are good to go.
 
