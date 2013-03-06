@@ -6,7 +6,8 @@ Your application has been successfully imported and ready to go but first there 
 
 ### Next Steps
 
-1.In the AD-ADFS-WIFApp-Blueprint, you need to ensure that you have configured the **adfsinstaller** content property to point to the location of your adfs installer.
+1.In the AD-ADFS-WIFApp-Blueprint, you need to ensure that you have configured the **adfsinstaller** content property to point to the location of your adfs installer.This can be obtained as a Microsoft download from their site 
+http://www.microsoft.com/en-in/download/details.aspx?id=10909&hash=VrATgGfA8ZnXqoooj1Xqtr0uVhlPvHeSKKlmgVKbg7rsytvNjndrF%2fzelBesONw7N6%2fiUvPD9Ps0k3ds6sR8jw%3d%3d
 
 2.In the AD-ADFS-WIFApp-Blueprint, **usercert**  is the  User Certificate in  *.pfx  format and usercertpb is the User Certificate in *.p7b format.
 
