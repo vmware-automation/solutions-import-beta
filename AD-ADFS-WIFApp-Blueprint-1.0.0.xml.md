@@ -1,13 +1,14 @@
-[w2]: https://raw.github.com/persistentsystems/solutions-import-beta/AD-ADFS-WIFApp-Blueprint/AD-ADFS-WIFApp-Blueprint_Properties1.png
-[wl]: https://raw.github.com/persistentsystems/solutions-import-beta/AD-ADFS-WIFApp-Blueprint/AD-ADFS-WIFApp-Blueprint_Properties2.png
+[wl]: https://raw.github.com/persistentsystems/solutions-import-beta/AD-ADFS-WIFApp-Blueprint/AD-ADFS-WIFApp-Blueprint_WIFAppProperties.png
+[w2]: https://raw.github.com/persistentsystems/solutions-import-beta/AD-ADFS-WIFApp-Blueprint/AD-ADFS-WIFApp-Blueprint_ADFSProperties.png
+
 ## Success
 Your application has been successfully imported and ready to go but first there are a few final steps you need to follow before you can perform a deployment.
 
 ### Next Steps
-1. In the AD-ADFS-WIFApp-Blueprint, you need to ensure that you have configured the **wifinstaller** content property to point to the location of your WIF SDK installer.
-[![WIF Installer][wl]][wl]
 
-2. In the AD-ADFS-WIFApp-Blueprint, **usercert**  is the  User Certificate in  *.pfx  format and usercertpb is the User Certificate in *.p7b format.
+1. In the AD-ADFS-WIFApp-Blueprint, you need to ensure that you have configured the **adfsinstaller** content property to point to the location of your adfs installer.
+
+In the AD-ADFS-WIFApp-Blueprint, **usercert**  is the  User Certificate in  *.pfx  format and usercertpb is the User Certificate in *.p7b format.
 
 For Self Signed Certificates user need to export the certificate as *.pfx only. In case of the certificate signed by certification authority user need to export the certificate in *.pfx and .p7b format to include intermediate certificates.
 
@@ -33,6 +34,9 @@ j. Enter path and filename and click next.
 k. Click Finish and certificate gets exported.
 
 [![AD-ADFS-WIFApp-Blueprint][w2]][w2]
+
+1. In the AD-ADFS-WIFApp-Blueprint, you need to ensure that you have configured the **wifinstaller** content property to point to the location of your WIF SDK installer.
+[![WIF Installer][wl]][wl]
 
 
 ##### After this you are good to go.
