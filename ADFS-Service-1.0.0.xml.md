@@ -6,17 +6,16 @@ Your service has been successfully imported and ready to go but first there are 
 ### Next Steps
 1.In the ADFS Service, you need to ensure that you have configured the **adfsinstaller** content property to point to the location of your adfs installer.This file can be obtained as a Microsoft download from thier site http://www.microsoft.com/en-in/download/details.aspx?id=10909&hash=VrATgGfA8ZnXqoooj1Xqtr0uVhlPvHeSKKlmgVKbg7rsytvNjndrF%2fzelBesONw7N6%2fiUvPD9Ps0k3ds6sR8jw%3d%3d
 
-2.In the ADFS Service, **usercert**  is the  User Certificate in  *.pfx  format and usercertpb  is the User Certificate in *.p7b format.
-
-For Self Signed Certificates user need to export the certificate as *.pfx only. In case of the certificate signed by certification authority user need to export the certificate in *.pfx and .p7b format to include intermediate certificates.
+2.In the ADFS Service, **usercert**  is the  User Certificate in  *.pfx  format and usercertpb  is the User Certificate in *.p7b format.User need to export the certificate in *.pfx and .p7b format to include intermediate certificates.
 
 Steps to export in *.pfx format
-a. Open Server Manager, Click on Roles.
-b. On IIS Manager, click Server Certificates.
-c. Select the certificate and click on export.
-d. Browse and select location to export and type for export as *.pfx. Enter password and click Ok.
-e. User needs to enter the location and the password for the same in the export dialog.
-f. Certificate gets exported.
+a.Open Server Manager, Click on Roles.
+
+b.On IIS Manager, click Server Certificates.
+c.Select the certificate and click on export.
+d.Browse and select location to export and type for export as *.pfx. Enter password and click Ok.
+e.User needs to enter the location and the password for the same in the export dialog.
+f.Certificate gets exported.
 
 Steps to export in *.p7b format
 a. Open Management Console. Go to Start, type MMC and enter.
