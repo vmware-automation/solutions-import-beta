@@ -5,7 +5,6 @@ Your service has been successfully imported and ready to go but first there are 
 
 ### Next Steps
 1. In the ADFS Service, you need to ensure that you have configured the **adfsinstaller** content property to point to the location of your adfs installer.
-[![ADFS Installer][wl]][wl]
 
 2. User Certificates: 
    *usercert  is the  User Certificate in  *.pfx  format.
@@ -33,5 +32,7 @@ h. On Export Private Key step, select ‘No, do not export private key’, select ne
 i. Select .P7B format and select checkbox ‘Include all certificates in the certification path if possible’ click next.
 j. Enter path and filename and click next.
 k. Click Finish and certificate gets exported.
+
+[![ADFS Installer][wl]][wl]
 
 ##### After this you are good to go.
