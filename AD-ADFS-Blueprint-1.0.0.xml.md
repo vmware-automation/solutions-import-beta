@@ -65,21 +65,22 @@ For ADFS_Service  service:
 [![AD-ADFS-Properties][w3]][w3]
 
 #### Deployment:
-1.	Now click on deploy to deploy the application. 
-2.	Enter name for deployment profile
-3.	Step1: Deployment Environment tab will be displayed. Enter proper values as per your environment and click next
-4.	Step2: Application Properties
+1.Now click on deploy to deploy the application. 
+2.Enter name for deployment profile
+3.Step1: Deployment Environment tab will be displayed. Enter proper values as per your environment and click next
+4.Step2: Application Properties
 Node tab: Enter/Update proper values for nodes i.e. CPU, Memory, Hostname
 Service tab: As mentioned above property values for each service can be updated directly in blueprint or in deployment profile. Enter/Update property values for each service i.e. Active Directory and ADFS_Service service.
 
 
-[![AD-ADFS-Properties][w4]][w4]
+[![AD-ADFS-Properties][w4]][w4]  
 
-5.	Step3: Execution plan: It will show following screenshot
+5.Step3: Execution plan: It will show following screenshot
+
 
 [![AD-ADFS-Properties][w5]][w5]  
 
-6.	Step 4: Review: Click Deploy
+6.Step 4: Review: Click Deploy
 It’ll start the deployment. Wait till deployment completes.
 
 ##### Deployment Verification:  
