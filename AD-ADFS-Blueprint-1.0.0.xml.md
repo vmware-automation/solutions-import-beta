@@ -61,6 +61,7 @@ For ADFS_Service  service:
 4. usercert: Downloadable path of User Certificate in .pfx format  
 5. usercert_password: Password of user certificate
 
+
 [![AD-ADFS-Properties][w3]][w3]
 
 #### Deployment:
@@ -71,11 +72,13 @@ For ADFS_Service  service:
 Node tab: Enter/Update proper values for nodes i.e. CPU, Memory, Hostname
 Service tab: As mentioned above property values for each service can be updated directly in blueprint or in deployment profile. Enter/Update property values for each service i.e. Active Directory and ADFS_Service service.
 
+
 [![AD-ADFS-Properties][w4]][w4]
 
 5.	Step3: Execution plan: It will show following screenshot
 
-[![AD-ADFS-Properties][w5]][w5]
+[![AD-ADFS-Properties][w5]][w5]  
+
 6.	Step 4: Review: Click Deploy
 It’ll start the deployment. Wait till deployment completes.
 
@@ -90,6 +93,7 @@ b.	Click on Start > Administrative Tools. Here user can view following entities 
 4.	Active Directory Domains and Trusts.  
 
 Click on ‘Active Directory Users and Computers’ > Computers It will display the computers in the AD domain  
+
 
 [![AD-ADFS-Properties][w6]][w6]  
 
