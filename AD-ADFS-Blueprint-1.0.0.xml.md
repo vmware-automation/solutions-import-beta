@@ -33,21 +33,21 @@ h.	On Export Private Key step, select ‘No, do not export private key’, select ne
 i.	Select .P7B format and select checkbox ‘Include all certificates in the certification path if possible’ click next.  
 j.	Enter path and filename and click next.  
 k.	Click Finish and certificate gets exported.
-	
-3.	Create the vApp Template with OS Windows 2008 R2 Enterprise having application director agent.  See application director documentation for how to create vApp Template for windows.
+
+3.Create the vApp Template with OS Windows 2008 R2 Enterprise having application director agent.  See application director documentation for how to create vApp Template for windows.
  
 ### Set Up:
 Click on the "Try" link of this solution to import the blueprint.  Update the Application Director URL and password. Click on Import File button. It will import the blueprint in your application director. Once blueprint is imported, it will show you the page which explains the steps to be done after import.
 
 Following are the steps to be done after import:  
-Create the vApp Template with OS Windows 2008 R2 Enterprise having application director agent and map it to logical template 'W2K8 R2 Ent SP1 For AD' that is used in blueprint.   
-Once blueprint is imported, login to Application Director and check application with name ‘AD and ADFS’. Click on Application name and go to blueprint. It will show following.
+1.Create the vApp Template with OS Windows 2008 R2 Enterprise having application director agent and map it to logical template 'W2K8 R2 Ent SP1 For AD' that is used in blueprint.   
+2.Once blueprint is imported, login to Application Director and check application with name ‘AD and ADFS’. Click on Application name and go to blueprint. It will show following.
 
 
 [![AD-ADFS-Properties][wl]][wl]
 
 Following properties to be updated in blueprint or in deployment profile:  
-For ActiveDirectory Service:
+For ActiveDirectory Service:  
 1. netbios and dnsname: Netbios name will be part of DNS name e.g. if DNS name is adtest.com then netbios name should be adtest  
 2. password: Password that should be set for local admin  
 3. safepass: Safe mode recovery password, it should be complex password having at least on1 uppercase letter, one lowercase letter, number and special characters
