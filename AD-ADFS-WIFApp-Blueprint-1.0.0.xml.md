@@ -67,8 +67,10 @@ For ADFS service:
 
 [![AD-ADFS-WIFApp-Blueprint_ADFSProperties][w6]][w6]  
 
+
+
 For WIFSampleApp:  
-1. wifinstaller: Downloadable path of WIF installer
+1. wifinstaller: Downloadable path of WIF installer  
 
 
 [![AD-ADFS-WIFApp-Blueprint_ADFSProperties][w5]][w5]
@@ -80,10 +82,12 @@ For WIFSampleApp:
 3.	Step1: Deployment Environment tab will be displayed. Enter proper values as per your environment and click next
 4.	Step2: Application Properties
 Node tab: Enter/Update proper values for nodes i.e. CPU, Memory, Hostname
-Service tab: As mentioned above property values for each service can be updated directly in blueprint or in deployment profile. Enter/Update property values for each service i.e. AD, ADFS and WIFSampleApp service
+Service tab: As mentioned above property values for each service can be updated directly in blueprint or in deployment profile. Enter/Update property values for each service i.e. AD, ADFS and WIFSampleApp service  
+
 [![AD-ADFS-WIFApp-Blueprint_ADFSProperties][w4]][w4]
 
-5.	Step3: Execution plan: It will show following screenshot
+
+5.	Step3: Execution plan: It will show following screenshot  
 
 
 [![AD-ADFS-WIFApp-Blueprint_ADFSProperties][w3]][w3]
@@ -111,7 +115,9 @@ c.	You can also check Server Manager to verify that the machine is added to doma
 2.	For ADFS Setup:  
 a.	Login to the ADFS machine with AD domain credentials  
 b.	Go to Start > Administrative Tools. User can see ADFS server (‘AD FS 2.0 Management) installed. On the machine.  
-c.	Click on ADFS 2.0 Management to view the console. User will see the below screen after ADFS is successfully deployed. 
+c.	Click on ADFS 2.0 Management to view the console. User will see the below screen after ADFS is successfully deployed.  
+
+
 [![AD-ADFS-WIFApp-Blueprint_ADFSProperties][w8]][w8]  
 
 3.	For WIF Setup:    
