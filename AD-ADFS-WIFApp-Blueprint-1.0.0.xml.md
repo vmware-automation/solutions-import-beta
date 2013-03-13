@@ -34,9 +34,9 @@ i.	Select .P7B format and select checkbox ‘Include all certificates in the certi
 j.	Enter path and filename and click next.  
 k.	Click Finish and certificate gets exported.
 
-3.	Get the WIF SDK installer and copy it to downloadable location
+3.Get the WIF SDK installer and copy it to downloadable location
 http://www.microsoft.com/en-us/download/details.aspx?id=4451
-4.	Create the vApp Template with OS Windows 2008 R2 Enterprise having application director agent.  See application director documentation for how to create vApp Template for windows.
+4.Create the vApp Template with OS Windows 2008 R2 Enterprise having application director agent.  See application director documentation for how to create vApp Template for windows.
  
 ### Set Up:  
 Click on the "Try" link of this solution to import the blueprint.  Update the Application Director URL and password. Click on Import File button. It will import the blueprint in your application director. Once blueprint is imported, it will show you the page which explains the steps to be done after import.
@@ -47,14 +47,14 @@ Once blueprint is imported, login to Application Director and check application 
 
 [![AD-ADFS-WIFApp-Blueprint_WIFAppProperties][w1]][w1]
 
-Following properties to be updated in blueprint or in deployment profile:
-For ActiveDirectory Service:
-1. netbios and dnsname: Netbios name will be part of DNS name e.g. if DNS name is adtest.com then netbios name should be adtest
-2. password: Password that should be set for local admin
+Following properties to be updated in blueprint or in deployment profile:  
+For ActiveDirectory Service:  
+1. netbios and dnsname: Netbios name will be part of DNS name e.g. if DNS name is adtest.com then netbios name should be adtest  
+2. password: Password that should be set for local admin  
 3. safepass: Safe mode recovery password, it should be complex password having at least on1 uppercase letter, one lowercase letter, number and special characters
 
 
-[![AD-ADFS-WIFApp-Blueprint_WIFAppProperties][w2]][w2]
+[![AD-ADFS-WIFApp-Blueprint_WIFAppProperties][w2]][w2]  
 For ADFS service:  
 1. adfsinstalller: Downloadable path of ADFS 2.0 installer from where application can download the installer  
 2. local_admin_pass: Local admin password of ADFS machine:  
@@ -82,30 +82,27 @@ Service tab: As mentioned above property values for each service can be updated 
 6.	Step 4: Review: Click Deploy
 It’ll start the deployment. Wait till deployment completes.
 
-Deployment Verification:
-Once deployment is complete, you can use following steps to verify the deployment:
-1.	For AD Setup:
-a.Login to the AD machine with Active Directory domain credentials which were used while deployment
-
-b.	Click on Start > Administrative Tools. Following entities associated the AD setup will be displayed:
-1.	Active Directory Administrative Center
-2.	Active Directory Sites and Services.
-3.	Active Directory Users and Computers
-4.	Active Directory Domains and Trusts.
-
+#####Deployment Verification:  
+Once deployment is complete, you can use following steps to verify the deployment:  
+1.	For AD Setup:  
+a.Login to the AD machine with Active Directory domain credentials which were used while deployment  
+b.	Click on Start > Administrative Tools. Following entities associated the AD setup will be displayed:  
+1.	Active Directory Administrative Center  
+2.	Active Directory Sites and Services.  
+3.	Active Directory Users and Computers  
+4.	Active Directory Domains and Trusts.  
 Click on ‘Active Directory Users and Computers’ > Computers It will display the computers in the AD domain
 [![AD-ADFS-WIFApp-Blueprint_ADFSProperties][w7]][w7]
-c.	You can also check Server Manager to verify that the machine is added to domain that is created. Click on Start > Administrative Tools. Open the Server Manager. User can see that machine is added to domain.
 
-2.	For ADFS Setup:
-a.	Login to the ADFS machine with AD domain credentials
-
-b.	Go to Start > Administrative Tools. User can see ADFS server (‘AD FS 2.0 Management) installed. On the machine.
-
+c.	You can also check Server Manager to verify that the machine is added to domain that is created. Click on Start > Administrative Tools. Open the Server Manager. User can see that machine is added to domain.  
+2.	For ADFS Setup:  
+a.	Login to the ADFS machine with AD domain credentials  
+b.	Go to Start > Administrative Tools. User can see ADFS server (‘AD FS 2.0 Management) installed. On the machine.  
 c.	Click on ADFS 2.0 Management to view the console. User will see the below screen after ADFS is successfully deployed. 
-[![AD-ADFS-WIFApp-Blueprint_ADFSProperties][w8]][w8]
-3.	For WIF Setup:
-a.	Login to ADFS machine
+[![AD-ADFS-WIFApp-Blueprint_ADFSProperties][w8]][w8]  
+
+3.	For WIF Setup:    
+a.	Login to ADFS machine    
 b.	To verify ADFS with Sample application, access the sample application in browser.Open a browser window, and then go to https://$computername.$dnsname/ClaimsAwareWebAppWithManagedSTS/default.aspx
 e.g.
 https://ADFSHost.testad.com/ClaimsAwareWebAppWithManagedSTS/default.aspx 
