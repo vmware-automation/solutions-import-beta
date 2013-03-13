@@ -10,9 +10,8 @@
 
 ## Prerequisites:  
 Install and configure VMware vFabric Application Director 5.0 with vCloud Director. See the product documentation for information about installing and configuring Application Director.  
-1.	Get the ADFS 2.0 installer and copy it to downloadable location
-http://www.microsoft.com/en-in/download/details.aspx?id=10909&hash=VrATgGfA8ZnXqoooj1Xqtr0uVhlPvHeSKKlmgVKbg7rsytvNjndrF%2fzelBesONw7N6%2fiUvPD9Ps0k3ds6sR8jw%3d%3d  
-2.	Get User Certificates in .pfx and .p7b format and copy it to downloadable location
+1.	Get the ADFS 2.0 installer and copy it to downloadable location  http://www.microsoft.com/en-in/download/details.aspx?id=10909&hash=VrATgGfA8ZnXqoooj1Xqtr0uVhlPvHeSKKlmgVKbg7rsytvNjndrF%2fzelBesONw7N6%2fiUvPD9Ps0k3ds6sR8jw%3d%3d  
+2.	Get User Certificates in .pfx and .p7b format and copy it to downloadable location  
 Please note that user certificate name should match with DNS name of adfs host. e.g. If you have specified ADFS host name as ADFSHost and DNS name as testad.com, then certificate name should be ADFSHost.testad.com  
 Steps to export in *.pfx format:  
 a.	Open Server Manager, Click on Roles.  
@@ -34,8 +33,8 @@ i.	Select .P7B format and select checkbox ‘Include all certificates in the certi
 j.	Enter path and filename and click next.  
 k.	Click Finish and certificate gets exported.
 
-3.Get the WIF SDK installer and copy it to downloadable location
-http://www.microsoft.com/en-us/download/details.aspx?id=4451
+3.Get the WIF SDK installer and copy it to downloadable location  
+http://www.microsoft.com/en-us/download/details.aspx?id=4451  
 4.Create the vApp Template with OS Windows 2008 R2 Enterprise having application director agent.  See application director documentation for how to create vApp Template for windows.
  
 ### Set Up:  
@@ -47,6 +46,7 @@ Once blueprint is imported, login to Application Director and check application 
 
 [![AD-ADFS-WIFApp-Blueprint_WIFAppProperties][w1]][w1]
 
+
 Following properties to be updated in blueprint or in deployment profile:  
 For ActiveDirectory Service:  
 1. netbios and dnsname: Netbios name will be part of DNS name e.g. if DNS name is adtest.com then netbios name should be adtest  
@@ -55,17 +55,24 @@ For ActiveDirectory Service:
 
 
 [![AD-ADFS-WIFApp-Blueprint_WIFAppProperties][w2]][w2]  
+
+
 For ADFS service:  
 1. adfsinstalller: Downloadable path of ADFS 2.0 installer from where application can download the installer  
 2. local_admin_pass: Local admin password of ADFS machine:  
 3. usercertpb: Downloadable path of User Certificate in .p7b format  
 4. usercert: Downloadable path of User Certificate in .pfx format  
-5. usercert_password: Password of user certificate
-[![AD-ADFS-WIFApp-Blueprint_ADFSProperties][w6]][w6]
+5. usercert_password: Password of user certificate  
+
+
+[![AD-ADFS-WIFApp-Blueprint_ADFSProperties][w6]][w6]  
 
 For WIFSampleApp:  
 1. wifinstaller: Downloadable path of WIF installer
+
+
 [![AD-ADFS-WIFApp-Blueprint_ADFSProperties][w5]][w5]
+
 
 #### Deployment:
 1.	Now click on deploy to deploy the application. 
@@ -77,7 +84,10 @@ Service tab: As mentioned above property values for each service can be updated 
 [![AD-ADFS-WIFApp-Blueprint_ADFSProperties][w4]][w4]
 
 5.	Step3: Execution plan: It will show following screenshot
+
+
 [![AD-ADFS-WIFApp-Blueprint_ADFSProperties][w3]][w3]
+
 
 6.	Step 4: Review: Click Deploy
 It’ll start the deployment. Wait till deployment completes.
@@ -92,7 +102,10 @@ b.	Click on Start > Administrative Tools. Following entities associated the AD s
 3.	Active Directory Users and Computers  
 4.	Active Directory Domains and Trusts.  
 Click on ‘Active Directory Users and Computers’ > Computers It will display the computers in the AD domain
+
+
 [![AD-ADFS-WIFApp-Blueprint_ADFSProperties][w7]][w7]
+
 
 c.	You can also check Server Manager to verify that the machine is added to domain that is created. Click on Start > Administrative Tools. Open the Server Manager. User can see that machine is added to domain.  
 2.	For ADFS Setup:  
@@ -108,5 +121,7 @@ e.g.
 https://ADFSHost.testad.com/ClaimsAwareWebAppWithManagedSTS/default.aspx 
 It’ll ask for credentials. Enter the AD domain credentials. 
 This will automatically redirect the request the sample application with claims. For reference please see the below screenshot:
+
+
 [![AD-ADFS-WIFApp-Blueprint_ADFSProperties][w9]][w9]
 
