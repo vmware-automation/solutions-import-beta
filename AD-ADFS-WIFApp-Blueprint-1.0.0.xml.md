@@ -1,4 +1,4 @@
-[wl]: https://raw.github.com/vmware-applicationdirector/solutions-import-beta/AD-ADFS-WIFApp-Blueprint/AD-ADFS-WIFApp-Blueprint.png
+[w1]: https://raw.github.com/vmware-applicationdirector/solutions-import-beta/AD-ADFS-WIFApp-Blueprint/AD-ADFS-WIFApp-Blueprint.png
 [w2]: https://raw.github.com/vmware-applicationdirector/solutions-import-beta/AD-ADFS-WIFApp-Blueprint/AD-ADFS-WIFApp_ActiveDirectory.png
 [w3]: https://raw.github.com/vmware-applicationdirector/solutions-import-beta/AD-ADFS-WIFApp-Blueprint/AD-ADFS-WIFApp_ExecutionPlan.png
 [w4]: https://raw.github.com/vmware-applicationdirector/solutions-import-beta/AD-ADFS-WIFApp-Blueprint/AD-ADFS-WIFApp_Properties-Deploy.png
@@ -45,7 +45,7 @@ Create the vApp Template with OS Windows 2008 R2 Enterprise having application d
 Once blueprint is imported, login to Application Director and check application with name ‘AD ADFS and WIF Sample App’. Click on Application name and go to blueprint. It will show following.
 
 
-[![AD-ADFS-WIFApp-Blueprint_ADFSProperties][w1]][w1]
+[![AD-ADFS-WIFApp-Blueprint_WIFAppProperties][w1]][w1]
 
 Following properties to be updated in blueprint or in deployment profile:
 For ActiveDirectory Service:
