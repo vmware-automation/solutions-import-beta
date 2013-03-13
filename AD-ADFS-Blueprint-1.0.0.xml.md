@@ -60,6 +60,7 @@ For ADFS_Service  service:
 3. usercertpb: Downloadable path of User Certificate in .p7b format  
 4. usercert: Downloadable path of User Certificate in .pfx format  
 5. usercert_password: Password of user certificate
+
 [![AD-ADFS-Properties][w3]][w3]
 
 #### Deployment:
@@ -68,10 +69,12 @@ For ADFS_Service  service:
 3.	Step1: Deployment Environment tab will be displayed. Enter proper values as per your environment and click next
 4.	Step2: Application Properties
 Node tab: Enter/Update proper values for nodes i.e. CPU, Memory, Hostname
-Service tab: As mentioned above property values for each service can be updated directly in blueprint or in deployment profile. Enter/Update property values for each service i.e. Active Directory and ADFS_Service service
+Service tab: As mentioned above property values for each service can be updated directly in blueprint or in deployment profile. Enter/Update property values for each service i.e. Active Directory and ADFS_Service service.
+
 [![AD-ADFS-Properties][w4]][w4]
 
 5.	Step3: Execution plan: It will show following screenshot
+
 [![AD-ADFS-Properties][w5]][w5]
 6.	Step 4: Review: Click Deploy
 It’ll start the deployment. Wait till deployment completes.
@@ -87,13 +90,16 @@ b.	Click on Start > Administrative Tools. Here user can view following entities 
 4.	Active Directory Domains and Trusts.  
 
 Click on ‘Active Directory Users and Computers’ > Computers It will display the computers in the AD domain  
+
 [![AD-ADFS-Properties][w6]][w6]  
+
 c.	You can also check Server Manager to verify that the machine is added to domain that is created. Click on Start > Administrative Tools. Open the Server Manager. User can see that machine is added to domain.
 
 2.For ADFS Setup:  
 a.	Login to the ADFS machine with AD domain credentials  
 b.	Go to Start > Administrative Tools. User can see ADFS server (‘AD FS 2.0 Management) installed. On the machine.  
 c.	Click on ADFS 2.0 Management to view the console. User will see the below screen after ADFS is successfully deployed. 
+
 [![AD-ADFS-Properties][w7]][w7]  
 
 Note: ADFS configuration is in-complete until the user deploys sample App on ADFS
