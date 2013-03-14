@@ -6,6 +6,8 @@
 [w6]: https://raw.github.com/vmware-applicationdirector/solutions-import-beta/AD-ADFS-Blueprint/ActiveDirectoryUsersandComputers.png
 [w7]: https://raw.github.com/vmware-applicationdirector/solutions-import-beta/AD-ADFS-Blueprint/AD-ADFS-Console.png
 
+## Success
+Your application has been successfully imported and ready to go but first there are a few final steps you need to follow before you can perform a deployment.
 
 #### Prerequisites:  
 Install and configure VMware vFabric Application Director 5.0 with vCloud Director. See the product documentation for information about installing and configuring Application Director.  
@@ -98,11 +100,11 @@ Click on Active Directory Users and Computers > Computers. It will display the c
 
 [![AD-ADFS-Properties][w6]][w6]  
 
-3.You can also check Server Manager to verify that the machine is added to domain that is created. Click on Start > Administrative Tools. Open the Server Manager. User can see that machine is added to domain.
+3.You can also check Server Manager to verify that the machine is added to domain that is created. Click on Start > Administrative Tools. Open the Server Manager. It shows that machine is added to domain.
 
 **For ADFS Setup:**  
 1.Login to the ADFS machine with AD domain credentials  
 2.AD FS 2.0 Management menu is displayed when Start > Administrative Tools is clicked  
-3.Click on ADFS 2.0 Management to view the console. User will see the below screen after ADFS is successfully deployed. 
+3.Click on ADFS 2.0 Management to view the console. Following screen will be displayed screen if ADFS is successfully deployed: 
 
 [![AD-ADFS-Properties][w7]][w7]  
