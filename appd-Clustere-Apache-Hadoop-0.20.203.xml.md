@@ -6,8 +6,8 @@ There are  few final steps you need to follow before perform this deployment.
 ###Prerequisites:
 
 Download the "HadoopDemoApp.war" and "job.sh" files form following links and keep in your local webserver folder.
-link1
-link2
+
+https://github.com/vmware-applicationdirector/solutions-import-beta/tree/appd-Clustere-Apache-Hadoop-50-blueprint
 
 
 ###Deployment steps:
