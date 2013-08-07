@@ -24,7 +24,7 @@ Step2: Application Properties -> Service tab
 	
 			a. password: Enter the password for Hadoop user
 
-![alt tag](https://raw.github.com/jayashreeigate/jaya1/Hadoop/AfterDeployment-Step1.jpg)
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/appd-Clustere-Apache-Hadoop-50-blueprint/AfterDeployment-Step1.jpg)
 
 		
 		ii. vFabric_tc_Server_SYSTEM:
@@ -35,11 +35,11 @@ Step2: Application Properties -> Service tab
 		
 			c. war: Local webserver path where you kept "HadoopDemoApp.war" file
 	
-![alt tag](https://raw.github.com/jayashreeigate/jaya1/Hadoop/AfterDeployment-Step2.jpg)
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/appd-Clustere-Apache-Hadoop-50-blueprint/AfterDeployment-Step2.jpg)
 	
 ##Blueprint Canvas diagram for your reference: 
 
-![alt tag](https://raw.github.com/jayashreeigate/jaya1/Hadoop/AfterDeployment-Step2.jpg)
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/appd-Clustere-Apache-Hadoop-50-blueprint/Hadoop-Canvas-Diagram.png)
 
 ##Ready to go for deployment
 
