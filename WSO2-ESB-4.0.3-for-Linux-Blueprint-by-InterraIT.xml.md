@@ -23,12 +23,12 @@ Step2: Application Properties -> Service tab
 			a. wso2_esb_download_url: Enter the path for wso2esb-4.0.3.zip
 			b. ant_download_url: Enter the path for apache-ant-1.8.4-bin.tar.gz
 
-![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/WSO2-ESB-4_0_3_Linux-Blueprint-50/WSO2-ESB-4.0.3-for-Linux-Blueprint-by-InterraIT_properties)
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/WSO2-ESB-4_0_3_Linux-Blueprint-50/WSO2-ESB-4.0.3-for-Linux-Blueprint-by-InterraIT_properties.jpg)
 
 		
 ##Blueprint Canvas diagram for your reference: 
 
-![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/WSO2-ESB-4_0_3_Linux-Blueprint-50/WSO2-ESB-4.0.3-for-Linux-Blueprint-by-InterraIT_Canvas)
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/WSO2-ESB-4_0_3_Linux-Blueprint-50/WSO2-ESB-4.0.3-for-Linux-Blueprint-by-InterraIT_Canvas.png)
 
 ##Ready to go for deployment.
 
