@@ -24,11 +24,14 @@ Step 3: Application Properties -> Service tab ->Oracle11g
 			a. systempassword: Enter the password for the system user
 			b. syspassword: Enter the password for the sys user
 			c. nfs_path: Enter the nfs path
+			
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Oracle-Database-11g-Service-50/Oracle-Database-11g-Service_properties.jpg)
 	
-screen shot with some explanation
-	
+
 ##Blueprint Canvas diagram for your reference: 
 
+
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Oracle-Database-11g-Service-50/Oracle-Database-11g-Servic-Canvas.png)
 
 
 ##Ready to go for deployment
