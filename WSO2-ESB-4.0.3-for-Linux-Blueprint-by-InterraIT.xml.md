@@ -26,11 +26,15 @@ Step2: Application Properties -> Service tab
 ![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/WSO2-ESB-4_0_3_Linux-Blueprint-50/WSO2-ESB-4.0.3-for-Linux-Blueprint-by-InterraIT_properties.jpg)
 
 		
-##Blueprint Canvas diagram for your reference: 
+###Blueprint Canvas diagram for your reference: 
 
 ![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/WSO2-ESB-4_0_3_Linux-Blueprint-50/WSO2-ESB-4.0.3-for-Linux-Blueprint-by-InterraIT_Canvas.png)
 
-##Ready to go for deployment.
+###Ready to go for deployment.
+
+###Smoke test after deployment :
+
+Verify deployment by accessing URL http://{WSO2_ESB_Machine_ip:port}
 
 
 
