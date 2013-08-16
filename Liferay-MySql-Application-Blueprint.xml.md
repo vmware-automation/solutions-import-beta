@@ -35,21 +35,18 @@ Step2: Application Properties -> Service tab
             c. alfresco_share_war_url: Enter the local web server path of alfresco web archiver deployment  
 
 
-![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/
-Liferay-MySql-Application-Blueprint-50/Service_property_Liferay.png)
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Liferay-MySql-Application-Blueprint-50/Service_property_Liferay.png)
 
 		
 		ii. Application Properties -> Service tab -> MySQL  
 	
 		a. db_root_password: Enter database root password 
         
-![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/
-Liferay-MySql-Application-Blueprint-50/Service_property_Mysql.png)
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Liferay-MySql-Application-Blueprint-50/Service_property_Mysql.png)
 	
 ###Blueprint Canvas diagram for your reference: 
 
-![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/
-Liferay-MySql-Application-Blueprint-50/Liferay-MySql-Application-Blueprint-Canvas.png)
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Liferay-MySql-Application-Blueprint-50/Liferay-MySql-Application-Blueprint-Canvas.png)
 
 ###Ready to go for deployment
 
@@ -57,8 +54,7 @@ Liferay-MySql-Application-Blueprint-50/Liferay-MySql-Application-Blueprint-Canva
 
 Verify deployment by accessing URL http://WebPortal_IP:8080/
 
-![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/
-Liferay-MySql-Application-Blueprint-50/Smoke-Test.png)
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Liferay-MySql-Application-Blueprint-50/Smoke%20Test.png)
 
 
 
