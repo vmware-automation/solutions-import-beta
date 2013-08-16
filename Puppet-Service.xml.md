@@ -33,12 +33,11 @@ Step 3: Application Properties -> Service tab ->Puppet_Enterprise
 			c. puppet server: Enter appropriate puppet master name
 			
 
-![alt tag]()
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Puppet-Service-50/Puppet-Service-properties.png)
 	
 ###Blueprint Canvas diagram for your reference: 
 
-
-![alt tag]()
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Puppet-Service-50/Puppet-Service-Canvas.png)
 
 ###Ready to go for deployment
 
