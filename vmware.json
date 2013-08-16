@@ -3,7 +3,7 @@
 		"config":{            
 			"version":1.0        
 		},        
-		"applications":{            
+		"services":{            
 			"applicationDirectorWebImport":{                
 				"exportFileName":"Puppet-Service.xml",                
 				"exportedFileReadme":"Puppet-Service.xml.readme",                
