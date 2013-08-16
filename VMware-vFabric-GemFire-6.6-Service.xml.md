@@ -25,7 +25,7 @@ Step 2: Deployment Environment tab will be displayed. Enter proper property valu
 
 ###Blueprint Canvas diagram for your reference: 
 
-![alt tag]()
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/VMware-vFabric-GemFire6_6-Service-50/VMware-vFabric-GemFire-6.6-Service-Canvas.png)
 
 ###Ready to go for deployment
 
