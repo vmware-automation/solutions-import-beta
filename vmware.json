@@ -11,7 +11,7 @@
 				"exportedWithAppDVersion":5.0,                
 				"optional":{                    
 					"nextStepsMarkdownFile":"Puppet-Service.xml.md",                    
-					"enableConsoleLogging":true,                    
+					"enableConsoleLogging":false,                    
 					"exportedFileErrorReadme":"Puppet-Service.xml.error.readme"                
 				}            
 			}        
