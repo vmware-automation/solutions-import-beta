@@ -29,11 +29,11 @@ Step 3: Application Properties -> Service tab ->Sumo_Logic_Collector
 			b. PASSWORD: Enter the Sumo Logic account password
 			c. NAME: Enter the name used for your collector (Optional)  
 
-![alt tag]()
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Sumo-Service-50/Sumo-Service-proeprties.png)
  	
 ###Blueprint Canvas diagram for your reference: 
 
-![alt tag]()
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Sumo-Service-50/Sumo-Service-canvas.png)
 
 ###Ready to go for deployment
 
