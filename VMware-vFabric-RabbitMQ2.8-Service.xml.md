@@ -26,7 +26,7 @@ Step 2: Deployment Environment tab will be displayed. Enter proper property valu
 	
 ###Blueprint Canvas diagram for your reference: 
 
-![alt tag]()
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/VMware-vFabric-RabbitMQ-2_8-Service-50/VMware-vFabric-RabbitMQ2.8-Service-Canvas.png)
 
 ###Ready to go for deployment
 
