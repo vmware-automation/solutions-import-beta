@@ -19,7 +19,7 @@ Step2: Application Properties -> Service tab
 
 ###Blueprint Canvas diagram for your reference: 
 
-![alt tag]()
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Couchbase-NoSQL-Database-1_8_1-Blueprint-50/Couchbase-NoSQL-Database-1.8.1-Blueprint-canvas.png)
 
 ###Ready to go for deployment
 
@@ -28,7 +28,7 @@ Step2: Application Properties -> Service tab
 
 	Verify deployment by accessing URL http://Couchbase node IP:8080
 
-![alt tag]()
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Couchbase-NoSQL-Database-1_8_1-Blueprint-50/Smoke_Test.png)
 		
 
 
