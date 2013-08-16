@@ -26,6 +26,8 @@ Step 2: Deployment Environment tab will be displayed. Enter proper property valu
 	
 ###Blueprint Canvas diagram for your reference: 
 
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/VMware-vFabric-Web-Server-5_1-Service-50/VMware-vFabric-Web-Server-5.1-Service-Canvas.png)
+
 ###Ready to go for deployment
 
 
