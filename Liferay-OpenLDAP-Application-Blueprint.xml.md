@@ -32,7 +32,7 @@ Step2: Application Properties -> Service tab -> OpenLDAP
  			i. rootpw: root password
 	
 
-![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Liferay-OpenLDAP-Application-Blueprint-50/AfterDeployment-Step2.jpg) 
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Liferay-OpenLDAP-Application-Blueprint-50/Service-property-OpenLdap.png) 
 
 Step3: Application Properties -> Service tab -> Liferay
 
@@ -44,11 +44,11 @@ Step3: Application Properties -> Service tab -> Liferay
     iii.alfresco_share_war_url:Enter the path for share.war 
 
 
-![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Liferay-OpenLDAP-Application-Blueprint-50/AfterDeployment-Step2.jpg)
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Liferay-OpenLDAP-Application-Blueprint-50/Service-property-Liferay.png)
 	
 ##Blueprint Canvas diagram for your reference: 
 
-![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Liferay-OpenLDAP-Application-Blueprint-50/Hadoop-Canvas-Diagram.png)
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Liferay-OpenLDAP-Application-Blueprint-50/Liferay-OpenLDAP-Application-Blueprint-Canvas.png)
 
 ###Ready to go for deployment
 
@@ -56,7 +56,7 @@ Step3: Application Properties -> Service tab -> Liferay
 
 Verify deployment by accessing URLhttp://<IP of your deployed system>:8080 
 
-![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Liferay-OpenLDAP-Application-Blueprint-50t/Hadoop-Canvas-Diagram.png)
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Liferay-OpenLDAP-Application-Blueprint-50/Smoke-Test.png)
 
 
 
