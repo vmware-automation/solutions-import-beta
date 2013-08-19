@@ -19,12 +19,12 @@ Step1: Deployment Environment tab will be displayed. Enter proper values as per 
 Step2: Drag and drop Virtual Machine System Report Task just after the Application 
 
 
-![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/appd-Clustere-Apache-Hadoop-50-blueprint/AfterDeployment-Step1.jpg)
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Virtual-Machine-System-Report-50/VMSystemReport1.png)
 
 		
 ##Blueprint Canvas diagram for your reference: 
 
-![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/appd-Clustere-Apache-Hadoop-50-blueprint/Hadoop-Canvas-Diagram.png)
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Virtual-Machine-System-Report-50/VMSystemReport2.png)
 
 ##Smoke Test Plan
 
