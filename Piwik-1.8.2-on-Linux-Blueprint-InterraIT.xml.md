@@ -25,7 +25,7 @@ Step2: Application Properties -> Service tab
 		a. db_root_password : Enter the database root Password 
         b. phpMyAdmin_url   : Enter the path of phpMyAdmin Application 
 
-![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/appd-Clustere-Apache-Hadoop-50-blueprint/AfterDeployment-Step1.jpg) 
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Piwik-1_8_2-Linux-Blueprint-InterraIT-50/Service-Property-Lamp-stack.png) 
                       
 	ii. Application Properties -> Service tab -> piwik-2  
 	
@@ -33,12 +33,12 @@ Step2: Application Properties -> Service tab
         b. piwik_password: Enter piwik password
 
 
-![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/appd-Clustere-Apache-Hadoop-50-blueprint/AfterDeployment-Step1.jpg)
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Piwik-1_8_2-Linux-Blueprint-InterraIT-50/Service-Property-Piwik.png)
 
 
 ###Blueprint Canvas diagram for your reference: 
 
-![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/appd-Clustere-Apache-Hadoop-50-blueprint/Hadoop-Canvas-Diagram.png)
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Piwik-1_8_2-Linux-Blueprint-InterraIT-50/Piwik-1.8.2-on-Linux-Blueprint-InterraIT-canvas.png)
 
 ###Ready to go for deployment
 
@@ -47,7 +47,7 @@ Step2: Application Properties -> Service tab
 
 Verify deployment by accessing URL http://{ip:port}/piwik
 
-![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/appd-Clustere-Apache-Hadoop-50-blueprint/Hadoop-Canvas-Diagram.png)
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Piwik-1_8_2-Linux-Blueprint-InterraIT-50/Smoke-Test.png)
 
 
 
