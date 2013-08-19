@@ -24,12 +24,12 @@ Step2: Application Properties -> Service tab
 			b. database_password: Enter the database password
 			c. instance_password: Enter the password of the DB2 instance name
 
-![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/appd-Clustere-Apache-Hadoop-50-blueprint/AfterDeployment-Step1.jpg)
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/IBM-DB2-10_1-Linux-Blueprint-50/IBM-DB2-10.1-On-Linux-Blueprint_properties.jpg)
 
 		
 ##Blueprint Canvas diagram for your reference: 
 
-![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/appd-Clustere-Apache-Hadoop-50-blueprint/Hadoop-Canvas-Diagram.png)
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/IBM-DB2-10_1-Linux-Blueprint-50/IBM-DB2-10.1-On-Linux-Blueprint_Canvas.jpg)
 
 ##Smoke Test Plan
 
