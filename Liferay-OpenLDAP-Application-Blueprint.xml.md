@@ -54,7 +54,7 @@ Step3: Application Properties -> Service tab -> Liferay
 
 ###Smoke test after deployment:
 
-Verify deployment by accessing URL http://<IP of your deployed system>:8080
+Verify deployment by accessing URL http://WebPortal_IP:8080/
 
 ![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Liferay-OpenLDAP-Application-Blueprint-50/Smoke-Test.png)
 
