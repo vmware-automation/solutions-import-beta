@@ -34,25 +34,27 @@ Step2: Application Properties -> Service tab ->Alfresco
     iii.alfresco_admin_password : Enter the password for alfresco application login
  
 	
-![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/appd-Clustere-Apache-Hadoop-50-blueprint/AfterDeployment-Step2.jpg) 
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Alfresco-Service-50/Service-Property-Alfresco.png) 
 
 Step3: Application Properties -> Service tab -> MySQL
 
-	 i. db_root_username: Enter the database username as root
-     ii.db_root_password: Enter the database password 
+	 i.  db_root_username: Enter the database username as root
+         ii. db_root_password: Enter the database password 
   
 
-![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/appd-Clustere-Apache-Hadoop-50-blueprint/AfterDeployment-Step2.jpg)
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Alfresco-Service-50/Service-Property-MySql.png)
 	
 ##Blueprint Canvas diagram for your reference: 
 
-![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/appd-Clustere-Apache-Hadoop-50-blueprint/Hadoop-Canvas-Diagram.png)
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Alfresco-Service-50/Blueprint-Canvas.png)
 
 ##Ready to go for deployment
 
 ###Smoke test after deployment:
 
 Verify deployment by accessing URL: http ://< WebPortal IP >:8080/alfresco 
+
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Alfresco-Service-50/Smoke-Test.png)
 
 
 
