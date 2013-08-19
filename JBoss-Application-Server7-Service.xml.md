@@ -43,6 +43,7 @@ click on "Administrative Console"
 
 ![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/JBoss-Application-Server7-Service-50/Smoke-test-Login-page.png)
 
+
 ![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/JBoss-Application-Server7-Service-50/Smoke-test-Index-page.png)
 
 
