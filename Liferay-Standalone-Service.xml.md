@@ -55,7 +55,7 @@ Step3: Application Properties -> Service tab
 
 ### Smoke Test after deployment :
 
-Verify test after deployment  http://WebPortal_IP:8080/
+Verify deployment by accessing URL  http://WebPortal_IP:8080/
 
 ![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Liferay-Standalone-Service-50/Smoke-Test.jpg)
 
