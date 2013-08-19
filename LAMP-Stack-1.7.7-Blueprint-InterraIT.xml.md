@@ -24,13 +24,17 @@ Step2: Application Properties -> Service tab -> Lamp_Stack
 		a. db_root_password : Enter the database password
 
 	
-![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/appd-Clustere-Apache-Hadoop-50-blueprint/AfterDeployment-Step2.jpg)
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/LAMP-Stack-1-7-7-Blueprint-InterraIT-50/Lamp-Stack-Property.png)
 	
 ###Blueprint Canvas diagram for your reference: 
 
-![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/appd-Clustere-Apache-Hadoop-50-blueprint/Hadoop-Canvas-Diagram.png)
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/LAMP-Stack-1-7-7-Blueprint-InterraIT-50/LAMP-Stack-1.7.7-Blueprint-InterraIT-canvas.png)
 
 ###Ready to go for deployment
 
 ###Smoke test after deployment :
 Verify deployment by accessing URL : http://<IP of your deployed system>/phpinfo.php
+
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/LAMP-Stack-1-7-7-Blueprint-InterraIT-50/Lamp-SMOKE1.png)
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/LAMP-Stack-1-7-7-Blueprint-InterraIT-50/Lamp-php-SMOKE2.png)
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/LAMP-Stack-1-7-7-Blueprint-InterraIT-50/Lamp-phpinfo-SMOKE3.png)
