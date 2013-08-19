@@ -27,11 +27,11 @@ Step 3: Application Properties -> Service tab ->Riverbed_Stingray_Traffic_Manage
 
 			a. Stingray_Download_URL: Enter the URL to download the Stingray Software
 			b. Stingray_Node_IPs: Enter the IP addresses of Backend Nodes
-![alt tag]  
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Riverbed-Stingray-Traffic-Manager-9_0-Service-50/Riverbed-Stingray-Traffic-Manager-9.0_properties.jpg)  
 	
 ##Blueprint Canvas diagram for your reference: 
 
-![alt tag]
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Riverbed-Stingray-Traffic-Manager-9_0-Service-50/Riverbed-Stingray-Traffic-Manager-9.0-Canvas.jpg)
 
 
 ##Ready to go for deployment
