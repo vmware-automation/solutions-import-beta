@@ -1,0 +1,20 @@
+{    
+	"vmware":{        
+		"config":{            
+			"version":1.0        
+		},        
+		"applications":{            
+			"applicationDirectorWebImport":{                
+				"exportFileName":"Alfresco-4_0_e-Service-BitNami.xml",                
+				"exportedFileReadme":"Alfresco-4_0_e-Service-BitNami.xml.readme",                
+				"importSectionHeader":"Alfresco-4_0_e-Service-BitNami",                
+				"exportedWithAppDVersion":5.0,                
+				"optional":{                    
+					"nextStepsMarkdownFile":"Alfresco-4_0_e-Service-BitNami.xml.md",                    
+					"enableConsoleLogging":true,                    
+					"exportedFileErrorReadme":"Alfresco-4_0_e-Service-BitNami.xml.error.readme"                
+				}            
+			}        
+		}    
+	}
+} 
