@@ -28,11 +28,11 @@ Step 3: Application Properties -> Service tab ->OpenLDAP
 			a. rootpw: Enter the root password 
    
 
-![alt tag]()
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/OpenLDAP-service-50/OpenLDAP-service-Application-Properties.png)
 
 ##Blueprint Canvas diagram for your reference: 
 
-![alt tag]()
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/OpenLDAP-service-50/OpenLDAP-service-Canvas.png)
 
 ##Ready to go for deployment
 
