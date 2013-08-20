@@ -1,0 +1,20 @@
+{    
+	"vmware":{        
+		"config":{            
+			"version":1.0        
+		},        
+		"applications":{            
+			"applicationDirectorWebImport":{                
+				"exportFileName":"Jira-5.1-for-ssue-Tracking-by-Fluent-Soft-Blueprint.xml",                
+				"exportedFileReadme":"Jira-5.1-for-ssue-Tracking-by-Fluent-Soft-Blueprint.xml.readme",                
+				"importSectionHeader":"Jira-5.1-for-ssue-Tracking-by-Fluent-Soft-Blueprint",                
+				"exportedWithAppDVersion":5.0,                
+				"optional":{                    
+					"nextStepsMarkdownFile":"Jira-5.1-for-ssue-Tracking-by-Fluent-Soft-Blueprint.xml.md",                    
+					"enableConsoleLogging":true,                    
+					"exportedFileErrorReadme":"Jira-5.1-for-ssue-Tracking-by-Fluent-Soft-Blueprint.xml.error.readme"                
+				}            
+			}        
+		}    
+	}
+} 
