@@ -26,7 +26,7 @@ Step 2: Deployment Environment tab will be displayed. Enter proper property valu
 
 ###Blueprint Canvas diagram for your reference: 
 
-![alt tag]()
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/VMware-vFabric-SQLFire-1_0-Service-50/VMware-vFabric-SQLFire-1_0-Service-canvas.png)
 
 ###Ready to go for deployment
 
