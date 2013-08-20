@@ -28,14 +28,12 @@ Download "Stingray" , "cheetah-2.4.4.tar.gz" and "Jboss-5.1.0.GA.zip" package fr
 
 Step1: Deployment Environment tab will be displayed. Enter proper values as per your environment and click next.
 
-Step2: Application Properties -> Service tab
+Step2: Application Properties -> Service tab -> Stingray_traffic_Manager:
 
-		i. Application Properties -> Service tab -> JbossAppServer  
-			
-	        a. Stingray_traffic_Manager: No changes in value
+	        a.  No changes in value
 
 
-![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/appd-Clustere-Apache-Hadoop-50-blueprint/AfterDeployment-Step1.jpg)
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Clustered-Duke-Bank-Application-Blueprint-50/Service-Property-Stingray.png)
 
 
 		ii. Application Properties -> Service tab -> MySQL
@@ -43,14 +41,14 @@ Step2: Application Properties -> Service tab
 	        a. db_root_password : Enter the database root password
 
 
-![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/appd-Clustere-Apache-Hadoop-50-blueprint/AfterDeployment-Step1.jpg)
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Clustered-Duke-Bank-Application-Blueprint-50/Service-Property-MySql.png)
 	
 		iii.  Application Properties -> Service tab -> JbossAppServer 
 
 			a. JBOSS_JMX_PWD   : Enter the jboss JMX password
 
 
-![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/appd-Clustere-Apache-Hadoop-50-blueprint/AfterDeployment-Step1.jpg)
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Clustered-Duke-Bank-Application-Blueprint-50/Service-Property-JBossAppServer.png)
 
       
       
@@ -61,18 +59,18 @@ Step3: Application Properties -> Application Component tab
 	    a. db_password : Enter database password 
     
     
-![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/appd-Clustere-Apache-Hadoop-50-blueprint/AfterDeployment-Step1.jpg)
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Clustered-Duke-Bank-Application-Blueprint-50/Application-Property-initialize-db-script.png)
 
 	ii. Application Properties -> Application tab ->Dukes_Bank_App
 		
 		 No changes in value
 
-![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/appd-Clustere-Apache-Hadoop-50-blueprint/Hadoop-Canvas-Diagram.png)
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Clustered-Duke-Bank-Application-Blueprint-50/Application-Property-Dukes-Bank-App.png)
 
 	
 ##Blueprint Canvas diagram for your reference: 
 
-![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/appd-Clustere-Apache-Hadoop-50-blueprint/Hadoop-Canvas-Diagram.png)
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Clustered-Duke-Bank-Application-Blueprint-50/Blueprint-Canvas.png)
 
 ##Ready to go for deployment
 
@@ -80,9 +78,9 @@ Step3: Application Properties -> Application Component tab
 
 Verify deployment by accessing URLe http://WebPortal_IP/bank/main.faces
 
-![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/appd-Clustere-Apache-Hadoop-50-blueprint/Hadoop-Canvas-Diagram.png)
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Clustered-Duke-Bank-Application-Blueprint-50/DukesBankSmoke1.png)
 
-![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/appd-Clustere-Apache-Hadoop-50-blueprint/Hadoop-Canvas-Diagram.png)
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Clustered-Duke-Bank-Application-Blueprint-50/DukesBankSmoke2.png)
 
 
 
