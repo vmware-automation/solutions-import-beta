@@ -30,11 +30,11 @@ Step 3: Application Properties -> Service tab ->OpenLDAP
 
 ![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/OpenLDAP-service-50/OpenLDAP-service-Application-Properties.png)
 
-##Blueprint Canvas diagram for your reference: 
+###Blueprint Canvas diagram for your reference: 
 
 ![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/OpenLDAP-service-50/OpenLDAP-service-Canvas.png)
 
-##Ready to go for deployment
+###Ready to go for deployment
 
 
 
