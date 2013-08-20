@@ -29,12 +29,11 @@ Step 3: Application Properties -> Service tab -> WebSphereAppServer
 			b. ibm_password: Enter the password for ibm download center
 			c. admin_password: Enter the admin password
    
-
-![alt tag]()
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/IBM-Websphere-App-Server-8_0-Non-Clustered-Service-50/IBM-Websphere-Application-Server-8.0-Non-Clustered-Service-properties.png)
 
 ##Blueprint Canvas diagram for your reference: 
 
-![alt tag]()
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/IBM-Websphere-App-Server-8_0-Non-Clustered-Service-50/IBM-Websphere-Application-Server-8.0-Non-Clustered-Service-Canvas.png)
 
 ##Ready to go for deployment
 
