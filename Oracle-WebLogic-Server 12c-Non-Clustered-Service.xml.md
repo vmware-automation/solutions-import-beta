@@ -29,7 +29,7 @@ Step 3: Application Properties -> Service tab
 			i. Weblogic:
 
 				a. nfs_path: Enter the nfs path for the WebLogic Server installer
-![alt tag]()
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Oracle-WebLogic-Server-12c-Non-Clustered-Service-50/Oracle-WebLogic-Server-12c-Non-Clustered-Service-properties2.png)
 			
 Step 4: Application Properties -> Application Component tab
 
@@ -37,12 +37,11 @@ Step 4: Application Properties -> Application Component tab
 
 				a. war_file: Enter the nfs path for the demoapp.war file
 
-![alt tag]()
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Oracle-WebLogic-Server-12c-Non-Clustered-Service-50/Oracle-WebLogic-Server-12c-Non-Clustered-Service-properties1.png)
 
 ###Blueprint Canvas diagram for your reference: 
 
-![alt tag]()
-
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Oracle-WebLogic-Server-12c-Non-Clustered-Service-50/Oracle-WebLogic-Server-12c-Non-Clustered-Service-Canvas.png)
 
 ###Ready to go for deployment
 
@@ -52,7 +51,7 @@ Log into the WebLogic server console at http://<deployed IP>:7001/console/login/
 	
 Log into the application at http://<deployed IP>:7001/TestWebApp/
 
-![alt tag]()
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Oracle-WebLogic-Server-12c-Non-Clustered-Service-50/Oracle-WebLogic-Server-12c-Non-Clustered-Service-Smoke-Test.png)
 
 
 
