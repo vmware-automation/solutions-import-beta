@@ -1,7 +1,7 @@
 #Success
 Blueprint has been successfully imported in your local vFabric Application Director. 
 
-There are  few final steps you need to follow before perform this deployment.
+There are  few final steps you need to follow before performing this deployment.
 
 ###Prerequisites:
 
@@ -23,9 +23,6 @@ Download  "Alfresco_enterprise-4.1.5_installer.bin" ,"mysql-connector-java-5.0.8
     *http://sourceforge.net/projects/lportal/files/latest/download/liferay-portal-tomcat-6.1.1-ce-ga2-20120731132656558.zip*
 
 
-
-
-
 ###Deployment steps:
 1.Now click on deploy to deploy the application.
 
@@ -34,28 +31,40 @@ Download  "Alfresco_enterprise-4.1.5_installer.bin" ,"mysql-connector-java-5.0.8
 Step1: Deployment Environment tab will be displayed. Enter proper values as per your environment and click next.
 
 
-Step2: Application Properties -> Service tab -> Liferay
+Step2: Application Properties -> Service tab -> OpenLDAP
+
+	i. rootpw: Enter OpenLDAP root password
+
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Liferay-OpenLDAP-MySql-Alfresco-App-Blueprint-50/Service-property-OpenLdap.png) 
+
+Step3: Application Properties -> Service tab -> MYSQL
 	
-	i. mysql_connector: Enter mysql-connector-java Tarball path for MySql connectivity with tomcat application server 
+	i. db_root_password: Enter the database root password
 
-    ii.installer_url: Enter URL for liferay-portal-tomcat application 
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Liferay-OpenLDAP-MySql-Alfresco-App-Blueprint-50/Service-property-Mysql.png) 
+	    
+	    
+Step4: Application Properties -> Service tab -> Liferay
 
-    iii.alfresco_share_war_url:Enter URL for alfresco application deployment on tomcat server
- 
+	    i. mysql_connector: Enter path of  mysql-connector-java-5.0.8.tar.gz for MySql connectivity with tomcat application server 
 	
+	    ii.installer_url: Enter path for liferay-portal-tomcat application (liferay-portal-tomcat-6.1.1-ce-ga2-20120731132656558.zip)
+	
+	    iii.alfresco_share_war_url: Enter path for  Share.war
+	    
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Liferay-OpenLDAP-MySql-Alfresco-App-Blueprint-50/Service-property-Liferay.png) 
+	    
+Step5: Application Properties -> Service tab -> Alfresco
 
-![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/appd-Clustere-Apache-Hadoop-50-blueprint/AfterDeployment-Step2.jpg) 
+	    i. installer_url : Enter path of Alfresco_enterprise-4.1.5_installer.bin
+	    ii. mysql_connector: Enter path of  mysql-connector-java-5.0.8.tar.gz
+	    iii. alfresco_admin_password: Enter alfresco admin password 
 
-Step3: Application Properties -> Service tab -> OpenLDAP
-
-	i. rootpw: root password
-
-
-![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/appd-Clustere-Apache-Hadoop-50-blueprint/AfterDeployment-Step2.jpg)
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Liferay-OpenLDAP-MySql-Alfresco-App-Blueprint-50/Service-property-Alfresco.png)
 	
 ##Blueprint Canvas diagram for your reference: 
 
-![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/appd-Clustere-Apache-Hadoop-50-blueprint/Hadoop-Canvas-Diagram.png)
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Liferay-OpenLDAP-MySql-Alfresco-App-Blueprint-50/Blueprint-Canvas.png)
 
 ##Ready to go for deployment
 
@@ -63,7 +72,9 @@ Step3: Application Properties -> Service tab -> OpenLDAP
 		
 Go to browser and type: http ://< WebPortal IP >:8080/
 
-User is redirected to Liferay home page. Liferay + OpenLDAP + MySQL + Alfresco blueprint is deployed.
+User is redirected to Liferay home page. 
+
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Liferay-OpenLDAP-MySql-Alfresco-App-Blueprint-50/Smoke-test.png)
 
 
 
