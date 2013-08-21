@@ -5,7 +5,7 @@
 		},        
 		"applications":{            
 			"applicationDirectorWebImport":{                
-				"exportFileName":"VMware-vFabric-SQLFire-1_0-Service.xml",                
+				"exportFileName":"VMware-vFabric-SQLFire-1_0-Service-sbp.xml",                
 				"exportedFileReadme":"VMware-vFabric-SQLFire-1_0-Service.xml.readme",                
 				"importSectionHeader":"VMware-vFabric-SQLFire-1_0-Service",                
 				"exportedWithAppDVersion":5.0,                
