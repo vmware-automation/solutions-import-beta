@@ -5,7 +5,7 @@
 		},        
 		"applications":{            
 			"applicationDirectorWebImport":{                
-				"exportFileName":"VMware-vFabric-tc-Server-2.7-with-EM4J-Service.xml",                
+				"exportFileName":"VMware-vFabric-tc-Server-2.7-with-EM4J-Service-sbp.xml",                
 				"exportedFileReadme":"VMware-vFabric-tc-Server-2.7-with-EM4J-Service.xml.readme",                
 				"importSectionHeader":"VMware-vFabric-tc-Server-2.7-with-EM4J-Service",                
 				"exportedWithAppDVersion":5.0,                
