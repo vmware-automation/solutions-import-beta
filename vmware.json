@@ -5,7 +5,7 @@
 		},        
 		"applications":{            
 			"applicationDirectorWebImport":{                
-				"exportFileName":"VMware-vFabric-Web-Server-5.1-Service.xml",                
+				"exportFileName":"VMware-vFabric-Web-Server-5.1-Service-sbp.xml",                
 				"exportedFileReadme":"VMware-vFabric-Web-Server-5.1-Service.xml.readme",                
 				"importSectionHeader":"VMware-vFabric-Web-Server-5.1-Service",                
 				"exportedWithAppDVersion":5.0,                
