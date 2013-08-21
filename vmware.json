@@ -5,7 +5,7 @@
 		},        
 		"applications":{            
 			"applicationDirectorWebImport":{                
-				"exportFileName":"VMware-vFabric-RabbitMQ2.8-Service.xml",                
+				"exportFileName":"VMware-vFabric-RabbitMQ2.8-Service-sbp.xml",                
 				"exportedFileReadme":"VMware-vFabric-RabbitMQ2.8-Service.xml.readme",                
 				"importSectionHeader":"VMware-vFabric-RabbitMQ2.8-Service",                
 				"exportedWithAppDVersion":5.0,                
