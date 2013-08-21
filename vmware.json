@@ -5,7 +5,7 @@
 		},        
 		"applications":{            
 			"applicationDirectorWebImport":{                
-				"exportFileName":"Oracle-Database-11g-Service.xml",                
+				"exportFileName":"Oracle-Database-11g-Service-sbp.xml",                
 				"exportedFileReadme":"Oracle-Database-11g-Service.xml.readme",                
 				"importSectionHeader":"Oracle-Database-11g-Service",                
 				"exportedWithAppDVersion":5.0,                
