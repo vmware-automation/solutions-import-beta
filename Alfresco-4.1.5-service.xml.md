@@ -1,7 +1,10 @@
 #Success
-Service has been successfully imported in your local vFabric Application Director. 
+Service with sample blueprint have been successfully imported in vFabric Application Director. 
+
+Sample Blueprint is with Service and one of the supported operating system. User can use any of supported Operating Systems listed in Service. 
 
 There are few final steps you need to follow before performing deployment.
+
 
 ###Prerequisites:
 
@@ -17,33 +20,38 @@ Download the following files and keep them in your local web server folder.
 
 
 ###Deployment steps:
-1.Now click on deploy to deploy the application.
+After importing Blueprint in vFabric Application Director, you can proceed with application deployment. The basic steps are as follows:
 
-2.Enter name for deployment profile.
+Step 1: Map the logical template with Cloud  template (Physical Template).
 
-Step1: Deployment Environment tab will be displayed. Enter proper values as per your environment and click next.
+Step 2: Navigate to Applications Tab and open the imported Application.
+
+Step 3: Enter required property values appropriate to your environment.
 
 
-Step2: Application Properties -> Service tab ->Alfresco
+
+	a. Application Properties -> Service tab ->Alfresco
 	
 
-     i.installer_url: Enter URL for Alfresco application installation 
+	     i.installer_url: Enter URL for Alfresco application installation 
+		
+	    ii.mysql_connector: Enter mysql-connector-java Tarball path for MySql installtion and connectivity with tomcat application server 
 	
-    ii.mysql_connector: Enter mysql-connector-java Tarball path for MySql installtion and connectivity with tomcat application server 
-
-    iii.alfresco_admin_password : Enter the password for alfresco application login
- 
+	    iii.alfresco_admin_password : Enter the password for alfresco application login
+	 
 	
 ![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Alfresco-Service-50/Service-Property-Alfresco.png) 
 
-Step3: Application Properties -> Service tab -> MySQL
+	b. Application Properties -> Service tab -> MySQL
 
-	 i.  db_root_username: Enter the database username as root
-         ii. db_root_password: Enter the database password 
+		 i.  db_root_username: Enter the database username as root
+	         ii. db_root_password: Enter the database password 
   
 
 ![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Alfresco-Service-50/Service-Property-MySql.png)
 	
+Step 4: Save the Application and proceed for deployment
+
 ##Blueprint Canvas diagram for your reference: 
 
 ![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Alfresco-Service-50/Blueprint-Canvas.png)
