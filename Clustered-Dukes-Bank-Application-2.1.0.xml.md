@@ -66,7 +66,7 @@ Step3: Application Properties -> Application Component tab
 
 ###Smoke test after deployment:
 
-Verify deployment by accessing URLe http://WebPortal_IP/bank/main.faces
+Verify deployment by accessing URL http://WebPortal_IP/bank/main.faces
 
 ![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Clustered-Duke-Bank-Application-Blueprint-50/DukesBankSmoke1.png)
 
