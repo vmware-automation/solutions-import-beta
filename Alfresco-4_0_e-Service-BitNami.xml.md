@@ -11,9 +11,9 @@ There are few final steps you need to follow before performing deployment.
 Download the following files and keep these in your local web server folder.  
 
 	
-	1. **Alfresco_enterprise-4.0.1_installer.bin**
+	1. Alfresco_enterprise-4.0.1_installer.bin
 	    
-	2. **mysql-connector-java.tar.gz**
+	2. mysql-connector-java.tar.gz
     
 
  
