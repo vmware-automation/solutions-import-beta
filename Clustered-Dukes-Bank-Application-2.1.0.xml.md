@@ -7,20 +7,10 @@ There are  few final steps you need to follow before performing this deployment.
 
 Download "Stingray" , "cheetah-2.4.4.tar.gz" and "Jboss-5.1.0.GA.zip" package from following link and keep it in your local webserver folder. 
 
-
-1. **ZeusTM_93_Linux-x86_64/** :
-
-    *https://support.riverbed.com/download.htm?sid=qbr1k45ualc3gijn0qavnjaei7*
-
-
-2. **Cheetah-2.4.4.tar.gz** : 
-    *https://pypi.python.org/packages/source/C/Cheetah/Cheetah-1.0.tar.gz*
-
-
-3. **Jboss-5.1-0.GA.zip** : 
-    *http://sourceforge.net/projects/jboss/files/JBoss/JBoss-5.1.0.GA/jboss-5.1.0.GA.zip/download*
-
-
+	1. ZeusTM_93_Linux-x86_64
+	2. Cheetah-2.4.4.tar.gz
+	3. Jboss-5.1-0.GA.zip
+	
 ###Deployment steps:
 1.Now click on deploy to deploy the application.
 
