@@ -22,20 +22,16 @@ Step2: Drag and drop Virtual Machine System Report Task just after the Applicati
 ![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Virtual-Machine-System-Report-50/VMSystemReport1.png)
 
 		
-##Blueprint Canvas diagram for your reference: 
+###Blueprint Canvas diagram for your reference: 
 
-![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Virtual-Machine-System-Report-50/VMSystemReport2.png)
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Virtual-Machine-System-Report-50/VMSystemReport3.png)
 
-##Smoke Test Plan
+###Ready to go for deployment
+
+###Smoke Test Plan
 
 Create JDBC connection to access the DB. URL to be used:
 String url = "jdbc:db2://<db_machine_ip>:50000/<db_name>";
-
-	no screen shot
-
-##Ready to go for deployment
-
-
 
 
 
