@@ -27,14 +27,12 @@ Step2: Application Properties -> Service tab -> JBoss _ Application _ Server_7
 
     iii)JBOSS_MGMT_PWD: Enter Jboss password
 
-![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/
-JBoss-Application-Server7-Service-50/Service-Property-Jboss.png)
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/JBoss-Application-Server7-Service-50/Service-Property-Jboss.png)
 
 
 ###Blueprint Canvas diagram for your reference: 
 
-![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/
-JBoss-Application-Server7-Service-50/JBoss-Application-Server7-Service-Blueprint-Canvas.png)
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/JBoss-Application-Server7-Service-50/JBoss-Application-Server7-Service-Blueprint-Canvas.png)
 
 ###Ready to go for deployment
 
@@ -43,11 +41,10 @@ JBoss-Application-Server7-Service-50/JBoss-Application-Server7-Service-Blueprint
 Verify deployment by accessing URL http ://< WebPortal IP >:8080/
 click on "Administrative Console"
 
-![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/
-JBoss-Application-Server7-Service-50/Smoke-test-Login-page.png)
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/JBoss-Application-Server7-Service-50/Smoke-test-Login-page.png)
 
-![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/
-JBoss-Application-Server7-Service-50/Smoke-test-Index-page.png)
+
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/JBoss-Application-Server7-Service-50/Smoke-test-Index-page.png)
 
 
 
