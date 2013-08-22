@@ -8,16 +8,11 @@ There are few final steps you need to follow before performing deployment.
 
 ###Prerequisites:
 
-Download the following files and keep them in your local web server folder.  
-
-
-1. **Alfresco_enterprise-4.0.1_installer.bin** : 
-     *ftp://10.44.50.7/AppDirector/applications/alfresco/alfresco-enterprise-4.0.1-installer-linux-x64.bin*
-
-
-2. **mysql-connector-java.tar.gz** : 
-     *http://mysql.ntu.edu.tw/Downloads/Connector-J/mysql-connector-java-5.0.8.tar.gz*
-
+Download the following files and keep it in your local web server folder:
+	
+	1. Alfresco_enterprise-4.0.1_installer.bin
+	2. mysql-connector-java-5.0.8.tar.gz 
+	   
 
 ###Deployment steps:
 After importing Blueprint in vFabric Application Director, you can proceed with application deployment. The basic steps are as follows:
@@ -26,9 +21,7 @@ Step 1: Map the logical template with Cloud  template (Physical Template).
 
 Step 2: Navigate to Applications Tab and open the imported Application.
 
-Step 3: Enter required property values appropriate to your environment.
-
-
+Step 3: Enter required property values appropriate to your environment:
 
 	a. Application Properties -> Service tab ->Alfresco
 	
