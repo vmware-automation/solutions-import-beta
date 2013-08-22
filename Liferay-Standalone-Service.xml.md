@@ -1,22 +1,16 @@
 #Success
 Blueprint has been successfully imported in your local vFabric Application Director. 
 
-There are  few final steps you need to follow before perform this deployment.
+There are  few final steps you need to follow before performing this deployment.
 
 ###Prerequisites:
 
 
-Download "mysql-connector-java-5.0.8.tar.gz" , "liferay-portal-tomcat-6.1.1-ce-ga2-20120731132656558.zip" and "alfresco_share.war"  files from following link and keep them in your local webserver folder.
+Download the following  files and keep them in your local web server folder.
 
-
-1. **mysql-connector-java-5.0.8.tar.gz** :
-    *ftp://10.44.50.7/AppDirector/applications/LifeRay/mysql-connector-java-5.0.8.tar.gz*
-
-2. **liferay-portal-tomcat-6.1.1-ce-ga2-20120731132656558.zip** :
-    *http://sourceforge.net/projects/lportal/files/latest/download/liferay-portal-tomcat-6.1.1-ce-ga2-20120731132656558.zip*
-
-3. **Share.war** : 
-    *ftp://10.44.50.7/AppDirector/applications/LifeRay/share.war*
+1. mysql-connector-java-5.0.8.tar.gz
+2. liferay-portal-tomcat-6.1.1-ce-ga2-20120731132656558.zip
+3. Share.war
 
 
 ###Deployment steps:
