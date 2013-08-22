@@ -1,7 +1,10 @@
 #Success
-Service has been successfully imported in your local vFabric Application Director. 
+Service with sample blueprint have been successfully imported in vFabric Application Director. 
+
+Sample Blueprint is with Service and one of the supported operating system. User can use any of supported Operating Systems listed in Service. 
 
 There are few final steps you need to follow before performing deployment.
+
 
 ###Prerequisites:
 
