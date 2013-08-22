@@ -5,7 +5,7 @@
 		},        
 		"applications":{            
 			"applicationDirectorWebImport":{                
-				"exportFileName":"Sumo-Service.xml",                
+				"exportFileName":"Sumo-Service-sbp.xml",                
 				"exportedFileReadme":"Sumo-Service.xml.readme",                
 				"importSectionHeader":"Sumo-Service",                
 				"exportedWithAppDVersion":5.0,                
