@@ -5,24 +5,14 @@ There are  few final steps you need to follow before perform this deployment.
 
 ###Prerequisites:
 
-Download  "Alfresco_enterprise-4.1.5_installer.bin" ,"mysql-connector-java-5.0.8.tar.gz" , "liferay-portal-tomcat-6.1.1-ce-ga2-20120731132656558.zip" and "alfresco_share.war"  files from following link and keep them in your local webserver folder.
+Download  the following files and keep them in your local webserver folder.
 
-
-1. **Alfresco_enterprise-4.1.5_installer.bin** : 
-    *ftp://10.44.50.7/AppDirector/applications/*
-
-
-2. **Share.war** : 
-    *ftp://10.44.50.7/AppDirector/applications/LifeRay/share.war*
-
-
-3. **mysql-connector-java-5.0.8.tar.gz** :
-    *ftp://10.44.50.7/AppDirector/applications/LifeRay/mysql-connector-java-5.0.8.tar.gz*
-
-4. **liferay-portal-tomcat-6.1.1-ce-ga2-20120731132656558.zip** :
-    *http://sourceforge.net/projects/lportal/files/latest/download/liferay-portal-tomcat-6.1.1-ce-ga2-20120731132656558.zip*
-
-
+		
+	1. Alfresco_enterprise-4.1.5_installer.bin
+	2. Share.war
+	3. mysql-connector-java-5.0.8.tar.gz
+	4. liferay-portal-tomcat-6.1.1-ce-ga2-20120731132656558.zip
+    
 ###Deployment steps:
 1.Now click on deploy to deploy the application.
 
