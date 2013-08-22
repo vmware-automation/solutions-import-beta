@@ -5,7 +5,7 @@
 		},        
 		"applications":{            
 			"applicationDirectorWebImport":{                
-				"exportFileName":"Liferay-Standalone-Service.xml",                
+				"exportFileName":"Liferay-Standalone-Service-sbp.xml",                
 				"exportedFileReadme":"Liferay-Standalone-Service.xml.readme",                
 				"importSectionHeader":"Liferay-Standalone-Service",                
 				"exportedWithAppDVersion":5.0,                
