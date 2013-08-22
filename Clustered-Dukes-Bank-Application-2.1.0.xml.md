@@ -5,7 +5,7 @@ There are  few final steps you need to follow before performing this deployment.
 
 ###Prerequisites:
 
-Download "Stingray" , "cheetah-2.4.4.tar.gz" and "Jboss-5.1.0.GA.zip" package from following link and keep it in your local webserver folder. 
+Download the following files and keep it in your local webserver folder. 
 
 	1. ZeusTM_93_Linux-x86_64
 	2. Cheetah-2.4.4.tar.gz
@@ -58,11 +58,11 @@ Step3: Application Properties -> Application Component tab
 ![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Clustered-Duke-Bank-Application-Blueprint-50/Application-Property-Dukes-Bank-App.png)
 
 	
-##Blueprint Canvas diagram for your reference: 
+###Blueprint Canvas diagram for your reference: 
 
 ![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Clustered-Duke-Bank-Application-Blueprint-50/Blueprint-Canvas.png)
 
-##Ready to go for deployment
+###Ready to go for deployment
 
 ###Smoke test after deployment:
 
