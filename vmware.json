@@ -5,7 +5,7 @@
 		},        
 		"applications":{            
 			"applicationDirectorWebImport":{                
-				"exportFileName":"JBoss-Application-Server7-Service.xml",                
+				"exportFileName":"JBoss-Application-Server7-Service-sbp.xml",                
 				"exportedFileReadme":"JBoss-Application-Server7-Service.xml.readme",                
 				"importSectionHeader":"JBoss-Application-Server7-Service",                
 				"exportedWithAppDVersion":5.0,                
