@@ -1,25 +1,24 @@
 #Success
-Service has been successfully imported in your local vFabric Application Director. 
+Service with sample blueprint have been successfully imported in vFabric Application Director. 
+
+Sample Blueprint is with Service and one of the supported operating system. User can use any of supported Operating Systems listed in Service. 
 
 There are few final steps you need to follow before performing deployment.
 
+###Prerequisites:
+
+None 
+
 ###Deployment steps:
+After importing Blueprint in vFabric Application Director, you can proceed with application deployment. The basic steps are as follows:
 
-After importing Service in Application Director, you can start using it to deploy applications. The basic steps are as follows:
+Step 1: Map the logical template with Cloud  template (Physical Template).
 
-Step 1:
+Step 2: Navigate to Applications Tab and open the imported Application.
 
-	1. Create a new Application.
-	 
-    2. On the Blueprint canvas, drag and drop the supported OS template from the Logical Templates menu.
+Step 3: Enter required property values appropriate to your environment.
 
-    3. From the Services menu, drag and drop this service to OS template.
-
-    4. Save the Application.
-    
-Step 2: Deployment Environment tab will be displayed. Enter proper property values as per your environment and click next.
-
-Step 3: Application Properties -> Service tab ->Oracle11g
+	a. Application Properties -> Service tab ->Oracle11g
 
 			a. systempassword: Enter the password for the system user
 			b. syspassword: Enter the password for the sys user
@@ -27,14 +26,13 @@ Step 3: Application Properties -> Service tab ->Oracle11g
 			
 ![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Oracle-Database-11g-Service-50/Oracle-Database-11g-Service_properties.jpg)
 	
+Step 4: Save the Application and proceed for deployment
 
-##Blueprint Canvas diagram for your reference: 
-
+###Blueprint Canvas diagram for your reference: 
 
 ![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Oracle-Database-11g-Service-50/Oracle-Database-11g-Servic-Canvas.png)
 
-
-##Ready to go for deployment
+###Ready to go for deployment
 
 
 
