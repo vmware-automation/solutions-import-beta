@@ -7,12 +7,10 @@ There are few final steps you need to follow before performing deployment.
 
 ###Prerequisites:
 
-Download the Jboss 7 Application Server file from following link and keep it in your local NFS Server folder.
+Download the Jboss 7 Application Server file and keep it in your local web Server folder.
 
-1. **jboss-as-7.1.0.Final.zip** : 
-    *http://www.jboss.org/jbossas/downloads/*
-
-
+1. jboss-as-7.1.0.Final.zip : http://www.jboss.org/jbossas/downloads/
+    
 ###Deployment steps:
 After importing Blueprint in vFabric Application Director, you can proceed with application deployment. The basic steps are as follows:
 
