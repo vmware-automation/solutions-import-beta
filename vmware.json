@@ -5,7 +5,7 @@
 		},        
 		"applications":{            
 			"applicationDirectorWebImport":{                
-				"exportFileName":"OpenLDAP-service.xml",                
+				"exportFileName":"OpenLDAP-service-sbp.xml",                
 				"exportedFileReadme":"OpenLDAP-service.xml.readme",                
 				"importSectionHeader":"OpenLDAP-service",                
 				"exportedWithAppDVersion":5.0,                
