@@ -5,7 +5,7 @@
 		},        
 		"applications":{            
 			"applicationDirectorWebImport":{                
-				"exportFileName":"Puppet-Service.xml",                
+				"exportFileName":"Puppet-Service-sbp.xml",                
 				"exportedFileReadme":"Puppet-Service.xml.readme",                
 				"importSectionHeader":"Puppet-Service",                
 				"exportedWithAppDVersion":5.0,                
