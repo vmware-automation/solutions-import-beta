@@ -7,8 +7,6 @@ There are few final steps you need to follow before performing this deployment.
 
 Download the "alfresco-enterprise-4.0.1-installer-linux-x64.bin" file from following link and keep it in your local webserver folder.
 
-http://sourceforge.net/projects/alfresco/files/Alfresco%204.0.c%20Community/alfresco-community-4.0.c-installer-linux-x64.bin.MD5/download
-
 
 ###Deployment steps:
 1.Now click on deploy to deploy the application.
@@ -23,8 +21,8 @@ Step2: Application Properties -> Service tab
 	i. Application Properties -> Service tab -> Alfresco
 	
 		a. mysql_connector: Enter the path of NFS server where mysql-connector-java-5.0.8.tar.gz file is located 
-        b. installer_url: Enter the installer URL to install Alfresco Enterprise application    
-        c.alfresco_admin_password: Enter the password 
+	        b. installer_url: Enter the installer URL to install Alfresco Enterprise application    
+	        c.alfresco_admin_password: Enter the password 
 
 ![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Alfresco-MySql-Application-Blueprint-50/Service-Property-Alfresco.png)
              
