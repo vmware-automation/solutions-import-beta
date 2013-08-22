@@ -7,15 +7,10 @@ There are  few final steps you need to follow before perform this deployment.
 
 Download liferay installer "liferay-portal-tomcat-6.1.0-ce-ga1-20120106155615760.zip" ,"mysql-connector-java-5.0.8.tar.gz" and "alfresco_share.war" file from following link and keep it in your local webserver folder.
  
-1. **liferay-portal-tomcat-6.1.1-ce-ga2-20120731132656558.zip** :
-    *http://sourceforge.net/projects/lportal/files/latest/download/liferay-portal-tomcat-6.1.1-ce-ga2-20120731132656558.zip*
-
-2. **Share.war** : 
-    *ftp://10.44.50.7/AppDirector/applications/LifeRay/share.war*
-
-
-3. **mysql-connector-java-5.0.8.tar.gz** :
-    *ftp://10.44.50.7/AppDirector/applications/LifeRay/mysql-connector-java-5.0.8.tar.gz
+	1. liferay-portal-tomcat-6.1.1-ce-ga2-20120731132656558.zip
+	2. Share.war
+	3. mysql-connector-java-5.0.8.tar.gz
+    
 
 
 ###Deployment steps:
