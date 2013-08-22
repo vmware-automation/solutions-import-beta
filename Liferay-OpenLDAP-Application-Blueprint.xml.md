@@ -5,19 +5,10 @@ There are  few final steps you need to follow before performing this deployment.
 
 ###Prerequisites:
 
-Before starting with the steps, download the liferay installer "liferay-portal-tomcat-6.1.0-ce-ga1-20120106155615760.zip", "mysql-connector-java-5.0.8.tar.gz", "Share.war" files and keep it in your local webserver folder.
-
-
-1. **liferay-portal-tomcat-6.1.0-ce-ga1-20120106155615760.zip** :
-    http://sourceforge.net/projects/lportal/files/Liferay%20Portal/6.1.0%20GA1/liferay-portal-maven-6.1.0-ce-ga1-20120106155615760.zip/download
-
-2. **Share.war** : 
-    *ftp://10.44.50.7/AppDirector/applications/LifeRay/share.war*
-
-
-3. **mysql-connector-java-5.0.8.tar.gz** :
-    *ftp://10.44.50.7/AppDirector/applications/LifeRay/mysql-connector-java-5.0.8.tar.gz*
-
+Download the following files and keep it in your local web server folder.
+	1. liferay-portal-tomcat-6.1.0-ce-ga1-20120106155615760.zip
+	2. Share.war
+	3. mysql-connector-java-5.0.8.tar.gz
 
 ###Deployment steps:
 1.Now click on deploy to deploy the application.
