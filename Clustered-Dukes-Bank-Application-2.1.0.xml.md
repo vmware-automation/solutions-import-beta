@@ -5,11 +5,10 @@ There are  few final steps you need to follow before performing this deployment.
 
 ###Prerequisites:
 
-Download the following files and keep it in your local webserver folder. 
+Download the following files and keep it in your local web server folder. 
 
 	1. ZeusTM_93_Linux-x86_64
-	2. Cheetah-2.4.4.tar.gz
-	3. Jboss-5.1-0.GA.zip
+	2. Jboss-5.1-0.GA.zip
 	
 ###Deployment steps:
 1.Now click on deploy to deploy the application.
