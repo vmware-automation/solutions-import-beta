@@ -5,7 +5,7 @@
 		},        
 		"applications":{            
 			"applicationDirectorWebImport":{                
-				"exportFileName":"Virtual-Machine-System-Report-Custom-task-sbp.xml",                
+				"exportFileName":"Virtual-Machine-System-Report-Custom-task-sbp1.xml",                
 				"exportedFileReadme":"Virtual-Machine-System-Report-Custom-task.xml.readme",                
 				"importSectionHeader":"Virtual-Machine-System-Report-Custom-task",                
 				"exportedWithAppDVersion":5.0,                
