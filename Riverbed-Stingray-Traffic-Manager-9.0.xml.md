@@ -40,7 +40,7 @@ Step 3: Application Properties -> Service tab ->Riverbed_Stingray_Traffic_Manage
 
 ###Smoke test after deployment:
 
-Verify the URL http://WebPortal_IP:8080/apps/zxtm/login.cgi
+Verify deployment by accessing URL http://WebPortal_IP:8080/apps/zxtm/login.cgi
 
 ![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Riverbed-Stingray-Traffic-Manager-9_0-Service-50/Smoke-test-Login-Page.png)
 ![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Riverbed-Stingray-Traffic-Manager-9_0-Service-50/Smoke-test-Logout-Page.png)
