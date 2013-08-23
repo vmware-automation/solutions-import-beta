@@ -4,7 +4,7 @@ Blueprint has been successfully imported in  vFabric Application Director.
 There are  few final steps you need to follow before performing this deployment.
 
 ###Prerequisites:
-Download the following  files and keep them in your local web server folder.
+Download the following  files and keep them in local web server folder.
 
 1. mysql-connector-java-5.0.8.tar.gz
 2. liferay-portal-tomcat-6.1.1-ce-ga2-20120731132656558.zip
