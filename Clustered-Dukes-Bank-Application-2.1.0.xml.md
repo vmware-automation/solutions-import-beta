@@ -5,7 +5,7 @@ There are  few final steps you need to follow before performing this deployment.
 
 ###Prerequisites:
 
-Download the following files and keep it in your local web server folder. 
+Download the following files and keep it in local web server folder. 
 
 	1. ZeusTM_93_Linux-x86_64
 	2. Jboss-5.1-0.GA.zip
