@@ -1,16 +1,15 @@
 #Success
-Blueprint has been successfully imported in your local vFabric Application Director. 
+Blueprint has been successfully imported in vFabric Application Director. 
 
 There are few final steps you need to follow before performing this deployment.
 
 ###Prerequisites:
 
-Download the "latest.zip" file from following link and keep it in your local webserver folder.
-
-http://piwik.org/latest.zip
+None
 
 
 ###Deployment steps:
+
 1.Now click on deploy to deploy the application.
 
 2.Enter name for deployment profile.
@@ -40,7 +39,7 @@ Step2: Application Properties -> Service tab
 
 ![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Piwik-1_8_2-Linux-Blueprint-InterraIT-50/Piwik-1.8.2-on-Linux-Blueprint-InterraIT-canvas.png)
 
-###Ready to go for deployment
+###Ready to go for deployment.
 
 
 ###Smoke test after deployment:
