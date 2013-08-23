@@ -5,18 +5,14 @@ Sample Blueprint is with Service and one of the supported operating system. User
 
 There are few final steps you need to follow before performing deployment.
 
-
 ###Prerequisites:
 
 Download the following files and keep these in your local web server folder.  
 
 	
 	1. Alfresco_enterprise-4.0.1_installer.bin
-	    
 	2. mysql-connector-java.tar.gz
-    
 
- 
 ###Deployment steps:
 
 After importing Blueprint in vFabric Application Director, you can proceed with application deployment. The basic steps are as follows:
