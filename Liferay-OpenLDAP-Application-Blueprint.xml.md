@@ -1,5 +1,5 @@
 #Success
-Blueprint has been successfully imported in your local vFabric Application Director. 
+Blueprint has been successfully imported in vFabric Application Director. 
 
 There are  few final steps you need to follow before performing this deployment.
 
@@ -22,7 +22,6 @@ Step1: Deployment Environment tab will be displayed. Enter proper values as per 
 Step2: Application Properties -> Service tab -> OpenLDAP	
 	
  			i. rootpw: root password
-	
 
 ![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Liferay-OpenLDAP-Application-Blueprint-50/Service-property-OpenLdap.png) 
 
