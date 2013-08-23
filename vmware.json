@@ -5,7 +5,7 @@
 		},        
 		"applications":{            
 			"applicationDirectorWebImport":{                
-				"exportFileName":"Riverbed-Stingray-Traffic-Manager-9.0.xml",                
+				"exportFileName":"Riverbed-Stingray-Traffic-Manager-9.0-sbp.xml",                
 				"exportedFileReadme":"Riverbed-Stingray-Traffic-Manager-9.0.xml.readme",                
 				"importSectionHeader":"Riverbed-Stingray-Traffic-Manager-9.0",                
 				"exportedWithAppDVersion":5.0,                
