@@ -5,7 +5,7 @@ There are  few final steps you need to follow before performing this deployment.
 
 ###Prerequisites:
 
-Download the following files and keep it in your  web server folder.
+Download the following files and keep it in local web server folder.
 1. wso2esb-4.0.3.zip
 2. apache-ant-1.8.4-bin.tar.gz
 
@@ -25,7 +25,6 @@ Step2: Application Properties -> Service tab
 
 ![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/WSO2-ESB-4_0_3_Linux-Blueprint-50/WSO2-ESB-4.0.3-for-Linux-Blueprint-by-InterraIT_properties.jpg)
 
-		
 ###Blueprint Canvas diagram for your reference: 
 
 ![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/WSO2-ESB-4_0_3_Linux-Blueprint-50/WSO2-ESB-4.0.3-for-Linux-Blueprint-by-InterraIT_Canvas.png)
