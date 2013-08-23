@@ -5,12 +5,11 @@ There are  few final steps you need to follow before performing this deployment.
 
 ###Prerequisites:
 
-Download "xplanner-plus.war" file from the following link and keep it in your local web server folder.
+Download the following file and keep it in your local web server folder.
 
 
-1. **Xplanner-plus.war** : 
-    *http://sourceforge.net/projects/xplanner-plus/files/v1.0b3/xplanner-plus.war/download*
-
+1. Xplanner-plus.war
+    
 
 ###Deployment steps:
 1.Now click on deploy to deploy the application.
