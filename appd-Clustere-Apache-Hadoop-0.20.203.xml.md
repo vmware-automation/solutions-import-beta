@@ -1,14 +1,13 @@
 #Success
-Blueprint has been successfully imported in your local vFabric Application Director. 
+Blueprint has been successfully imported in vFabric Application Director. 
 
-There are  few final steps you need to follow before perform this deployment.
+There are  few final steps you need to follow before performing this deployment.
 
 ###Prerequisites:
 
-Download the "HadoopDemoApp.war" and "job.sh" files form following links and keep in your local webserver folder.
+Download the "HadoopDemoApp.war" and "job.sh" files form following links and keep in local web server folder.
 
 https://github.com/vmware-applicationdirector/solutions-import-beta/tree/appd-Clustere-Apache-Hadoop-50-blueprint
-
 
 ###Deployment steps:
 1.Now click on deploy to deploy the application.
@@ -37,11 +36,11 @@ Step2: Application Properties -> Service tab
 	
 ![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/appd-Clustere-Apache-Hadoop-50-blueprint/AfterDeployment-Step2.jpg)
 	
-##Blueprint Canvas diagram for your reference: 
+###Blueprint Canvas diagram for your reference: 
 
 ![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/appd-Clustere-Apache-Hadoop-50-blueprint/Hadoop-Canvas-Diagram.png)
 
-##Ready to go for deployment
+###Ready to go for deployment
 
 
 
