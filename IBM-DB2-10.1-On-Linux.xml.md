@@ -5,8 +5,7 @@ There are  few final steps you need to follow before performing the deployment.
 
 ###Prerequisites:
 
-Download the IBM DB2 tar ball and keep it in your local web server folder.
-
+Download the IBM DB2 tar ball and keep it in local web server folder.
 
 ###Deployment steps:
 1.Now click on deploy to deploy the application.
@@ -32,7 +31,6 @@ Step2: Application Properties -> Service tab
 ![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/IBM-DB2-10_1-Linux-Blueprint-50/IBM-DB2-10.1-On-Linux-Blueprint_Canvas.jpg)
 
 ###Ready to go for deployment
-
 
 ###Smoke Test Plan after deployment
 
