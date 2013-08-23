@@ -20,11 +20,9 @@ Step 3: Enter required property values appropriate to your environment.
 		a.Application Properties -> Service tab ->OpenLDAP
 
 			i. rootpw: Enter the root password 
-			
-Step 4: Save the Application and proceed for deployment
-   
-
 ![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/OpenLDAP-service-50/OpenLDAP-service-Application-Properties.png)
+
+Step 4: Save the Application and proceed for deployment
 
 ###Blueprint Canvas diagram for your reference: 
 
