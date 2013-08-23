@@ -10,6 +10,7 @@ There are few final steps you need to follow before performing deployment.
 Download the following file and keep it in  local web Server folder.
 
 1. jboss-as-7.1.0.Final.zip 
+
 ###Deployment steps:
 After importing Blueprint in vFabric Application Director, you can proceed with application deployment. The basic steps are as follows:
 
