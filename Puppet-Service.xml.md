@@ -5,11 +5,9 @@ Sample Blueprint is with Service and one of the supported operating system. User
 
 There are few final steps you need to follow before performing deployment.
 
-
 ###Prerequisites:
 
-Download the puppet/Puppet Enterprise package for the corresponding Operating System and keep it in your local web server folder. Example: puppet-enterprise-2.5.3-el-5-x86_64.tar.gz for Ubuntu 32 bit (10.4).
-
+Download the puppet/Puppet Enterprise package for the corresponding Operating System and keep it in  local web server folder. Example: puppet-enterprise-2.5.3-el-5-x86_64.tar.gz for Ubuntu 32 bit (10.4).
 
 puppet : https://pm.puppetlabs.com/puppet-enterprise 
 
