@@ -1,7 +1,7 @@
 #Success
-Blueprint has been successfully imported in your local vFabric Application Director. 
+Blueprint has been successfully imported in  vFabric Application Director. 
 
-There are  few final steps you need to follow before perform this deployment.
+There are  few final steps you need to follow before performing this deployment.
 
 ###Prerequisites:
 
