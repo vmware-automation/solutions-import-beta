@@ -5,7 +5,7 @@ There are  few final steps you need to follow before performing this deployment.
 
 ###Prerequisites:
 
-Download the following files and keep it in your local web server folder:
+Download the following files and keep it in local web server folder:
 
 	1. liferay-portal-tomcat-6.1.0-ce-ga1-20120106155615760.zip
 	2. Share.war
