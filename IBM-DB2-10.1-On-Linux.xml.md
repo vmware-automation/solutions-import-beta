@@ -1,13 +1,13 @@
 #Success
-Blueprint has been successfully imported in your local vFabric Application Director. 
+Blueprint has been successfully imported in vFabric Application Director. 
 
-There are  few final steps you need to follow before perform this deployment.
+There are  few final steps you need to follow before performing the deployment.
 
 ###Prerequisites:
 
-Download the IBM DB2 tar ball and keep it in your local webserver folder.
+Download the IBM DB2 tar ball and keep it in your local web server folder.
 
-No url link
+
 ###Deployment steps:
 1.Now click on deploy to deploy the application.
 
@@ -27,18 +27,17 @@ Step2: Application Properties -> Service tab
 ![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/IBM-DB2-10_1-Linux-Blueprint-50/IBM-DB2-10.1-On-Linux-Blueprint_properties.jpg)
 
 		
-##Blueprint Canvas diagram for your reference: 
+###Blueprint Canvas diagram for your reference: 
 
 ![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/IBM-DB2-10_1-Linux-Blueprint-50/IBM-DB2-10.1-On-Linux-Blueprint_Canvas.jpg)
 
-##Smoke Test Plan
+###Ready to go for deployment
+
+
+###Smoke Test Plan after deployment
 
 Create JDBC connection to access the DB. URL to be used:
 String url = "jdbc:db2://<db_machine_ip>:50000/<db_name>";
-
-	no screen shot
-
-##Ready to go for deployment
 
 
 
