@@ -5,7 +5,7 @@ There are  few final steps you need to follow before performing this deployment.
 
 ###Prerequisites:
 
-Download the "Joomla_1.5.25-Stable-Full_Package.tar.gz" and "phpMyAdmin-3.5.2-all-languages.tar.gz" file from the following link and keep it in your local webserver folder.
+Download the following files and keep it in local web server folder.
 
 1. **Joomla_1.5.25-Stable-Full_Package.tar.gz** : 
     http://joomlacode.org/gf/download/frsrelease/16026/69664/Joomla_1.5.25-Stable-Full_Package.tar.gz
@@ -35,7 +35,7 @@ Step2: Application Properties -> Service tab -> Lamp_Stack
 
 ![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Joomla-Blueprint-50/Joomla-Blueprint-50-Blueprint-Canvas.png)
 
-###Ready to go for deployment
+####Ready to go for deployment
 
 ###Smoke test after deployment:
 
