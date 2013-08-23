@@ -5,9 +5,9 @@ There are  few final steps you need to follow before performing this deployment.
 
 ###Prerequisites:
 
-Download the following file and keep it in your local webserver folder.
+Download the following file and keep it in local webserver folder.
 
-phpMyAdmin-3.5.2-all-languages.tar.gz: http://citylan.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/3.5.2/phpMyAdmin-3.5.2-all-languages.tar.gz
+1. phpMyAdmin-3.5.2-all-languages.tar.gz: http://citylan.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/3.5.2/phpMyAdmin-3.5.2-all-languages.tar.gz
 
 ###Deployment steps:
 1.Now click on deploy to deploy the application.
