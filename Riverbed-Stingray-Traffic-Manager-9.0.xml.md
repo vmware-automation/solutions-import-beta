@@ -1,11 +1,18 @@
 #Success
-Service has been successfully imported in your local vFabric Application Director. 
+Service has been successfully imported in  vFabric Application Director. 
 
 There are few final steps you need to follow before performing deployment.
 
 ###Prerequisites:
 
-download Riverbed Stingray Traffic Manager developer edition from https://support.riverbed.com/software/stingray/trafficmanager.htm and and keep it in your local webserver folder.
+Download the following files and  and keep it in your local webserver folder.
+
+1. **Stingray Traffic Manager Version 9.3 (32-bit)** :
+    https://support.riverbed.com/download.htm?sid=jvrmms6hm502u6jv11ij9vk92s
+
+
+2. **Stingray Traffic Manager Version 9.3 (64-bit)** :
+    https://support.riverbed.com/download.htm?sid=qbr1k45ualc3gijn0qavnjaei7
 
 ###Deployment steps:
 
@@ -13,13 +20,13 @@ After importing Service in Application Director, you can start using it to deplo
 
 Step 1:
 
-	1. Create a new Application.
+	   1. Create a new Application.
 	 
-    2. On the Blueprint canvas, drag and drop the supported OS template from the Logical Templates menu.
-
-    3. From the Services menu, drag and drop this service to OS template.
-
-    4. Save the Application.
+	    2. On the Blueprint canvas, drag and drop the supported OS template from the Logical Templates menu.
+	
+	    3. From the Services menu, drag and drop this service to OS template.
+	
+	    4. Save the Application.
     
 Step 2: Deployment Environment tab will be displayed. Enter proper property values as per your environment and click next.
 
@@ -29,12 +36,19 @@ Step 3: Application Properties -> Service tab ->Riverbed_Stingray_Traffic_Manage
 			b. Stingray_Node_IPs: Enter the IP addresses of Backend Nodes
 ![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Riverbed-Stingray-Traffic-Manager-9_0-Service-50/Riverbed-Stingray-Traffic-Manager-9.0_properties.jpg)  
 	
-##Blueprint Canvas diagram for your reference: 
+###Blueprint Canvas diagram for your reference: 
 
 ![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Riverbed-Stingray-Traffic-Manager-9_0-Service-50/Riverbed-Stingray-Traffic-Manager-9.0-Canvas.jpg)
 
+###Ready to go for deployment
 
-##Ready to go for deployment
+###Smoke test after deployment:
+
+Verify the URL http://WebPortal_IP:8080/apps/zxtm/login.cgi
+
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Riverbed-Stingray-Traffic-Manager-9_0-Service-50/Smoke-test-Login-Page.png)
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Riverbed-Stingray-Traffic-Manager-9_0-Service-50/Smoke-test-Logout-Page.png)
+
 
 
 
