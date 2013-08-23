@@ -1,15 +1,13 @@
 #Success
-Blueprint has been successfully imported in your local vFabric Application Director. 
+Blueprint has been successfully imported in vFabric Application Director. 
 
 There are  few final steps you need to follow before performing this deployment.
 
 ###Prerequisites:
 
-Download the following file and keep it in your local web server folder.
-
+Download the following file and keep it in local web server folder.
 
 1. Xplanner-plus.war
-    
 
 ###Deployment steps:
 1.Now click on deploy to deploy the application.
@@ -58,13 +56,11 @@ Step3: Application Properties
 
 ![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/XPlanner-Project-Mgmt-Appl-1_0-b3-Blueprint-50/Blueprint-Canvas.png)
 
-##Ready to go for deployment
+###Ready to go for deployment
 
 ###Smoke test after deployment:
 
 Verify deployment by accessing URL http://WebPortal_IP:8081/
-
-
 ![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/XPlanner-Project-Mgmt-Appl-1_0-b3-Blueprint-50/Smoke-Test.png)
 
 
