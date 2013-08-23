@@ -7,7 +7,7 @@ There are few final steps you need to follow before performing deployment.
 
 ###Prerequisites:
 
-Download the following files and keep these in your local web server folder.  
+Download the following files and keep these in local web server folder.  
 
 	
 	1. Alfresco_enterprise-4.0.1_installer.bin
