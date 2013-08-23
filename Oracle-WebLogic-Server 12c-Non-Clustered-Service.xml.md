@@ -7,7 +7,7 @@ There are few final steps you need to follow before performing deployment.
 
 ###Prerequisites:
 
-Download the  "WebLogic Server installer"(Rename the WebLogic Server installer to webLogicInstaller.bin),"demoapp.war" and  keep it in your local web server folder.
+Download the  "WebLogic Server installer"(Rename the WebLogic Server installer to webLogicInstaller.bin),"demoapp.war" and  keep it in  local web server folder.
 
 ###Deployment steps:
 After importing Blueprint in vFabric Application Director, you can proceed with application deployment. The basic steps are as follows:
@@ -40,9 +40,9 @@ Step 4: Save the Application and proceed for deployment
 
 ###Smoke test after deployment:
 	
-Log into the WebLogic server console at http://<deployed IP>:7001/console/login/LoginForm.jsp
+Log into the WebLogic server console : http://<deployed IP>:7001/console/login/LoginForm.jsp
 	
-Log into the application at http://<deployed IP>:7001/TestWebApp/
+Log into the application  http://<deployed IP>:7001/TestWebApp/
 
 ![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Oracle-WebLogic-Server-12c-Non-Clustered-Service-50/Oracle-WebLogic-Server-12c-Non-Clustered-Service-Smoke-Test.png)
 
