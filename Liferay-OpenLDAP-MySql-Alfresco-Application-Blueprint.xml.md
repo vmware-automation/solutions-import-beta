@@ -1,5 +1,5 @@
 #Success
-Blueprint has been successfully imported in your local vFabric Application Director. 
+Blueprint has been successfully imported in  vFabric Application Director. 
 
 There are  few final steps you need to follow before performing this deployment.
 
@@ -57,13 +57,11 @@ Step5: Application Properties -> Service tab -> Alfresco
 
 ![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Liferay-OpenLDAP-MySql-Alfresco-App-Blueprint-50/Blueprint-Canvas.png)
 
-##Ready to go for deployment
+###Ready to go for deployment
 
 ###Smoke Test after deployment
-		
-Go to browser and type: http ://< WebPortal IP >:8080/
 
-User is redirected to Liferay home page. 
+Verify deployment by accessing URL : http://< WebPortal IP >:8080/
 
 ![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Liferay-OpenLDAP-MySql-Alfresco-App-Blueprint-50/Smoke-test.png)
 
