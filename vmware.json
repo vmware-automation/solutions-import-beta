@@ -5,7 +5,7 @@
 		},        
 		"applications":{            
 			"applicationDirectorWebImport":{                
-				"exportFileName":"LAMP-Stack-1.7.7-Blueprint-InterraIT.xml",                
+				"exportFileName":"LAMP-Stack-1.7.7-Blueprint-InterraIT-sbp.xml",                
 				"exportedFileReadme":"LAMP-Stack-1.7.7-Blueprint-InterraIT.xml.readme",                
 				"importSectionHeader":"LAMP-Stack-1.7.7-Blueprint-InterraIT",                
 				"exportedWithAppDVersion":5.0,                
