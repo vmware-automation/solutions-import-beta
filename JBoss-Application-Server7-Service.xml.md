@@ -7,12 +7,9 @@ There are few final steps you need to follow before performing deployment.
 
 ###Prerequisites:
 
-Download the following file and keep it in your local NFS Server folder.
+Download the following file and keep it in  local web Server folder.
 
 1. jboss-as-7.1.0.Final.zip 
-    
-
-
 ###Deployment steps:
 After importing Blueprint in vFabric Application Director, you can proceed with application deployment. The basic steps are as follows:
 
@@ -42,12 +39,11 @@ Step 4: Save the Application and proceed for deployment
 
 ###Smoke test after deployment:
 
-Verify deployment by accessing URL http ://< WebPortal IP >:8080/
+Verify deployment by accessing URL http://< WebPortal IP >:8080/
 
 click on "Administrative Console"
 
 ![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/JBoss-Application-Server7-Service-50/Smoke-test-Login-page.png)
-
 
 ![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/JBoss-Application-Server7-Service-50/Smoke-test-Index-page.png)
 
