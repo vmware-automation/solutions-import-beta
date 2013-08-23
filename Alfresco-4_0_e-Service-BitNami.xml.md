@@ -55,10 +55,10 @@ Step 4: Save the Application and proceed for deployment
 
 ###Smoke test after deployment:
 
-Verify deployment by accessing URL: http ://< WebPortal IP >:8080/alfresco 
+Verify deployment by accessing URL: http://< WebPortal IP >:8080/alfresco 
 
-![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Alfresco-4_0_e-Service-BitNami-50/Smoke-Test.png)
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Alfresco-4_0_e-Service-BitNami-50/Alfresco_Login.jpg)
 
-
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Alfresco-4_0_e-Service-BitNami-50/Alfresco2.jpg)
 
  
