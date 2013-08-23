@@ -1,11 +1,11 @@
 #Success
-Blueprint has been successfully imported in your local vFabric Application Director. 
+Blueprint has been successfully imported in  vFabric Application Director. 
 
-There are  few final steps you need to follow before perform this deployment.
+There are  few final steps you need to follow before performing this deployment.
 
 ###Prerequisites:
 
-Download  the following files and keep them in your local webserver folder.
+Download  the following files and keep them in your local web server folder.
 
 		
 	1. Alfresco_enterprise-4.1.5_installer.bin
@@ -52,7 +52,6 @@ Step 2: Application Properties -> Service tab
 
 
 ###Smoke test after deployment:
-
 
 Verify deployment by accessing URL http://WebPortal_IP:8080/
 
