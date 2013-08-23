@@ -6,7 +6,6 @@ There are few final steps you need to follow before performing this deployment.
 ###Prerequisites:
 
 None
-
 ###Deployment steps:
 
 1.Now click on deploy to deploy the application.
