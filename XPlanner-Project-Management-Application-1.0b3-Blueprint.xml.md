@@ -52,7 +52,7 @@ Step3: Application Properties
 	
 ![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/XPlanner-Project-Mgmt-Appl-1_0-b3-Blueprint-50/Application-Component-Property-xplanner-db.png)
 	
-##Blueprint Canvas diagram for your reference: 
+###Blueprint Canvas diagram for your reference: 
 
 ![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/XPlanner-Project-Mgmt-Appl-1_0-b3-Blueprint-50/Blueprint-Canvas.png)
 
