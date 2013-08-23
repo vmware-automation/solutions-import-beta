@@ -35,6 +35,7 @@ Step2: Application Properties -> Service tab
 ###Smoke Test Plan after deployment
 
 Create JDBC connection to access the DB. URL to be used:
+
 String url = "jdbc:db2://<db_machine_ip>:50000/<db_name>";
 
 
