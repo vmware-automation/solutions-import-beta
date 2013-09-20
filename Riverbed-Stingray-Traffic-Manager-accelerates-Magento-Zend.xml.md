@@ -47,7 +47,8 @@ Step2: Application Properties -> Service tab
       h. zend license key         : Enter the zend license key 
       i. zendmanager license key  : Enter the zendmanager license key
       j. zendmanager order number : Enter the zendmanager trial license order number
-![alt tag][https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Riverbed-Stingray-Traffic-Manager-accelerates-Magento-50/Zend-Server-PHP-Cluster-Manager-Service.jpg]
+      
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Riverbed-Stingray-Traffic-Manager-accelerates-Magento-50/Zend-Server-PHP-Cluster-Manager-Service.jpg)
 
       ii. Application Properties -> Service tab -> Zend_Server_PHP_Application_Server
 
@@ -57,28 +58,28 @@ Step2: Application Properties -> Service tab
       d. zend api key         : Enter the encrypted key value
       e. zend node ui password: Enter the password to access zend  
            
-![alt tag][https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Riverbed-Stingray-Traffic-Manager-accelerates-Magento-50/Zend-Server-PHP-Cluster-Application-Manager-Service.jpg]
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Riverbed-Stingray-Traffic-Manager-accelerates-Magento-50/Zend-Server-PHP-Cluster-Application-Manager-Service.jpg)
     
      iii. Application Properties -> Service tab -> Mysql 
       a. db_root_password      : Enter the Mysql database root password 
-![alt tag][https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Riverbed-Stingray-Traffic-Manager-accelerates-Magento-50/Stingray-Traffic-Manager-Accelerates-Magento-MySQL-Property.jpg]     
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Riverbed-Stingray-Traffic-Manager-accelerates-Magento-50/Stingray-Traffic-Manager-Accelerates-Magento-MySQL-Property.jpg)    
      
      iv. Application Properties -> Service tab -> Stingray Traffic Manager accelerates magento
       a. Stingray download URL : Enter the URL to download stingray software
-![alt tag][https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Riverbed-Stingray-Traffic-Manager-accelerates-Magento-50/Stingray-Traffic-Manager-Accelerates-Magento-Service.jpg]
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Riverbed-Stingray-Traffic-Manager-accelerates-Magento-50/Stingray-Traffic-Manager-Accelerates-Magento-Service.jpg)
 Step3: Application Properties -> Application Component 
 
      i. Application Properties -> Application Component -> init_magento_db 
       a.magento_db_password    : Enter the password to access magento Database
-![alt tag][https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Riverbed-Stingray-Traffic-Manager-accelerates-Magento-50/Stingray-Traffic-Manager-Accelerates-Magento-Application-Property-init-magento-db.jpg]
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Riverbed-Stingray-Traffic-Manager-accelerates-Magento-50/Stingray-Traffic-Manager-Accelerates-Magento-Application-Property-init-magento-db.jpg)
     ii.Application Properties -> Application Component -> Magento
       a.magento_admin_password : Enter the password to access magento Ecommerce Portal 
 
-![alt tag][https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Riverbed-Stingray-Traffic-Manager-accelerates-Magento-50/Stingray-Traffic-Manager-Accelerates-Magento-Application-Property-Magento-DB.jpg]
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Riverbed-Stingray-Traffic-Manager-accelerates-Magento-50/Stingray-Traffic-Manager-Accelerates-Magento-Application-Property-Magento-DB.jpg)
 	
 ###Blueprint Canvas diagram for your reference: 
 
-![alt tag][https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Riverbed-Stingray-Traffic-Manager-accelerates-Magento-50/Stingray-Traffic-Manager-Accelerates-Magento-Canvas.jpg]
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Riverbed-Stingray-Traffic-Manager-accelerates-Magento-50/Stingray-Traffic-Manager-Accelerates-Magento-Canvas.jpg)
 
 ###Ready to go for deployment
 
@@ -86,11 +87,12 @@ Step3: Application Properties -> Application Component
 
 Verify deployment by accessing of Magento IP URL:  http://Zend_Appnode_1_IP:80/index.php/
 
-![alt tag][https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Riverbed-Stingray-Traffic-Manager-accelerates-Magento-50/Smoke-test-Magento-Admin-Panel.jpg]
-![alt tag][https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Riverbed-Stingray-Traffic-Manager-accelerates-Magento-50/Smoke-test-Magento-Website.jpg]
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Riverbed-Stingray-Traffic-Manager-accelerates-Magento-50/Smoke-test-Magento-Admin-Panel.jpg)
+
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Riverbed-Stingray-Traffic-Manager-accelerates-Magento-50/Smoke-test-Magento-Website.jpg)
 
 Verify deployment by accessing of Stingray Traffic Managers Instance IP URL:  http://:<Stingray Traffic Managers Instance IP>8080/index.php/
-![alt tag][https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Riverbed-Stingray-Traffic-Manager-accelerates-Magento-50/Smoke-test-Stingray-Admin-Console.jpg]
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Riverbed-Stingray-Traffic-Manager-accelerates-Magento-50/Smoke-test-Stingray-Admin-Console.jpg)
 
 
 
