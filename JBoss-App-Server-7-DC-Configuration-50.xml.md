@@ -29,7 +29,7 @@ Step2: Application Properties -> Service tab
 	 b. domain_init_script : Enter the path of jboss-as-domain-slave.sh
 	 c. host_slave :Enter the path of host-slave.xml
 
-![alt tag]()
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/JBoss-App-Server-7-DC-Configuration-50/JBoss-App-Server-7-DC-Configuration-slave1-properties.png)
   
   ii. Application Properties -> Service tab -> JBoss_7_Slave_Instance-2
 
@@ -37,7 +37,7 @@ Step2: Application Properties -> Service tab
 	 b. domain_init_script : Enter the path of jboss-as-domain-slave.sh
 	 c. host_slave :Enter the path of host-slave.xml
  
-![alt tag]()
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/JBoss-App-Server-7-DC-Configuration-50/JBoss-App-Server-7-DC-Configuration-slave2-properties.png)
 	  
   iii.  Application Properties -> Service tab ->JBoss_7_Domain_Controller
 
@@ -47,10 +47,10 @@ Step2: Application Properties -> Service tab
 	 d. host_master : Enter the path of host-master.xml
 	 e. zip_url : Enter the path of  jboss-as-7.2.0.Final.tar.gz
 	 f. master_cluster_password : Enter the master cluster password
-
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/JBoss-App-Server-7-DC-Configuration-50/JBoss-App-Server-7-DC-Configuration-dc-properties.png)
 ###Blueprint Canvas diagram for your reference: 
 
-![alt tag]()
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/JBoss-App-Server-7-DC-Configuration-50/JBoss-App-Server-7-DC-Configuration-blueprint-canvas.png)
 
 ###Ready to go for deployment
 
