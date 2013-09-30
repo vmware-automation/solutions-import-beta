@@ -67,8 +67,11 @@ You are disconnected at the moment. Type 'connect' to connect to the server or '
 [disconnected /] connect
 
 [domain@<Domain Controller IP>/] ls -l /host
+
 master
+
 slave1
+
 slave2
 
 [domain@<Domain Controller IP /] 
