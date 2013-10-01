@@ -19,14 +19,14 @@ Step2: Application Properties -> Service tab
 
 	i. Application Properties -> Service tab -> Zend_Framework
 	
-		a. zf_url : Enter the path of  ZendFramework-1.11.12.tar.gz
+	a. zf_url : Enter the path of  ZendFramework-1.11.12.tar.gz
         b. project_name   : Enter the project name 
 
-![alt tag]()                       
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Zend-Framework-for-Linux-Blueprint-50/Zend-Framework-for-Linux-Blueprint-service-properties.png)                       
 
 ###Blueprint Canvas diagram for your reference: 
 
-![alt tag]()
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Zend-Framework-for-Linux-Blueprint-50/Zend-Framework-for-Linux-Blueprint-canvas.png)
 
 ###Ready to go for deployment
 
@@ -34,7 +34,7 @@ Step2: Application Properties -> Service tab
 
 Verify deployment by accessing URL http://{ip address:port}/project_name/public
 
-![alt tag]()
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Zend-Framework-for-Linux-Blueprint-50/smoketest.png)
 
 
 
