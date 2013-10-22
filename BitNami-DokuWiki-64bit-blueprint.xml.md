@@ -32,7 +32,7 @@ Value : https://${darwin.server.ip}:8443/darwin/conf/darwin_global.conf
 Required and overridable in the Blueprint tab : Yes (Right mark)
 
 c. Add following lines in each action scripts
-
- # Import global conf
-
-. $global_conf
+   
+   # Import global conf
+   
+   . $global_conf
