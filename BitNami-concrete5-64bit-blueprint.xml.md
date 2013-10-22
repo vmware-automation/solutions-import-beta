@@ -36,3 +36,4 @@ c. Add following lines in each action scripts
   # Import global conf
 
 . $global_conf
+
