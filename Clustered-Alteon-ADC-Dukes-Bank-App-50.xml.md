@@ -21,11 +21,11 @@ Step2: Application Properties -> Service tab ->vDirect_Service
      i.adc_IP_address: Enter Management IP Address of ADC 
 
 
-![alt tag]() 
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Clustered-Alteon-ADC-Dukes-Bank-App-50/Properties.png) 
 	
 ##Blueprint Canvas diagram for your reference: 
 
-![alt tag]()
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Clustered-Alteon-ADC-Dukes-Bank-App-50/Clustered-Alteon-ADC-Dukes-Bank-App-Blueprint-canvas.png)
 
 ##Ready to go for deployment
 
@@ -33,7 +33,7 @@ Step2: Application Properties -> Service tab ->vDirect_Service
 
 Verify deployment by accessing URLe http://WebPortal_IP/bank/main.faces 
 
-![alt tag]()
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Clustered-Alteon-ADC-Dukes-Bank-App-50/Smoke-Test.png)
 
 
 
