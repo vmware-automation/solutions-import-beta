@@ -1,0 +1,20 @@
+{    
+	"vmware":{        
+		"config":{            
+			"version":1.0        
+		},        
+		"applications":{            
+			"applicationDirectorWebImport":{                
+				"exportFileName":"Alteon-VA-Service-Application-Director-50.xml",                
+				"exportedFileReadme":"Alteon-VA-Service-Application-Director-50.xml.readme",                
+				"importSectionHeader":"Alteon VA (Service) Application Director",                
+				"exportedWithAppDVersion":5.0,                
+				"optional":{                    
+					"nextStepsMarkdownFile":"Alteon-VA-Service-Application-Director-50.xml.md",                    
+					"enableConsoleLogging":true,                    
+					"exportedFileErrorReadme":"Alteon-VA-Service-Application-Director-50.xml.error.readme"                
+				}            
+			}        
+		}    
+	}
+} 
