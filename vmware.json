@@ -1,0 +1,20 @@
+{    
+	"vmware":{        
+		"config":{            
+			"version":1.0        
+		},        
+		"applications":{            
+			"applicationDirectorWebImport":{                
+				"exportFileName":"Clustered-Alteon-ADC-Dukes-Bank-App-50.xml",                
+				"exportedFileReadme":"Clustered-Alteon-ADC-Dukes-Bank-App-50.xml.readme",                
+				"importSectionHeader":"Clustered By Alteon ADC - Dukes Bank Application (Blueprint)",                
+				"exportedWithAppDVersion":5.0,                
+				"optional":{                    
+					"nextStepsMarkdownFile":"Clustered-Alteon-ADC-Dukes-Bank-App-50.xml.md",                    
+					"enableConsoleLogging":true,                    
+					"exportedFileErrorReadme":"Clustered-Alteon-ADC-Dukes-Bank-App-50.xml.error.readme"                
+				}            
+			}        
+		}    
+	}
+} 
