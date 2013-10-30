@@ -13,31 +13,31 @@ Download the "OpenLDAP Directory Server 2.3.43 installer" and keep it in local w
 
 After importing Blueprint in vFabric Application Director, you can proceed with application deployment. The basic steps are as follows:
 
-Step 1: Map the logical template with Cloud  template (Physical Template).Step 2: Navigate to Applications Tab and open the imported Application.
+Step 1: Map the logical template with Cloud template (Physical Template).
 
-Step 3: Enter required property values appropriate to your environment.
+Step 2: Navigate to Applications Tab and open the imported Application.
 
-		a.Application Properties -> Service tab ->OpenLDAP
+Step 3: Enter required property values appropriate to your environment:
 
-			i. rootpw: Enter the root password 
+Step 4: Application Properties -> Application Component tab
+
+       i. Application Properties -> Application Component -> LDIF
+
+       a. ldif_file: Enter the NFS path for ldif file on local webserver    
+
 ![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/OpenLDAP-service-50/OpenLDAP-service-Application-Properties.png)
 
-Step 4: Save the Application and proceed for deployment
+       ii. Application Properties -> Service tab -> Openldap 
 
-###Blueprint Canvas diagram for your reference: 
+       a. rootcn : cn=manager         
+       b. rootpw : Enter the root password 
+
+
+####Blueprint Canvas diagram for your reference: 
 
 ![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/OpenLDAP-service-50/OpenLDAP-service-Canvas.png)
 
-###Ready to go for deployment
-
-
-
-
-
-
-
- 
-
+####Ready to go for deployment
 
 
 
