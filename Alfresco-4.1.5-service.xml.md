@@ -25,10 +25,9 @@ Step 3: Enter required property values appropriate to your environment:
 
 	a. Application Properties -> Service tab ->Alfresco
 	
-
-	     i.installer_url: Enter URL for Alfresco application installation 
-		
-	    ii.mysql_connector: Enter mysql-connector-java Tarball path for MySql installtion and connectivity with tomcat application server 
+          i.installer_url: Enter URL for Alfresco application installation
+	
+	     ii.mysql_connector: Enter mysql-connector-java Tarball path for MySql installtion and connectivity with tomcat application server
 	
 	    iii.alfresco_admin_password : Enter the password for alfresco application login
 	 
@@ -37,8 +36,9 @@ Step 3: Enter required property values appropriate to your environment:
 
 	b. Application Properties -> Service tab -> MySQL
 
-		 i.  db_root_username: Enter the database username as root
-	         ii. db_root_password: Enter the database password 
+	     i. db_root_username: Enter the database username as root
+	     
+	     ii.db_root_password: Enter the database password 
   
 
 ![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Alfresco-Service-50/Service-Property-MySql.png)
@@ -56,7 +56,3 @@ Step 4: Save the Application and proceed for deployment
 Verify deployment by accessing URL: http ://< WebPortal IP >:8080/alfresco 
 
 ![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/Alfresco-Service-50/Smoke-Test.png)
-
-
-
- 
