@@ -25,17 +25,18 @@ Step 4: Application Properties -> Application Component tab
 
        a. ldif_file: Enter the NFS path for ldif file on local webserver    
 
-![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/OpenLDAP-service-50/OpenLDAP-service-Application-Properties.png)
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/OpenLDAP-service-50/Openldap-App-window.jpg)
 
        ii. Application Properties -> Service tab -> Openldap 
 
        a. rootcn : cn=manager         
        b. rootpw : Enter the root password 
-
+       
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/OpenLDAP-service-50/Openldap-property-window.jpg)
 
 ####Blueprint Canvas diagram for your reference: 
 
-![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/OpenLDAP-service-50/OpenLDAP-service-Canvas.png)
+![alt tag](https://raw.github.com/vmware-applicationdirector/solutions-import-beta/OpenLDAP-service-50/Blueprint.jpg)
 
 ####Ready to go for deployment
 
