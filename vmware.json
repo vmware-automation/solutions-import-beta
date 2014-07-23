@@ -5,7 +5,7 @@
 		},        
 		"applications":{            
 			"applicationDirectorWebImport":{                
-				"exportFileName":"IBM-DB2-10.1-On-Linux-sbp.xml",                
+				"exportFileName":"IBM-DB2-10.1-On-Linux.xml",                
 				"exportedFileReadme":"IBM-DB2-10.1-On-Linux.xml.readme",                
 				"importSectionHeader":"IBM-DB2-10.1-On-Linux",                
 				"exportedWithAppDVersion":5.0,                
