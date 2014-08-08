@@ -5,14 +5,20 @@
 		},        
 		"applications":{            
 			"applicationDirectorWebImport":{                
-				"exportFileName":"IBM-DB2-10.1-On-Linux.xml",                
-				"exportedFileReadme":"IBM-DB2-10.1-On-Linux.xml.readme",                
-				"importSectionHeader":"IBM-DB2-10.1-On-Linux",                
-				"exportedWithAppDVersion":5.0,                
+				"exportFileName": "IBM-Websphere-Application-Server-8.0-Clustered-Service.xml",
+                "exportedFileReadme": "IBM-Websphere-Application-Server-8.0-Clustered-Service.readme",
+                "importSectionHeader": "IBM-Websphere-Application-Server-8.0-Clustered-Service",
+                "exportedWithAppDVersion": 6.0,     
 				"optional":{                    
-					"nextStepsMarkdownFile":"IBM-DB2-10.1-On-Linux.xml.md",                    
+					"nextStepsMarkdownFile":"IBM-Websphere-Application-Server-8.0-Clustered-Service.xml.md",                    
 					"enableConsoleLogging":true,                    
-					"exportedFileErrorReadme":"IBM-DB2-10.1-On-Linux.xml.error.readme"                
+					"exportedFileErrorReadme":"IBM-Websphere-Application-Server-8.0-Clustered-Service.xml.error.readme",
+					"headerBulletPoints":[
+                        {"msg":  "A blueprint is a visual model for deployment topology. This page has an import utility that allows you to automatically render the selected application blueprint into vCloud Application Director 5.x.},
+                        {"msg": "Your Application Director instance needs to be network accessible for the import utility to work"},
+                        {"msg": "You need to have Catalog Admin and Application Architect roles to use import the blueprint into your instance of Application Director"},
+                        {"msg": "If you do not have an instance of Application Director, contact us at <a href='mailto:app-mgmt-partner-support@vmware.com'>Marketplace Support</a>"}
+                    ]
 				}            
 			}        
 		}    
