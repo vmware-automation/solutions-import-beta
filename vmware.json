@@ -8,7 +8,7 @@
 				"exportFileName": "IBM-Websphere-Application-Server-8.0-Clustered-Service.xml",
                 "exportedFileReadme": "IBM-Websphere-Application-Server-8.0-Clustered-Service.readme",
                 "importSectionHeader": "IBM-Websphere-Application-Server-8.0-Clustered-Service",
-                "exportedWithAppDVersion": 6.0,     
+                "exportedWithAppDVersion": 5.2,     
 				"optional":{                    
 					"nextStepsMarkdownFile":"IBM-Websphere-Application-Server-8.0-Clustered-Service.xml.md",                    
 					"enableConsoleLogging":true,                    
