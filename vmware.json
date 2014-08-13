@@ -8,7 +8,7 @@
 				"exportFileName":"IBM-DB2-10.1-On-Linux.xml",                
 				"exportedFileReadme":"IBM-DB2-10.1-On-Linux.xml.readme",                
 				"importSectionHeader":"IBM-DB2-10.1-On-Linux",                
-				"exportedWithAppDVersion":5.0,                
+				"exportedWithAppDVersion":5.2,                
 				"optional":{                    
 					"nextStepsMarkdownFile":"IBM-DB2-10.1-On-Linux.xml.md",                    
 					"enableConsoleLogging":true,                    
